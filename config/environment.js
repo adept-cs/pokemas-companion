@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   const ENV = {
-    modulePrefix: 'companion',
+    modulePrefix: 'pokemas-companion',
     environment,
     rootURL: '/',
     locationType: 'history',

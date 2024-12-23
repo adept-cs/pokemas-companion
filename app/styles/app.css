@@ -1,1 +1,73 @@
 /* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
+
+.menu-nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5px;
+}
+
+.banner {
+    background: black;
+    color: white;
+    text-align: center;
+    line-height: 30vh;
+    width: 90%;
+    margin: 5%;
+    height: 30vh;
+}
+
+.tierlists {
+    display: flex;
+    flex-wrap: wrap;
+
+    .damage-dealer, .hybrid, .utility {
+        margin-top: 40px;
+        width: 50%;
+    }
+}
+
+
+.header-row {
+    text-align: center;
+}
+
+.tierlist-row {
+    display: flex;
+
+    > * {
+        width: 7%;
+        border: 1px solid gray;
+    }
+
+    .tier-title {
+        display: flex;
+        background: black;
+        color: white;
+        text-transform: uppercase;
+        justify-content: center;
+        align-items: center;
+        font-size: auto;
+        width: 5%;
+    }
+
+    .red {
+        background: red;
+    }
+
+    .orange {
+        background: orange;
+    }
+
+    .yellow {
+        background: yellow;
+    }
+
+    .green {
+        background: lightgreen;
+    }
+}
+
+.sync-pair {
+    margin: 5%;
+    width: 90%;
+}

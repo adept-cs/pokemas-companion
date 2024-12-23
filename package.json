@@ -1,8 +1,8 @@
 {
-  "name": "companion",
+  "name": "pokemas-companion",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for companion goes here",
+  "description": "Small description for pokemas-companion goes here",
   "repository": "",
   "license": "MIT",
   "author": "",
@@ -22,12 +22,14 @@
     "lint:js:fix": "eslint . --fix",
     "start": "ember serve",
     "test": "concurrently \"npm:lint\" \"npm:test:*\" --names \"lint,test:\"",
-    "test:ember": "ember test"
+    "test:ember": "ember test",
+    "deploy": "ember build --environment production && ember github-pages:commit --message \"Deploy gh-pages from commit $(git rev-parse HEAD)\" && git push origin gh-pages:gh-pages"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0",
     "@babel/eslint-parser": "^7.25.9",
     "@babel/plugin-proposal-decorators": "^7.25.9",
+    "@ember/jquery": "^2.0.0",
     "@ember/optional-features": "^2.2.0",
     "@ember/string": "^4.0.0",
     "@ember/test-helpers": "^4.0.4",

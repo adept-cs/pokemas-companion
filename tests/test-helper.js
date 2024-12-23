@@ -1,5 +1,5 @@
-import Application from 'companion/app';
-import config from 'companion/config/environment';
+import Application from 'pokemas-companion/app';
+import config from 'pokemas-companion/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';
