@@ -82,7 +82,7 @@ const TierList = () => {
                         </div>
                         <div className="aplus-row tierlist-row">
                             <div className="tier-title">A+</div>
-                            {SyncPairIcon("Blue (Classic) & Aerodactyl", "", "/images/0A_KANTO/0A_KANTO_0A-02_Blueclassic.png", "red")}
+                            {SyncPairIcon("Blue (Classic) & Aerodactyl", "", "/images/0A_KANTO/0A_KANTO_0A-02_BlueClassic.png", "red")}
                             {SyncPairIcon("Olympia & Sigilyph", "", "/images/0F_KALOS/0F_KALOS_0B-07_Olympia.png", "orange")}
                             {SyncPairIcon("Diantha (Special Costume) & Keldeo", "", "/images/0Y_SEASONALS/0Z_0H_SPCostume_2021_Diantha.png", "orange")}
                             {SyncPairIcon("Sygna Suit Korrina & Marshadow", "", "/images/0F_KALOS/0F_KALOS_0B-03_SSKorrina.png", "orange")}
