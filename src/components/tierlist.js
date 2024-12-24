@@ -1,10 +1,8 @@
-import Menu from './menu';
 import SyncPairIcon from './syncpair-icon';
 
 const TierList = () => {
     return (
         <div className="tierlist-page">
-            <Menu />
             <div className="banner tierlist-banner">
                 <h1>Tier List Companion</h1>
             </div>
