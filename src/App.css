@@ -1,0 +1,118 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.menu-nav {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 5px;
+}
+
+.banner {
+  background: black;
+  color: white;
+  text-align: center;
+  line-height: 30vh;
+  width: 90%;
+  margin: 5%;
+  height: 30vh;
+}
+
+.tierlists {
+  display: flex;
+  flex-wrap: wrap;
+
+  .damage-dealer, .hybrid, .utility {
+      margin-top: 40px;
+      width: 50%;
+  }
+}
+
+
+.header-row {
+  text-align: center;
+}
+
+.tierlist-row {
+  display: flex;
+
+  > * {
+      width: 7%;
+      border: 1px solid gray;
+  }
+
+  .tier-title {
+      display: flex;
+      background: black;
+      color: white;
+      text-transform: uppercase;
+      justify-content: center;
+      align-items: center;
+      font-size: auto;
+      width: 5%;
+  }
+
+  .red {
+      background: red;
+  }
+
+  .orange {
+      background: orange;
+  }
+
+  .yellow {
+      background: yellow;
+  }
+
+  .green {
+      background: lightgreen;
+  }
+
+  .black {
+      background: black;
+  }
+}
+
+.not-included-row {
+  justify-content: center;
+}
+
+.sync-pair {
+  margin: 5%;
+  width: 90%;
+}
