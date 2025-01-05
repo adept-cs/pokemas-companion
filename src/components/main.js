@@ -5,8 +5,8 @@ import { Routes, Route } from 'react-router-dom';
 const Main = () => {
     return (
         <Routes>
-            <Route exact path='/' element={<Home/>}></Route>
-            <Route exact path='/tierlist' element={<TierList/>}></Route>
+            <Route exact path='/pokemas-companion' element={<Home/>}></Route>
+            <Route exact path='/pokemas-companion/tierlist' element={<TierList/>}></Route>
         </Routes>
     );
 }
