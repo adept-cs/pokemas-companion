@@ -13,21 +13,21 @@
 }
 
 .banner {
-    height: 30vh;
+    height: auto;
 
     > .banner-img {
-        opacity: 0.4;
+        opacity: 0.2;
         width: 100%;
         height: 100%;
         overflow: hidden;
-        position: relative;
+        position: absolute;
         object-fit: none;
     }
 
     > h1 {
         color: black;
         text-align: center;
-        line-height: 30vh;
+        line-height: 10vh;
         position: relative;
     }
 }
@@ -100,6 +100,37 @@
     .black {
         background: black;
     }
+
+    :has(.not-found) {
+        opacity: 0.2;
+    }
+
+    :has(.filter-excluded) {
+        opacity: 1;
+    }
 }
 
+.type-filters {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    width: 35%;
+    
+    > div {
+        > button {
+            background: none;
+            border: none;
+        
+            > img {
+                width: 100%;
+            }
+        }
 
+        button.selected {
+            opacity: 1;
+        }
+    
+        button:not(.selected) {
+            opacity: 0.2;
+        }
+    } 
+}
