@@ -391,7 +391,7 @@ const TierList = () => {
                             <div className="tier-title">S+</div>
                             {SyncPairIcon("Sygna Suit Steven & Deoxys (Attack Forme)", "steven-trainer psychic hoenn champion sygna-suit space-cadet tech exr-support pokefair", "/images/pair/hoenn/SS_Steven_Att.png", "red")}
                             {SyncPairIcon("Sygna Suit Serena & Zygarde (50% Forme)", "serena-trainer dragon kalos main-character sygna-suit strike exr-support master-fair", "/images/pair/0F_KALOS/0F_KALOS_0A-02_SSSerena.png", "red")}
-                            {SyncPairIcon("Irida (Special Costume) & Hisuian Zoroark", "irida-trainer ghost sinnoh special-costume nature-lover artistic strike exr-tech", "/images/pair/0D1_HISUI/Irida_Zoroark_5.png", "orange")}
+                            {SyncPairIcon("Irida (Special Costume) & Hisuian Zoroark", "irida-trainer ghost sinnoh special-costume nature-lover artistic strike exr-tech", "/images/pair/hisui/SC_Irida.png", "orange")}
                             {SyncPairIcon("Mela & Armarouge", "mela-trainer fire paldea passionate-spirit artistic sprint exr-strike pokefair", "/images/pair/paldea/Mela.png", "orange")}
                             {SyncPairIcon("Lear & Hoopa (Confined)", "lear-trainer psychic pasio rival sunglasses tech exr-strike pokefair has-lodge", "/images/pair/pasio/Lear.png", "orange")}
                             {SyncPairIcon("Klara & Galarian Slowbro", "klara-trainer poison galar gym-leader grown-woman artistic tech exr-strike pokefair", "/images/pair/0H_GALAR/Klara_Slowbro_5.png", "orange")}
@@ -399,7 +399,7 @@ const TierList = () => {
                             {SyncPairIcon("Sygna Suit Lysandre & Volcanion", "lysandre-trainer water kalos villain sygna-suit researcher strike exr-tech pokefair", "/images/pair/0F_KALOS/0F_KALOS_0D-01_ssLysandre.png", "yellow")}
                             {SyncPairIcon("Dexio & Espeon", "dexio-trainer psychic kalos battle-facility-foe knowledgeable tech exr-support pokefair", "/images/pair/0F_KALOS/Dexio_0196.png", "green")}
                             {SyncPairIcon("Jacq & Farigiraf", "jacq-trainer psychic paldea knowledgeable gadgeteer free-spirit tech exr-support pokefair", "/images/pair/paldea/Jacq.png", "green")}
-                            {SyncPairIcon("Adaman (Special Costume) & Ursaluna", "adaman-trainer ground sinnoh special-costume nature-lover artistic strike exr-support", "/images/pair/0D1_HISUI/Adaman_Ursaluna_5.png", "green")}
+                            {SyncPairIcon("Adaman (Special Costume) & Ursaluna", "adaman-trainer ground sinnoh special-costume nature-lover artistic strike exr-support", "/images/pair/hisui/SC_Adaman.png", "green")}
                         </div>
                         <div className="s-row tierlist-row">
                             <div className="tier-title">S</div>
@@ -408,22 +408,22 @@ const TierList = () => {
                             {SyncPairIcon("Poppy & Tinkaton", "poppy-trainer steel paldea elite-four fancy-lady free-spirit strike exr-sprint pokefair", "/images/pair/paldea/Poppy.png", "orange")}
                             {SyncPairIcon("Rose & Copperajah", "rose-trainer steel galar villain passionate-spirit strike exr-tech pokefair", "/images/pair/0H_GALAR/0H_GALAR_0D-01_Rose.png", "orange")}
                             {SyncPairIcon("Emma & Crobat", "emma-trainer poison kalos passionate-spirit strike exr-support pokefair", "/images/pair/0F_KALOS/0F_KALOS_0F-02_Emma.png", "yellow")}
-                            {SyncPairIcon("Palmer & Regigigas", "palmer-trainer normal sinnoh battle-facility-foe passionate-spirit veteran-trainer strike exr-tech pokefair", "/images/pair/0D_SINNOH/0D_SINNOH_0E-06_Palmer.png", "yellow")}
+                            {SyncPairIcon("Palmer & Regigigas", "palmer-trainer normal sinnoh battle-facility-foe passionate-spirit veteran-trainer strike exr-tech pokefair", "/images/pair/sinnoh/Palmer.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Hilbert & Genesect", "hilbert-trainer bug unova main-character sygna-suit unova-adventurer tech exr-strike pokefair", "/images/pair/0E_UNOVA/0E_UNOVA_0A-01_SSHilbert.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Piers & Toxtricity (Low Key Form)", "piers-trainer electric galar gym-leader sygna-suit artistic strike exr-support pokefair", "/images/pair/0H_GALAR/ssPiers_Toxtricity.png", "green")}
                             {SyncPairIcon("Sina & Glaceon", "sina-trainer ice kalos-battle-facility-foe knowledgeable sprint exr-strike pokefair", "/images/pair/0F_KALOS/Sina_0471.png", "green")}
                             {SyncPairIcon("Eusine & Suicune★", "eusine-trainer water johto cape passionate-spirit strike exr-tech pokefair shiny", "/images/pair/0B_JOHTO/0B_JOHTO_0E-01_Eusine.png", "green")}
-                            {SyncPairIcon("Barry (Special Costume) & Heracross", "barry-trainer bug sinnoh rival special-costume passionate-spirit strike exr-tech", "/images/pair/0D_SINNOH/Barry_Heracross_5.png", "green")}
+                            {SyncPairIcon("Barry (Special Costume) & Heracross", "barry-trainer bug sinnoh rival special-costume passionate-spirit strike exr-tech", "/images/pair/sinnoh/SC_Barry.png", "green")}
                         </div>
                         <div className="sminus-row tierlist-row">
                             <div className="tier-title">S-</div>
                             {SyncPairIcon("Sygna Suit Lusamine & Dusk Mane Necrozma", "lusamine-trainer psychic alola villain sygna-suit grown-woman strike exr-support master-fair", "/images/pair/0G_ALOLA/0G_ALOLA_0D-01_SSLusamine.png", "red")}
-                            {SyncPairIcon("Lucas & Dialga", "lucas-trainer dragon sinnoh main-character scarf knowledgeable tech exr-support pokefair", "/images/pair/0D_SINNOH/0D_SINNOH_0A-01_Lucas.png", "red")}
-                            {SyncPairIcon("Candice (Palentine's 2024) & Galarian Darmanitan", "candice-trainer ice sinnoh gym-leader seasonal-outfit cook strike exr-tech", "/images/pair/0D_SINNOH/Candice_Darmanitan.png", "orange")}
-                            {SyncPairIcon("Sygna Suit Cynthia & Kommo-o", "cynthia-trainer dragon sinnoh battle-facility-foe sygna-suit researcher strike exr-sprint pokefair", "/images/pair/0D_SINNOH/0D_SINNOH_0C-05_SSCynthia.png", "orange")}
+                            {SyncPairIcon("Lucas & Dialga", "lucas-trainer dragon sinnoh main-character scarf knowledgeable tech exr-support pokefair", "/images/pair/sinnoh/Lucas.png", "red")}
+                            {SyncPairIcon("Candice (Palentine's 2024) & Galarian Darmanitan", "candice-trainer ice sinnoh gym-leader seasonal-outfit cook strike exr-tech", "/images/pair/sinnoh/SO_Candice.png", "orange")}
+                            {SyncPairIcon("Sygna Suit Cynthia & Kommo-o", "cynthia-trainer dragon sinnoh battle-facility-foe sygna-suit researcher strike exr-sprint pokefair", "/images/pair/sinnoh/SS_Cynthia.png", "orange")}
                             {SyncPairIcon("Sygna Suit Red & Charizard", "red-trainer fire kanto main-character sygna-suit pallet-town strike exr-tech pokefair", "/images/pair/0A_KANTO/0A_KANTO_0A-01_SSRed.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Giovanni & Nidoking", "giovanni-trainer ground johto sygna-suit villain strike exr-support pokefair", "/images/pair/0B_JOHTO/0A_KANTO_0D-01_SSGiovanni.png", "yellow")}
-                            {SyncPairIcon("Cynthia & Garchomp", "cynthia-trainer ground sinnoh champion undella-town researcher strike exr-tech pokefair has-lodge", "/images/pair/0D_SINNOH/0D_SINNOH_0C-05_Cynthia.png", "yellow")}
+                            {SyncPairIcon("Cynthia & Garchomp", "cynthia-trainer ground sinnoh champion undella-town researcher strike exr-tech pokefair has-lodge", "/images/pair/sinnoh/Cynthia.png", "yellow")}
                             {SyncPairIcon("Emmet & Archeops", "emmet-trainer rock unova battle-facility-foe battle-partner strike exr-support pokefair", "/images/pair/0E_UNOVA/0E_UNOVA_0E-02_Emmet.png", "yellow")}
                             {SyncPairIcon("Iono (Fall 2024) & Flutter Mane", "iono-trainer ghost paldea gym-leader seasonal-outfit artistic strike exr-support", "/images/pair/paldea/SO_Iono.png", "green")}
                             {SyncPairIcon("Liza (Summer 2023) & Celesteela", "liza-trainer flying hoenn gym-leader seasonal-outfit space-cadet strike exr-none", "/images/pair/0Y_SEASONALS/0Z_0B_SUM_2023_Liza.png", "green")}
@@ -455,7 +455,7 @@ const TierList = () => {
                             {SyncPairIcon("Archie & Kyogre", "archie-trainer water hoenn villain body-builder nature-lover strike exr-tech master-fair", "/images/pair/hoenn/Archie.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Erika & Leafeon", "erika-trainer grass kanto sygna-suit battle-facility-foe artistic tech exr-none spotlight ticket", "/images/pair/0A_KANTO/0A_KANTO_0B-04_SSErika.png", "yellow")}
                             {SyncPairIcon("Iris (Fall 2022) & Naganadel", "iris-trainer poison unova seasonal-outfit pigtails undella-town tech exr-none", "/images/pair/0Y_SEASONALS/0Z_0C_FALL_2022_Iris.png", "green")}
-                            {SyncPairIcon("Riley & Lucario", "riley-trainer fighting sinnoh supernatural battle-partner battleground-foe sprint exr-strike event", "/images/pair/0D_SINNOH/Riley_Lucario.png", "green")}
+                            {SyncPairIcon("Riley & Lucario", "riley-trainer fighting sinnoh supernatural battle-partner battleground-foe sprint exr-strike event", "/images/pair/sinnoh/Riley.png", "green")}
                         </div>
                         <div className="aminus-row tierlist-row">
                             <div className="tier-title">A-</div>
@@ -474,7 +474,7 @@ const TierList = () => {
                         <div className="bplus-row tierlist-row">
                             <div className="tier-title">B+</div>
                             {SyncPairIcon("Ryuki & Turtonator", "ryuki-trainer dragon alola artistic passionate-spirit tech exr-strike spotlight ticket", "/images/pair/0G_ALOLA/Ryuki_Turtonator.png", "red")}
-                            {SyncPairIcon("Cyrus & Palkia", "cyrus-traier dragon sinnoh villain gadgeteer strike exr-none legendary-adventure", "/images/pair/0D_SINNOH/0D_SINNOH_0D-01_Cyrus.png", "red")}
+                            {SyncPairIcon("Cyrus & Palkia", "cyrus-traier dragon sinnoh villain gadgeteer strike exr-none legendary-adventure", "/images/pair/sinnoh/Cyrus.png", "red")}
                             {SyncPairIcon("Bea & Sirfetch'd", "bea-trainer fighting galar gym-leader body-builder sweet-tooth strike exr-none spotlight ticket", "/images/pair/0H_GALAR/0H_GALAR_0B-04_Bea.png", "orange")}
                             {SyncPairIcon("Hala & Crabominable", "hala-trainer ice alola trial-giver passionate-spirit melemele-family strike exr-none spotlight ticket", "/images/pair/0G_ALOLA/0G_ALOLA_0C-01_Hala.png", "orange")}
                             {SyncPairIcon("Blue & Pidgeot", "blue-trainer flying kanto champion rival pallet-town strike exr-none spotlight ticket has-lodge", "/images/pair/0A_KANTO/0A_KANTO_0A-02_Blue.png", "orange")}
@@ -493,7 +493,7 @@ const TierList = () => {
                             {SyncPairIcon("Guzma & Golisopod", "guzma-trainer bug alola villain sunglasses strike exr-none spotlight ticket", "/images/pair/0G_ALOLA/0G_ALOLA_0D-03_Guzma.png", "orange")}
                             {SyncPairIcon("May & Swampert", "may-trainer water hoenn main-character space-cadet contest-lover tech exr-none spotlight ticket has-lodge", "/images/pair/hoenn/May.png", "orange")}
                             {SyncPairIcon("Guzma (Special Costume) & Buzzwole", "guzma-trainer fighting alola villin passionate-spirit special-costume strike exr-none", "/images/pair/0Y_SEASONALS/0Z_0H_SPCostume_2021_Guzma.png", "yellow")}
-                            {SyncPairIcon("Fantina & Mismagius", "fantina-trainer ghost sinnoh gym-leader artistic contest-lover strike exr-none spotlight ticket", "/images/pair/0D_SINNOH/0D_SINNOH_0B-05_Fantina.png", "yellow")}
+                            {SyncPairIcon("Fantina & Mismagius", "fantina-trainer ghost sinnoh gym-leader artistic contest-lover strike exr-none spotlight ticket", "/images/pair/sinnoh/Fantina.png", "yellow")}
                             {SyncPairIcon("Burgh & Leavanny", "burgh-trainer bug unova gym-leader scarf artistic strike exr-none spotlight ticket", "/images/pair/0E_UNOVA/0E_UNOVA_0B-03_Burgh.png", "yellow")}
                             {SyncPairIcon("Lusamine & Lilligant", "lusamine-trainer grass alola villain grown-woman alola-adventurer strike exr-none battle-point", "/images/pair/0G_ALOLA/Lusamine_Lilligant_4.png", "yellow")}
                             {SyncPairIcon("Gladion & Silvally", "gladion-trainer normal alola rival villain alola-adventurer tech exr-none spotlight ticket has-lodge", "/images/pair/0G_ALOLA/0G_ALOLA_0A-05_Gladion.png", "green")}
@@ -511,14 +511,14 @@ const TierList = () => {
                             {SyncPairIcon("Lusamine & Pheromosa", "lusamine-trainer bug alola villain grown-woman alola-adventurer strike exr-none spotlight ticket", "/images/pair/0G_ALOLA/0G_ALOLA_0D-01_Lusamine.png", "yellow")}
                             {SyncPairIcon("Blue & Arcanine", "blue-trainer fire kanto champion rival pallet-town strike exr-none event", "/images/pair/0A_KANTO/0A_KANTO_0A-02-EP_Blue.png", "yellow")}
                             {SyncPairIcon("Lance (New Year's 2021) & Gyarados", "lance-trainer flying kanto seasonal-outfit battle-partner strike exr-none", "/images/pair/0Y_SEASONALS/0Z_0D_NY_2021_Lance.png", "green")}
-                            {SyncPairIcon("Barry & Empoleon", "barry-trainer water sinnoh rival scarf passionate-spirit strike exr-none story", "/images/pair/0D_SINNOH/0D_SINNOH_0A-03_Barry.png", "green")}
+                            {SyncPairIcon("Barry & Empoleon", "barry-trainer water sinnoh rival scarf passionate-spirit strike exr-none story", "/images/pair/sinnoh/Barry.png", "green")}
                         </div>
                         <div className="cplus-row tierlist-row">
                             <div className="tier-title">C+</div>
                             {SyncPairIcon("Drasna & Dragalge", "drasna-trainer dragon kalos elite-four free-spirit tech exr-none spotlight ticket", "/images/pair/0F_KALOS/0F_KALOS_0C-04_Drasna.png", "red")}
                             {SyncPairIcon("Steven (Summer 2020) & Alolan Sandslash", "steven-trainer ice hoenn seasonal-outfit sunglasses rock-lover strike exr-none", "/images/pair/0Y_SEASONALS/0Z_0B_SUM_2020_Steven.png", "orange")}
-                            {SyncPairIcon("Volo & Gible", "volo-trainer ground sinnoh knowledgeable researcher strike exr-none lodge-pair lodge-gacha", "/images/pair/0D1_HISUI/Volo_Gible_4.png", "orange")}
-                            {SyncPairIcon("Candice & Froslass", "candice-trainer ice sinnoh gym-leader pigtails battleground-foe strike exr-none battle-point", "/images/pair/0D_SINNOH/0D_SINNOH_0B-07_BP_Candice.png", "orange")}
+                            {SyncPairIcon("Volo & Gible", "volo-trainer ground sinnoh knowledgeable researcher strike exr-none lodge-pair lodge-gacha", "/images/pair/hisui/TL_Volo_4.png", "orange")}
+                            {SyncPairIcon("Candice & Froslass", "candice-trainer ice sinnoh gym-leader pigtails battleground-foe strike exr-none battle-point", "/images/pair/sinnoh/BP_Candice.png", "orange")}
                             {SyncPairIcon("Shauntal & Chandelure", "shauntal-trainer ghost unova elite-four glasses undella-town strike exr-none genpool ", "/images/pair/0E_UNOVA/0E_UNOVA_0C-02_Shauntal.png", "orange")}
                             {SyncPairIcon("Sophocles & Alolan Golem", "sophocles-trainer electric alola trial-giver gadgeteer strike exr-none battle-point", "/images/pair/0G_ALOLA/0G_ALOLA_0B-05_BP_Sophocles.png", "yellow")}
                             {SyncPairIcon("Gloria & Thwackey", "gloria-trainer grass galar main-character cook galar-adventurer strike exr-none lodge-pair lodge-gacha", "/images/pair/0H_GALAR/0H_GALAR_0A-02_TL_Gloria.png", "yellow")}
@@ -526,13 +526,13 @@ const TierList = () => {
                             {SyncPairIcon("Hau & Alolan Raichu", "hau-trainer electric alola rival free-spirit melemele-family strike exr-none story", "/images/pair/0G_ALOLA/0G_ALOLA_0A-03_Hau.png", "yellow")}
                             {SyncPairIcon("Koga & Crobat", "koga-trainer poison kanto elite-four scarf ninja-family tech exr-none story", "/images/pair/0A_KANTO/0A_KANTO_0B-05_Koga.png", "green")}
                             {SyncPairIcon("Roxie & Scolipede", "roxie-trainer poison unova gym-leader artistic undella-town strike exr-none genpool ", "/images/pair/0E_UNOVA/0E_UNOVA_0B-09_Roxie.png", "green")}
-                            {SyncPairIcon("Looker & Croagunk", "looker-trainer poison sinnoh veteran-trainer strike exr-none spotlight ticket", "/images/pair/0D_SINNOH/0D_SINNOH_0E-05_Looker.png", "green")}
+                            {SyncPairIcon("Looker & Croagunk", "looker-trainer poison sinnoh veteran-trainer strike exr-none spotlight ticket", "/images/pair/sinnoh/Looker.png", "green")}
                         </div>
                         <div className="c-row tierlist-row">
                             <div className="tier-title">C</div>
                             {SyncPairIcon("Player & Gyarados (Strike)", "player-trainer water main-character pasio strike exr-none egg", "/images/pair/0Z_EGGS/MALE/Egg_0130_01sa.png", "red")}
                             {SyncPairIcon("Zinnia & Salamence", "zinnia-trainer dragon hoenn cape space-cadet tech exr-none battle-point", "/images/pair/hoenn/BP_Zinnia.png", "orange")}
-                            {SyncPairIcon("Roark & Rampardos", "roark-trainer rock sinnoh gym-leader glasses rock-lover strike exr-none genpool ", "/images/pair/0D_SINNOH/0D_SINNOH_0B-01_Roark.png", "orange")}
+                            {SyncPairIcon("Roark & Rampardos", "roark-trainer rock sinnoh gym-leader glasses rock-lover strike exr-none genpool ", "/images/pair/sinnoh/Roark.png", "orange")}
                             {SyncPairIcon("Siebold (Holiday 2019) & Octillery", "siebold-trainer water kalos seasonal-outfit cook artistic tech exr-none", "/images/pair/0Y_SEASONALS/0Z_0A_HOLIDAY_2019_Siebold.png", "orange")}
                             {SyncPairIcon("Professor Sycamore & Bulbasaur", "sycamore-trainer grass kalos knowledgeable researcher strike exr-none lodge-pair lodge-free", "/images/pair/0F_KALOS/0F_KALOS_0F-01_TL_ProfSycamore.png", "yellow")}
                             {SyncPairIcon("Elesa (Palentine's 2023) & Togetic", "elesa-trainer flying unova seasonal-outfit scarf artistic strike exr-none", "/images/pair/0Y_SEASONALS/0Z_0E_PAL_2023_Elesa.png", "yellow")}
@@ -541,7 +541,7 @@ const TierList = () => {
                             {SyncPairIcon("Noland & Pinsir", "noland-trainer bug hoenn battle-facility-foe knowledgeable strike exr-none genpool ", "/images/pair/hoenn/Noland_4.png", "green")}
                             {SyncPairIcon("Bruno & Machamp", "bruno-trainer fighting kanto elite-four body-builder sweet-tooth strike exr-none genpool ", "/images/pair/0A_KANTO/0A_KANTO_0C-02_Bruno.png", "green")}
                             {SyncPairIcon("Petey (Poké Kid) & Pikachu", "petey-trainer electric galar tech exr-none event", "/images/pair/0H_GALAR/Petey_Pikachu_3.png", "green")}
-                            {SyncPairIcon("Volkner & Raichu", "volkner-trainer electric sinnoh gym-leader gadgeteer tech exr-none lodge-pair lodge-free", "/images/pair/0D_SINNOH/Volkner_0026.png", "green")}
+                            {SyncPairIcon("Volkner & Raichu", "volkner-trainer electric sinnoh gym-leader gadgeteer tech exr-none lodge-pair lodge-free", "/images/pair/sinnoh/TL_Volkner.png", "green")}
                         </div>
                         <div className="cminus-row tierlist-row">
                             <div className="tier-title">C-</div>
@@ -559,7 +559,7 @@ const TierList = () => {
                         </div>
                         <div className="d-row tierlist-row">
                             <div className="tier-title">D</div>
-                            {SyncPairIcon("Gardenia & Roserade", "gardenia-trainer grass sinnoh gym-leader nature-lover battleground-foe strike exr-none genpool ", "/images/pair/0D_SINNOH/0D_SINNOH_0B-02_Gardenia.png", "red")}
+                            {SyncPairIcon("Gardenia & Roserade", "gardenia-trainer grass sinnoh gym-leader nature-lover battleground-foe strike exr-none genpool ", "/images/pair/sinnoh/Gardenia_4.png", "red")}
                             {SyncPairIcon("Molayne & Alolan Dugtrio", "molayne-trainer steel alola elite-four glasses observatory-cousin strike exr-none genpool ", "/images/pair/0G_ALOLA/0G_ALOLA_0C-05_Molayne.png", "red")}
                             {SyncPairIcon("Naomi & Sandslash", "naomi-trainer ground alola sunglasses strike exr-none event", "/images/pair/0G_ALOLA/0G_ALOLA_0X-01_Naomi.png", "red")}
                             {SyncPairIcon("Sygna Suit Brock & Tyranitar", "brock-trainer rock kanto sygna-suit rock-lover body-builder strike exr-none story", "/images/pair/0A_KANTO/0A_KANTO_0B-01_SSBrock.png", "orange")}
@@ -568,7 +568,7 @@ const TierList = () => {
                             {SyncPairIcon("May & Wailmer", "may-trainer water hoenn main-character space-cadet contest-lover strike exr-none lodge-pair lodge-free", "/images/pair/hoenn/TL_May.png", "orange")}
                             {SyncPairIcon("Hapu & Mudsdale", "hapu-trainer ground alola trial-giver pigtails nature-lover strike exr-none story", "/images/pair/0G_ALOLA/0G_ALOLA_0B-11_Hapu.png", "yellow")}
                             {SyncPairIcon("Bugsy & Beedrill", "bugsy-trainer bug johto gym-leader knowledgeable researcher strike exr-none genpool ", "/images/pair/0B_JOHTO/Bugsy_Beedrill_3.png", "yellow")}
-                            {SyncPairIcon("Flint & Infernape", "flint-trainer fire sinnoh elite-four sinnoh-bros passionate-spirit strike exr-none story", "/images/pair/0D_SINNOH/Flint_Infernape_4.png", "yellow")}
+                            {SyncPairIcon("Flint & Infernape", "flint-trainer fire sinnoh elite-four sinnoh-bros passionate-spirit strike exr-none story", "/images/pair/sinnoh/Flint_4.png", "yellow")}
                             {SyncPairIcon("Katherine & Slurpuff", "katherine-trainer fairy kalos pigtails tech exr-none event", "/images/pair/0F_KALOS/Katherine_0685.png", "yellow")}
                             {SyncPairIcon("Jessie & Arbok", "jessie-trainer poison kanto villain team-rocket-forever strike exr-none event", "/images/pair/0A_Kanto/0A_Kanto_0D-02_Jessie.png", "green")}
                         </div>
@@ -581,7 +581,7 @@ const TierList = () => {
                     <div className="hybrid-grid">
                         <div className="uber-row tierlist-row">
                             <div className="tier-title">U</div>
-                            {SyncPairIcon("Arc Suit Cynthia & Garchomp", "cynthia-trainer ground sinnoh champion researcher multi exr-strike arc-fair", "/images/pair/0D_SINNOH/CynthiaArc_Garchomp_5.png", "red")}
+                            {SyncPairIcon("Arc Suit Cynthia & Garchomp", "cynthia-trainer ground sinnoh champion researcher multi exr-strike arc-fair", "/images/pair/sinnoh/Arc_Cynthia.png", "red")}
                             {SyncPairIcon("Sygna Suit Red (Thunderbolt) & Pikachu", "red-trainer electric kanto main-character sygna-suit pallet-town tech exr-field master-fair", "/images/pair/0A_KANTO/0A_KANTO_0A-01_SSTRed.png", "orange")}
                             {SyncPairIcon("Leaf (Champion) & Moltres", "leaf-trainer fire kanto main-character champion pallet-town tech exr-support master-fair", "/images/pair/0A_KANTO/0A_KANTO_0A-03_NCLeaf.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Lear & Gholdengo", "lear-trainer steel pasio rival sygna-suit sunglasses sprint exr-strike master-fair", "/images/pair/pasio/SS_Lear.png", "yellow")}
@@ -594,10 +594,10 @@ const TierList = () => {
                             {SyncPairIcon("Oleana & Garbodor", "oleana-trainer poison galar villain researcher grown-woman tech exr-support pokefair", "/images/pair/0H_GALAR/0H_GALAR_0D-02_Oleana.png", "red")}
                             {SyncPairIcon("Geeta & Glimmora", "geeta-traier poison paldea champion passionate-spirit veteran-trainer field exr-strike master-fair", "/images/pair/paldea/Geeta.png", "red")}
                             {SyncPairIcon("Sygna Suit Roxie & Toxtricity (Amped Forme)", "roxie-trainer poison unova gym-leader sygna-suit artistic tech exr-strike pokefair", "/images/pair/0E_UNOVA/ssRoxie_Toxtricity.png", "red")}
-                            {SyncPairIcon("Adaman & Leafeon", "adaman-trainer grass sinnoh nature-lover knowledgeable tech exr-sprint master-fair has-lodge", "/images/pair/0D1_HISUI/0I_HISUI_0B-01_Adaman.png", "orange")}
-                            {SyncPairIcon("Irida & Glaceon", "irida-trainer ice sinnoh nature-lover artistic tech exr-support master-fair has-lodge", "/images/pair/0D1_HISUI/0I_HISUI_0B-02_Irida.png", "orange")}
+                            {SyncPairIcon("Adaman & Leafeon", "adaman-trainer grass sinnoh nature-lover knowledgeable tech exr-sprint master-fair has-lodge", "/images/pair/hisui/Adaman.png", "orange")}
+                            {SyncPairIcon("Irida & Glaceon", "irida-trainer ice sinnoh nature-lover artistic tech exr-support master-fair has-lodge", "/images/pair/hisui/Irida.png", "orange")}
                             {SyncPairIcon("Red & Venusaur", "red-trainer grass kanto main-character pallet-town passionate-spirit field exr-strike mix-scout", "/images/pair/0A_KANTO/Red_Venusaur.png", "yellow")}
-                            {SyncPairIcon("Dahlia & Ludicolo", "dahlia-trainer water sinnoh battle-facility-foe artistic grown-woman tech exr-strike pokefair", "/images/pair/0D_SINNOH/Dahlia_Ludicolo_5.png", "yellow")}
+                            {SyncPairIcon("Dahlia & Ludicolo", "dahlia-trainer water sinnoh battle-facility-foe artistic grown-woman tech exr-strike pokefair", "/images/pair/sinnoh/Dahlia.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Lyra & Celebi", "lyra-trainer grass johto main-character sygna-suit pigtails tech exr-field master-fair", "/images/pair/0B_JOHTO/0B_JOHTO_0A-02_ssLyra.png", "yellow")}
                             {SyncPairIcon("Lillie (Holiday 2024) & Primarina★", "lillie-trainer fairy alola seasonal-outfit fancy-lady artistic sprint exr-support", "/images/pair/0G_ALOLA/Lillie_0730s_5.png", "yellow")}
                             {SyncPairIcon("Lillie (Anniversary 2024) & Solgaleo", "lillie-trainer steel alola seasonal-outfit pigtails alola-adventurer sprint exr-field event", "/images/pair/0G_ALOLA/Lillie_Solgaleo_5.png", "green")}
@@ -609,14 +609,14 @@ const TierList = () => {
                             {SyncPairIcon("Sygna Suit Diantha & Diancie★", "diantha-trainer rock kalos champion sygna-suit artistic tech exr-field pokefair", "/images/pair/0F_KALOS/0F_KALOS_0C-05_ssDiantha.png", "red")}
                             {SyncPairIcon("Sygna Suit Nemona & Scream Tail", "nemona-trainer fairy paldea rival sygna-suit champion strike exr-sprint master-fair", "/images/pair/paldea/SS_Nemona.png", "red")}
                             {SyncPairIcon("Nate (Champion) & Haxorus★", "nate-trainer dragon unova main-character champion unova-adventurer strike exr-field master-fair", "/images/pair/0E_UNOVA/Nate_Haxorus.png", "red")}
-                            {SyncPairIcon("Rei & Hisuian Decidueye", "rei-trainer fighting sinnoh main-character scarf sprint exr-strike pokefair", "/images/pair/0D1_HISUI/Rei.png", "orange")}
+                            {SyncPairIcon("Rei & Hisuian Decidueye", "rei-trainer fighting sinnoh main-character scarf sprint exr-strike pokefair", "/images/pair/hisui/Rei.png", "orange")}
                             {SyncPairIcon("Hop (Champion) & Galarian Zapdos", "hop-trainer fighting galar champion cape galar adventurer tech exr-support master-fair", "/images/pair/0H_GALAR/0H_GALAR_0A-03_NeoChampHop.png", "orange")}
                             {SyncPairIcon("Sygna Suit Hau & Tapu Koko", "hau-trainer electric alola sygna-suit free-spirit passionate-spirit tech exr-strike pokefair", "/images/pair/0G_ALOLA/0G_ALOLA_0A-03_ssHau.png", "orange")}
                             {SyncPairIcon("Clavell & Quaquaval", "clavell-trainer water paldea glasses knowledgeable veteran-trainer sprint exr-field pokefair", "/images/pair/paldea/Clavell.png", "yellow")}
                             {SyncPairIcon("Leaf & Blastoise", "leaf-trainer water kanto main-character pallet-town field exr-sprint mix-scout", "/images/pair/0A_KANTO/Leaf_Blastoise_5.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Ingo & Chandelure", "ingo-trainer ghost unova battle-facility-foe sygna-suit battle-partner sprint exr-tech pokefair", "/images/pair/0E_UNOVA/Ingo_0609.png", "yellow")}
-                            {SyncPairIcon("Lucas & Torterra", "lucas-trainer ground sinnoh main-character scarf knowledgeable field exr-sprint mix-scout", "/images/pair/0D_SINNOH/Lucas_0389.png", "yellow")}
-                            {SyncPairIcon("Gardenia (Summer 2024) & Dhelmise", "gardenia-trainer ghost sinnoh gym-leader seasonal-outfit nature-lover field exr-support", "/images/pair/0D_SINNOH/Gardenia_Dhelmise_5.png", "green")}
+                            {SyncPairIcon("Lucas & Torterra", "lucas-trainer ground sinnoh main-character scarf knowledgeable field exr-sprint mix-scout", "/images/pair/sinnoh/Mix_Lucas.png", "yellow")}
+                            {SyncPairIcon("Gardenia (Summer 2024) & Dhelmise", "gardenia-trainer ghost sinnoh gym-leader seasonal-outfit nature-lover field exr-support", "/images/pair/sinnoh/SO_Gardenia.png", "green")}
                             {SyncPairIcon("Skyla (Anniversary 2022) & Tornadus (Therian Forme)", "skyla-trainer flying unova seasonal-outfit undella-town tech exr-strike pokefair", "/images/pair/0Y_SEASONALS/0Z_0G_ANNIV_2022_Skyla.png", "green")}
                         </div>
                         <div className="sminus-row tierlist-row">
@@ -640,14 +640,14 @@ const TierList = () => {
                             {SyncPairIcon("Hop & Rillaboom", "hop-trainer grass galar rival galar-adventurer researcher field exr-strike variety", "/images/pair/0H_GALAR/Hop_0812_5.png", "red")}
                             {SyncPairIcon("Selene (Special Costume) & Scizor", "selene-trainer steel alola main-character special-costume passionate-spirit field exr-strike", "/images/pair/0G_ALOLA/Selene_Scizor_5.png", "red")}
                             {SyncPairIcon("Wallace (New Year's 2024) & Blacephalon", "wallace-trainer fire hoenn gym-leader seasonal-outfit contest-lover field exr-strike", "/images/pair/hoenn/SO_Wallace.png", "orange")}
-                            {SyncPairIcon("Sygna Suit Cynthia (Renegade) & Giratina Altered Forme", "cynthia-trainer ghost sinnoh sygna-suit battle-facility-foe passionate-spirit tech exr-strike master-fair", "/images/pair/0D_SINNOH/0D_SINNOH_0C-05_SSRCynthia.png", "orange")}
+                            {SyncPairIcon("Sygna Suit Cynthia (Renegade) & Giratina Altered Forme", "cynthia-trainer ghost sinnoh sygna-suit battle-facility-foe passionate-spirit tech exr-strike master-fair", "/images/pair/sinnoh/SSR_Cynthia.png", "orange")}
                             {SyncPairIcon("N (Anniversary 2021) & Reshiram", "n-trainer fire unova rival seasonal-outfir supernatural tech exr-strike master-fair", "/images/pair/0Y_SEASONALS/0Z_0G_ANNIV_2021_N.png", "orange")}
                             {SyncPairIcon("Sygna Suit May & Blaziken", "may-trainer fire hoenn main-character sygna-suit pigtails tech exr-sprint pokefair", "/images/pair/hoenn/SS_May.png", "yellow")}
                             {SyncPairIcon("Paulo & Lycanroc Dusk", "paulo-trainer rock rival knowledgeable pasio sprint exr-support pokefair", "/images/pair/pasio/Paulo.png", "yellow")}
                             {SyncPairIcon("Raihan (Anniversary 2022) & Flygon", "raihan-trainer dragon galar seasonal-outfit sunglasses gadgeteer tech exr-support pokefair", "/images/pair/0Y_SEASONALS/0Z_0G_ANNIV_2022_Raihan.png", "yellow")}
-                            {SyncPairIcon("Akari & Hisuian Samurott", "akari-trainer dark sinnoh main-character scarf field exr-strike pokefair", "/images/pair/0D1_HISUI/Akari.png", "green")}
+                            {SyncPairIcon("Akari & Hisuian Samurott", "akari-trainer dark sinnoh main-character scarf field exr-strike pokefair", "/images/pair/hisui/Akari.png", "green")}
                             {SyncPairIcon("Zinnia (Special Costume) & Thievul", "zinnia-trainer dark hoenn special-costume cape space-cadet tech exr-none", "/images/pair/0Y_SEASONALS/0Z_0H_SPCostume_2023_Zinnia.png", "green")}
-                            {SyncPairIcon("Sygna Suit Cyrus & Darkrai", "cyrus-trainer dark sinnoh sygna-suit scarf villain tech exr-field pokefair", "/images/pair/0D_SINNOH/0D_SINNOH_0D-01_SSCyrus.png", "green")}
+                            {SyncPairIcon("Sygna Suit Cyrus & Darkrai", "cyrus-trainer dark sinnoh sygna-suit scarf villain tech exr-field pokefair", "/images/pair/sinnoh/SS_Cyrus.png", "green")}
                         </div>
                         <div className="a-row tierlist-row">
                             <div className="tier-title">A</div>
@@ -660,7 +660,7 @@ const TierList = () => {
                             {SyncPairIcon("Hilbert & Glaceon", "hilbert-trainer ice unova main-character unova-adventurer tech exr-support variety", "/images/pair/0E_UNOVA/Hilbert_0471.png", "yellow")}
                             {SyncPairIcon("Selene & Umbreon", "selene-trainer dark alola main-character nature-lover alola-adventurer tech exr-support variety", "/images/pair/0G_ALOLA/Selene_Umbreon.png", "yellow")}
                             {SyncPairIcon("Marnie (Palentine's 2022) & Mawile", "marnie-trainer steel galar seasonal-outfit pigtails cook tech exr-none", "/images/pair/0Y_SEASONALS/0Z_0E_PAL_2022_Marnie.png", "green")}
-                            {SyncPairIcon("Lucas & Flareon", "lucas-trainer fire sinnoh main-character scarf knowledgeable tech exr-none variety", "/images/pair/0D_SINNOH/0D_SINNOH_0A-01_VS_Lucas.png", "green")}
+                            {SyncPairIcon("Lucas & Flareon", "lucas-trainer fire sinnoh main-character scarf knowledgeable tech exr-none variety", "/images/pair/sinnoh/Var_Lucas.png", "green")}
                             {SyncPairIcon("Viola (Holiday 2023) & Vivillon", "viola-trainer bug kalos gym-leader seasonal-outfit artistic field exr-tech", "/images/pair/0F_KALOS/Viola_Vivillon.png", "green")}
                             {SyncPairIcon("Brycen-Man & Zoroark", "brycen-trainer dark unova special-costume artistic masked tech exr-strike", "/images/pair/0E_UNOVA/Byrcen-Man_Zoroark.png", "green")}
                         </div>
@@ -671,7 +671,7 @@ const TierList = () => {
                             {SyncPairIcon("Giovanni & Rhydon", "giovanni-trainer ground kanto villain field exr-strike variety", "/images/pair/0A_KANTO/0A_KANTO_0D-01b_Giovanni (Pose 2).png", "red")}
                             {SyncPairIcon("Tate (Summer 2023) & Jirachi", "tate-trainer steel hoenn gym-leader seasonal-outfit space-cadet tech exr-none", "/images/pair/0Y_SEASONALS/0Z_0B_SUM_2023_Tate.png", "orange")}
                             {SyncPairIcon("Lance & Dragonair", "lance-trainer dragon kanto champion cape tech exr-none variety", "/images/pair/0A_KANTO/0A_KANTO_0C-04b_Lance.png", "orange")}
-                            {SyncPairIcon("Thorton & Magnezone", "thorton-trainer steel sinnoh battle-facility-foe knowledgeable gadgeteer field exr-support variety", "/images/pair/0D_SINNOH/Thorton_Magnezone.png", "orange")}
+                            {SyncPairIcon("Thorton & Magnezone", "thorton-trainer steel sinnoh battle-facility-foe knowledgeable gadgeteer field exr-support variety", "/images/pair/sinnoh/Var_Thorton.png", "orange")}
                             {SyncPairIcon("Noland & Ninjask", "noland-trainer bug hoenn battle-facility-foe knowledgeable sprint exr-strike variety", "/images/pair/hoenn/Var_Noland.png", "yellow")}
                             {SyncPairIcon("Greta & Breloom", "greta-trainer grass hoenn battle-facility-foe body-builder passionate-spirit sprint exr-field pokefair", "/images/pair/hoenn/Greta.png", "yellow")}
                             {SyncPairIcon("Bede & Hatterene", "bede-trainer fairy galar rival galar-adventurer tech exr-field pokefair", "/images/pair/0H_GALAR/0H_GALAR_0A-05_Bede.png", "yellow")}
@@ -698,9 +698,9 @@ const TierList = () => {
                             {SyncPairIcon("Iris (Alt.) & Hydreigon", "iris-trainer dragon unova champion undella-town tech exr-sprint pokefair", "/images/pair/0E_UNOVA/0E_UNOVA_0C-01-2_IrisChampion.png", "red")}
                             {SyncPairIcon("Whitney (Holiday 2022) & Sawsbuck", "whitney-trainer normal johto gym-leader seasonal-outfit pokeathlete tech exr-none", "/images/pair/0Y_SEASONALS/0Z_0A_HOLIDAY_2022_Whitney.png", "red")}
                             {SyncPairIcon("Plumeria & Gengar", "plumeria-trainer poison alola villain grown-woman sprint exr-tech variety", "/images/pair/0G_ALOLA/Plumeria_Gengar.png", "red")}
-                            {SyncPairIcon("Bertha & Hippowdon", "bertha-trainer ground sinnoh elite-four scarf veteran-trainer tech exr-none spotlight ticket", "/images/pair/0D_SINNOH/0D_SINNOH_0C-02_Bertha.png", "orange")}
+                            {SyncPairIcon("Bertha & Hippowdon", "bertha-trainer ground sinnoh elite-four scarf veteran-trainer tech exr-none spotlight ticket", "/images/pair/sinnoh/Bertha.png", "orange")}
                             {SyncPairIcon("The Masked Royal & Incineroar", "kukui-trainer dark alola battle-facility-foe masked body-builder tech exr-none spotlight ticket", "/images/pair/0G_ALOLA/0G_ALOLA_0E-02_MaskedRoyal.png", "orange")}
-                            {SyncPairIcon("Lucian & Girafarig", "lucian-trainer psychic sinnoh elite-four glasses knowledgeable tech exr-none spotlight ticket", "/images/pair/0D_SINNOH/0D_SINNOH_0C-04_Lucian.png", "orange")}
+                            {SyncPairIcon("Lucian & Girafarig", "lucian-trainer psychic sinnoh elite-four glasses knowledgeable tech exr-none spotlight ticket", "/images/pair/sinnoh/Lucian.png", "orange")}
                             {SyncPairIcon("Sygna Suit Grimsley (Kimono) & Bisharp", "grimsley-trainer stel alola scarf free-spirit tech exr-none spotlight ticket", "/images/pair/0E_UNOVA/0E_UNOVA_0C-04_GrimsleyKimono.png", "yellow")}
                             {SyncPairIcon("Courtney & Camerupt", "courtney-trainer ground hoenn villain battle-partner tech exr-none spotlight ticket", "/images/pair/hoenn/Courtney.png", "yellow")}
                             {SyncPairIcon("Ghetsis & Kyurem", "ghetsis-trainer ice unova villain cape tech exr-none legendary-adventure", "/images/pair/0E_UNOVA/0E_UNOVA_0D-01_Ghetsis.png", "yellow")}
@@ -726,15 +726,15 @@ const TierList = () => {
                             {SyncPairIcon("Wally & Altaria", "wally-trainer dragon hoenn rival battle-facility-foe passionate-spirit sprint exr-none training-ticket", "/images/pair/hoenn/DC_Wally.png", "red")}
                             {SyncPairIcon("Hugh & Unfezant", "hugh-trainer flying unova rival unova-adventurer passionate-spirit sprint exr-none training-ticket", "/images/pair/0E_UNOVA/Hugh_Unfezant_5.png", "red")}
                             {SyncPairIcon("Sidney & Absol", "sidney-trainer dark hoenn elite-four passionate-spirit tech exr-none spotlight ticket", "/images/pair/hoenn/Sidney.png", "orange")}
-                            {SyncPairIcon("Volkner & Luxray", "volkner-trainer electric sinnoh gym-leader sinnoh-bros gadgeteer tech exr-none spotlight ticket has-lodge", "/images/pair/0D_SINNOH/0D_SINNOH_0B-08_Volkner.png", "orange")}
+                            {SyncPairIcon("Volkner & Luxray", "volkner-trainer electric sinnoh gym-leader sinnoh-bros gadgeteer tech exr-none spotlight ticket has-lodge", "/images/pair/sinnoh/Volkner.png", "orange")}
                             {SyncPairIcon("N & Sigilyph", "n-trainer psychic unova rival villain unova-adventurer tech exr-none lodge-pair lodge-gacha", "/images/pair/0E_UNOVA/0E_UNOVA_0E-03_TL_N.png", "yellow")}
                             {SyncPairIcon("Agatha & Gengar", "agatha-trainer ghost kanto elite-four veteran-trainer old-timer genpool tech exr-none", "/images/pair/0A_KANTO/Agatha_Gengar_4.png", "yellow")}
                             {SyncPairIcon("Clemont & Heliolisk", "clemont-trainer electric kalos gym-leader glasses gadgeteer tech exr-none spotlight ticket", "/images/pair/0F_KALOS/0F_KALOS_0B-05_Clemont.png", "yellow")}
                             {SyncPairIcon("Will & Xatu", "will-trainer psychic johto elite-four masked tech exr-none genpool", "/images/pair/0B_JOHTO/Will_0178_4.png", "yellow")}
                             {SyncPairIcon("Hop & Pincurchin", "hop-trainer electric galar rival galar-adventurer field exr-none training-ticket", "/images/pair/0H_GALAR/Hop_0871.png", "green")}
-                            {SyncPairIcon("Darach & Staraptor", "darach-trainer flying sinnoh battle-facility-foe glasses undella-town tech exr-none spotlight ticket", "/images/pair/0D_SINNOH/0D_SINNOH_0E-04_Darach.png", "green")}
+                            {SyncPairIcon("Darach & Staraptor", "darach-trainer flying sinnoh battle-facility-foe glasses undella-town tech exr-none spotlight ticket", "/images/pair/sinnoh/Darach.png", "green")}
                             {SyncPairIcon("Skyla (Holiday 2020) & Togekiss", "skyla-trainer flying unova seasonal-outfit undella-town tech exr-none", "/images/pair/0Y_SEASONALS/0Z_0A_HOLIDAY_2020_Skyla.png", "green")}
-                            {SyncPairIcon("Dawn & Torterra", "dawn-trainer grass sinnoh main-character scarf contest-lover support exr-none spotlight ticket has-lodge", "/images/pair/0D_SINNOH/0D_SINNOH_0A-02_Dawn.png", "green")}
+                            {SyncPairIcon("Dawn & Torterra", "dawn-trainer grass sinnoh main-character scarf contest-lover support exr-none spotlight ticket has-lodge", "/images/pair/sinnoh/Dawn.png", "green")}
                         </div>
                         <div className="c-row tierlist-row">
                             <div className="tier-title">C</div>
@@ -753,10 +753,10 @@ const TierList = () => {
                         </div>
                         <div className="cminus-row tierlist-row">
                             <div className="tier-title">C-</div>
-                            {SyncPairIcon("Irida & Flareon", "irida-trainer fire sinnoh nature-lover artistic tech exr-none lodge-pair lodge-gacha", "/images/pair/0D1_HISUI/0I_HISUI_0B-02_TL_Irida.png", "red")}
+                            {SyncPairIcon("Irida & Flareon", "irida-trainer fire sinnoh nature-lover artistic tech exr-none lodge-pair lodge-gacha", "/images/pair/hisui/TL_Irida.png", "red")}
                             {SyncPairIcon("Wikstrom & Aegislash", "wikstrom-trainer steel kalos elite-four body-builder passionate-spirit tech exr-none genpool", "/images/pair/0F_KALOS/0F_KALOS_0C-03_Wikstrom.png", "red")}
                             {SyncPairIcon("Whitney & Miltank", "whitney-trainer normal johto gym-leader pigtails pokeathlete tech exr-none genpool", "/images/pair/0B_JOHTO/0B_JOHTO_0B-03_Whitney.png", "orange")}
-                            {SyncPairIcon("Barry & Floatzel", "barry-trainer water sinnoh rival scarf passionate-spirit sprint exr-none training-ticket", "/images/pair/0D_SINNOH/Barry_Floatzel_5.png", "orange")}
+                            {SyncPairIcon("Barry & Floatzel", "barry-trainer water sinnoh rival scarf passionate-spirit sprint exr-none training-ticket", "/images/pair/sinnoh/DC_Barry.png", "orange")}
                             {SyncPairIcon("Cheren & Purrloin", "cheren-trainer dark unova gym-leader rival unova-adventurer tech exr-none lodge-pair lodge-free", "/images/pair/0E_UNOVA/Cheren_Purrlion_4.png", "orange")}
                             {SyncPairIcon("Nanu & Alolan Persian", "nanu-trainer dark alola trial-giver veteran-trainer tech exr-none story", "/images/pair/0G_ALOLA/0G_ALOLA_0B-10_Nanu.png", "orange")}
                             {SyncPairIcon("Silver & Crobat", "silver-trainer flying johto rival battle-partner field exr-none training-ticket", "/images/pair/0B_JOHTO/Silver_Crobat_5.png", "yellow")}
@@ -773,7 +773,7 @@ const TierList = () => {
                             {SyncPairIcon("Will & Slowbro", "will-trainer psychic johto elite-four masked tech exr-none battle-point", "/images/pair/0B_JOHTO/Will_Slowbro_4.png", "orange")}
                             {SyncPairIcon("Brawly & Hariyama", "brawly-trainer fighting hoenn gym-leader body-builder nature-lover tech exr-none genpool", "/images/pair/hoenn/Brawly.png", "orange")}
                             {SyncPairIcon("Marshal & Conkeldurr", "marshal-trainer fighting unova elite-four body-builder passionate-spirit strike exr-none genpool", "/images/pair/0E_UNOVA/0E_UNOVA_0C-03_Marshal.png", "orange")}
-                            {SyncPairIcon("Candice & Abomasnow", "candice-trainer ice sinnoh gym-leader pigtails battleground-foe tech exr-none genpool", "/images/pair/0D_SINNOH/0D_SINNOH_0B-07_Candice.png", "yellow")}
+                            {SyncPairIcon("Candice & Abomasnow", "candice-trainer ice sinnoh gym-leader pigtails battleground-foe tech exr-none genpool", "/images/pair/sinnoh/Candice.png", "yellow")}
                             {SyncPairIcon("Blaine & Rapidash", "blaine-trainer fire kanto gym-leader sunglasses researcher tech exr-none genpool", "/images/pair/0A_KANTO/0A_KANTO_0B-07_Blaine.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Misty & Vaporeon", "misty-trainer water kanto sygna-suit battle-facility-foe passionate-spirit tech exr-none spotlight ticket", "/images/pair/0A_KANTO/0A_KANTO_0B-02_SSMisty.png", "green")}
                             {SyncPairIcon("Grimsley & Liepard", "grimsley-trainer dark unova elite-four scarf tech exr-none spotlight ticket", "/images/pair/0E_UNOVA/0E_UNOVA_0C-04_Grimsley.png", "green")}
@@ -790,7 +790,7 @@ const TierList = () => {
                             {SyncPairIcon("Janine & Ariados", "janine-trainer poison kanto gym-leader scarf ninja-family tech exr-none genpool", "/images/pair/0A_KANTO/Janine_Ariados_3.png", "yellow")}
                             {SyncPairIcon("Brock & Onix", "brock-trainer rock kanto gym-leader rock-lover body-builder tech exr-none story", "/images/pair/0A_KANTO/0A_KANTO_0B-01_Brock.png", "yellow")}
                             {SyncPairIcon("Wallace & Milotic", "wallace-trainer water hoenn gym-leader scarf contest-lover tech exr-none spotlight ticket", "/images/pair/hoenn/Wallace.png", "green")}
-                            {SyncPairIcon("Crasher Wake & Floatzel", "crasherwake-trainer water sinnoh gym-leader body-builder masked tech exr-none genpool", "/images/pair/0D_SINNOH/0D_SINNOH_0B-04_CrasherWake.png", "green")}
+                            {SyncPairIcon("Crasher Wake & Floatzel", "crasherwake-trainer water sinnoh gym-leader body-builder masked tech exr-none genpool", "/images/pair/sinnoh/CrasherWake.png", "green")}
                             {SyncPairIcon("Kahili & Toucannon", "kahili-trainer flying alola elite-four fancy-late grown-woman strike exr-none genpool", "/images/pair/0G_ALOLA/0G_ALOLA_0C-04_Kahili.png", "green")}
                         </div>
                         <div className="dminus-row tierlist-row">
@@ -820,7 +820,7 @@ const TierList = () => {
                             {SyncPairIcon("Rosa (Champion) & Meloetta", "rosa-trainer psychic unova main-character champion unova-adventurer support exr-sprint master-fair", "/images/pair/0E_UNOVA/Rosa_Meloetta_Psy.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Mina & Tapu Fini", "mina-trainer fairy alola trial-giver sygna-suit free-spirit support exr-sprint pokefair", "/images/pair/0G_ALOLA/0G_ALOLA_0B-07_ssMina.png", "yellow")}
                             {SyncPairIcon("Chase & Pikachu", "chase-trainer electric kanto main-character pallet-town support exr-sprint pokefair", "/images/pair/0A_KANTO/Chase_Pikachu.png", "green")}
-                            {SyncPairIcon("Sygna Suit Cynthia (Aura) & Lucario", "cynthia-trainer fighting sinnoh champion sygna-suit passionate-spirit support exr-sprint master-fair", "/images/pair/0D_SINNOH/0D_SINNOH_0C-05_SSACynthia.png", "green")}
+                            {SyncPairIcon("Sygna Suit Cynthia (Aura) & Lucario", "cynthia-trainer fighting sinnoh champion sygna-suit passionate-spirit support exr-sprint master-fair", "/images/pair/sinnoh/SSA_Cynthia.png", "green")}
                             {SyncPairIcon("Elaine & Eevee", "elaine-trainer normal kanto main-character pallet-town support exr-tech pokefair", "/images/pair/0A_KANTO/Elaine.png", "green")}
                         </div>
                         <div className="splus-row tierlist-row">
@@ -839,11 +839,11 @@ const TierList = () => {
                         </div>
                         <div className="s-row tierlist-row">
                             <div className="tier-title">S</div>
-                            {SyncPairIcon("Argenta & Skarmory", "argenta-trainer steel sinnoh battle-facility-foe grown-woman artistic support exr-tech pokefair", "/images/pair/0D_SINNOH/0D_SINNOH_0E-07_Argenta.png", "red")}
+                            {SyncPairIcon("Argenta & Skarmory", "argenta-trainer steel sinnoh battle-facility-foe grown-woman artistic support exr-tech pokefair", "/images/pair/sinnoh/Argenta.png", "red")}
                             {SyncPairIcon("Bede (Champion) & Galarian Articuno", "bed-trainer psychic galar champion scarf galar-adventurer support exr-sprint master-fair", "/images/pair/0H_GALAR/0H_GALAR_0A-05_NeoChampBede.png", "red")}
                             {SyncPairIcon("Red & Snorlax", "red-trainer normal kanto main-character pallet-town passionate-spirit support exr-sprint pokefair", "/images/pair/0A_KANTO/0A_KANTO_0A-01_Red.png", "red")}
                             {SyncPairIcon("Kabu & Centiskorch", "kabu-trainer fire galar gym-leader passionate-spirit veteran-trainer support exr-strike pokefair has-lode", "/images/pair/0H_GALAR/Kabu_Centiskorch.png", "orange")}
-                            {SyncPairIcon("Sygna Suit Dawn & Cresselia", "dawn-trainer psychic sinnoh main-character sygna-suit support exr-sprint pokefair", "/images/pair/0D_SINNOH/0D_SINNOH_0A-02_SSDawn.png", "orange")}
+                            {SyncPairIcon("Sygna Suit Dawn & Cresselia", "dawn-trainer psychic sinnoh main-character sygna-suit support exr-sprint pokefair", "/images/pair/sinnoh/SS_Dawn.png", "orange")}
                             {SyncPairIcon("Acerola (Summer 2024) & Jellicent", "acerola-trainer ghost alola trial-giver seasonal-outfit free-spirit support exr-tech", "/images/pair/0G_ALOLA/Acerola_Jellicent_5.png", "yellow")}
                             {SyncPairIcon("Anabel & Snorlax", "anabel-trainer normal alola grown-woman support exr-field pokefair", "/images/pair/0G_ALOLA/0G_ALOLA_0E-03_Anabel.png", "yellow")}
                             {SyncPairIcon("Bellelba & Swoobat", "sabrina-traner psychic unova special-costume artistic grown-woman support exr-field", "/images/pair/0E_UNOVA/Bellelba_Swoobat.png", "yellow")}
@@ -859,7 +859,7 @@ const TierList = () => {
                             {SyncPairIcon("Mallow & Shiinotic", "mallow-trainer grass alola trial-giver cook support exr-none variety", "/images/pair/0G_ALOLA/0G_ALOLA_0B-04_vMallow.png", "orange")}
                             {SyncPairIcon("Sygna Suit Blue & Blastoise", "blue-trainer water kanto rival sygna-suit pallet-town support exr-sprint pokefair", "/images/pair/0A_KANTO/0A_KANTO_0A-02_SSBlue.png", "yellow")}
                             {SyncPairIcon("Shauna (Special Costume) & Klefki", "shauna-trainer steel kalos special-costume pigtails support exr-none", "/images/pair/0Y_SEASONALS/0Z_0H_SPCostume_2023_Shauna.png", "yellow")}
-                            {SyncPairIcon("Volo & Togepi", "volo-trainer fairy sinnoh knowledgeable researcher field exr-tech pokefair has-lodge", "/images/pair/0D1_HISUI/Volo_Togepi_5.png", "yellow")}
+                            {SyncPairIcon("Volo & Togepi", "volo-trainer fairy sinnoh knowledgeable researcher field exr-tech pokefair has-lodge", "/images/pair/hisui/Volo.png", "yellow")}
                             {SyncPairIcon("Jasmine (Holiday 2022) & Ampharos", "jasmine-trainer electric johto gym-leader seasonal-outfit pokeathlete support exr-none", "/images/pair/0Y_SEASONALS/0Z_0A_HOLIDAY_2022_Jasmine.png", "yellow")}
                             {SyncPairIcon("Steven (Special Costume) & Stoutland★", "steven-trainer normal hoenn special-costume rock-lover space-cadet tech exr-none shiny", "/images/pair/0Y_SEASONALS/0Z_0H_SPCostume_2023_Steven.png", "green")}
                             {SyncPairIcon("Ingo & Excadrill", "ingo-trainer ground unova battle-facility-foe battle-partner support exr-tech pokefair", "/images/pair/0E_UNOVA/0E_UNOVA_0E-01_Ingo.png", "green")}
@@ -870,7 +870,7 @@ const TierList = () => {
                             {SyncPairIcon("Sonia & Yamper", "sonia-trainer electric galar sunglasses researcher grown-woman support exr-none spotlight ticket", "/images/pair/0H_GALAR/0H_GALAR_0F-01_Sonia.png", "red")}
                             {SyncPairIcon("Victor (Palentine's 2024) & Greedent", "victor-trainer normal galar main-character seasonal-outfit cook support exr-tech", "/images/pair/0H_GALAR/Victor_Greedent.png", "red")}
                             {SyncPairIcon("Leaf & Eevee", "leaf-trainer normal kanto main-character pallet-town support exr-none spotlight ticket has-lodge", "/images/pair/0A_KANTO/0A_KANTO_0A-03_Leaf.png", "orange")}
-                            {SyncPairIcon("Aaron & Vespiquen", "aaron-trainer bug sinnoh elite-four nature-lover support exr-none spotlight ticket", "/images/pair/0D_SINNOH/0D_SINNOH_0C-01_Aaron.png", "orange")}
+                            {SyncPairIcon("Aaron & Vespiquen", "aaron-trainer bug sinnoh elite-four nature-lover support exr-none spotlight ticket", "/images/pair/sinnoh/Aaron.png", "orange")}
                             {SyncPairIcon("Ball Guy & Amoonguss", "ballguy-trainer poison galar support exr-none variety", "/images/pair/0H_GALAR/0H_GALAR_0F-01_BallGuy.png", "yellow")}
                             {SyncPairIcon("Sawyer & Gimmighoul", "sawyer-trainer ghost sunglasses body-builder pasio support exr-sprint variety", "/images/pair/pasio/Var_Sawyer.png", "yellow")}
                             {SyncPairIcon("Lillie (Special Costume) & Polteageist", "lillie-trainer ghost alola special-costume fancy-lady support exr-none", "/images/pair/0Y_SEASONALS/0Z_0H_SPCostume_2022_Lillie.png", "yellow")}
@@ -929,11 +929,11 @@ const TierList = () => {
                             {SyncPairIcon("Sygna Suit Elesa & Rotom", "elesa-trainer electric unova sygna-suit unova-gym-besties support exr-none spotlight ticket", "/images/pair/0E_UNOVA/0E_UNOVA_0B-04_SSElesa.png", "orange")}
                             {SyncPairIcon("Morty & Mismagius", "morty-trainer ghost johto gym-leader scarf supernatural support exr-none battle-point", "/images/pair/0B_JOHTO/0B_JOHTO_0B-04-BP_Morty.png", "orange")}
                             {SyncPairIcon("Skyla & Swanna", "skyla-trainer flying unova gym-leader undella-town unova-gym-besties support exr-none story", "/images/pair/0E_UNOVA/0E_UNOVA_0B-06_Skyla.png", "orange")}
-                            {SyncPairIcon("Barry & Roserade", "barry-trainer grass sinnoh rival scarf passionate-spirit support exr-none battle-point", "/images/pair/0D_SINNOH/0D_SINNOH_0A-03-BP_Barry.png", "yellow")}
+                            {SyncPairIcon("Barry & Roserade", "barry-trainer grass sinnoh rival scarf passionate-spirit support exr-none battle-point", "/images/pair/sinnoh/BP_Barry.png", "yellow")}
                             {SyncPairIcon("Lana & Araquanid", "lana-trainer water alola trial-giver free-spirit nature-lover support exr-none spotlight ticket has-lodge", "/images/pair/0G_ALOLA/0G_ALOLA_0B-02_Lana.png", "yellow")}
-                            {SyncPairIcon("Dawn & Wormadam Plant Cloak", "dawn-trainer sinnoh main-character scarf contest-lover support exr-none lodge-pair lodge-free", "/images/pair/0D_SINNOH/0D_SINNOH_0A-02_TL_Dawn.png", "yellow")}
+                            {SyncPairIcon("Dawn & Wormadam Plant Cloak", "dawn-trainer sinnoh main-character scarf contest-lover support exr-none lodge-pair lodge-free", "/images/pair/sinnoh/TL_Dawn.png", "yellow")}
                             {SyncPairIcon("Clemont & Magneton", "clemont-trainer electric kalos gym-leader glasses gadgeteer support exr-none battle-point", "/images/pair/0F_KALOS/0F_KALOS_0B-05_BP_Clemont.png", "yellow")}
-                            {SyncPairIcon("Cheryl & Wailord", "cheryl-trainer water sinnoh grown-woman battle-partner battleground-foe support exr-none battle-point", "/images/pair/0D_SINNOH/Cheryl_Wailord_4.png", "green")}
+                            {SyncPairIcon("Cheryl & Wailord", "cheryl-trainer water sinnoh grown-woman battle-partner battleground-foe support exr-none battle-point", "/images/pair/sinnoh/BP_Cheryl_4.png", "green")}
                             {SyncPairIcon("Wally & Delcatty", "wally-trainer normal hoenn rival battle-facility-foe passionate-spirit support exr-none lodge-pair lodge-free", "/images/pair/hoenn/TL_Wally_4.png", "green")}
                         </div>
                         <div className="bminus-row tierlist-row">
@@ -946,13 +946,13 @@ const TierList = () => {
                             {SyncPairIcon("Sawyer & Honchkrow", "sawyer-trainer dark sunglasses body-builder pasio support exr-none pokefair", "/images/pair/pasio/Sawyer_4.png", "yellow")}
                             {SyncPairIcon("Lenora & Watchog", "lenora-trainer normal unova knowledgeable rock-lover support exr-tech spotlight ticket", "/images/pair/0E_UNOVA/Lenora_Watchdog.png", "yellow")}
                             {SyncPairIcon("Trevor & Florges", "trevor-trainer fairy kalos rival knowledgeable support exr-tech spotlight no-ticket", "/images/pair/0F_KALOS/Trevor_Florges_5.png", "yellow")}
-                            {SyncPairIcon("Cheryl & Blissey", "cheryl-trainer normal sinnoh grown-woman battle-partner battleground-foe support exr-none genpool", "/images/pair/0D_SINNOH/Cheryl_0242_3.png", "yellow")}
+                            {SyncPairIcon("Cheryl & Blissey", "cheryl-trainer normal sinnoh grown-woman battle-partner battleground-foe support exr-none genpool", "/images/pair/sinnoh/Cheryl_3.png", "yellow")}
                             {SyncPairIcon("Olivia & Carbink", "olivia-trainer rock alola elite-four rock-lover trial-giver support exr-none battle-point", "/images/pair/0G_ALOLA/0G_ALOLA_0C-02-BP_Olivia.png", "green")}
                             {SyncPairIcon("Player & Alcremie", "player-trainer fairy main-character pasio support exr-none event", "/images/pair/pasio/PlayerM_Alcremie_4.png", "green")}
                         </div>
                         <div className="cplus-row tierlist-row">
                             <div className="tier-title">C+</div>
-                            {SyncPairIcon("Cynthia & Gastrodon", "cynthia-trainer ground sinnoh champion undella-town researcher support exr-none lodge-pair lodge-gacha", "/images/pair/0D_SINNOH/0D_SINNOH_0C-05_TL_Cynthia.png", "red")}
+                            {SyncPairIcon("Cynthia & Gastrodon", "cynthia-trainer ground sinnoh champion undella-town researcher support exr-none lodge-pair lodge-gacha", "/images/pair/sinnoh/TL_Cynthia.png", "red")}
                             {SyncPairIcon("Misty (Swimsuit) & Psyduck", "misty-trainer water kanto gym-leader passionate-spirit support exr-none event", "/images/pair/0A_KANTO/0A_KANTO_0B-02b_SwimsuitMisty.png", "red")}
                             {SyncPairIcon("Dawn (Palentine's 2021) & Alcremie", "dawn-trainer fairy sinnoh seasonal-outfit sweet-tooth cook tech exr-none", "/images/pair/0Y_SEASONALS/0Z_0E_PAL_2021_Dawn.png", "orange")}
                             {SyncPairIcon("Lt. Surge & Raichu", "ltsurge-trainer electric kanto gym-leader sunglasses body-builder support exr-none battle-point", "/images/pair/0A_KANTO/0A_KANTO_0B-03b_LtSurge.png", "orange")}
@@ -960,7 +960,7 @@ const TierList = () => {
                             {SyncPairIcon("Jasmine & Steelix", "jasmine-trainer stel johto gym-leader pokeathlete contest-lover support exr-none spotlight ticket has-lodge", "/images/pair/0B_JOHTO/0B_JOHTO_0B-06_Jasmine.png", "yellow")}
                             {SyncPairIcon("Piers & Obstagoon", "piers-trainer dark galar gym-leader artistic support exr-none spotlight ticket", "/images/pair/0H_GALAR/0H_GALAR_0B-07_Piers.png", "yellow")}
                             {SyncPairIcon("Player & Registeel", "player-trainer steel main-character pasio support exr-none battle-point", "/images/pair/pasio/PlayerM_Registeel.png", "yellow")}
-                            {SyncPairIcon("Maylene & Medicham", "maylene-trainer fighting sinnoh gym-leader pokeathlete battleground-foe support exr-none genpool", "/images/pair/0D_SINNOH/0D_SINNOH_0B-03_Maylene.png", "yellow")}
+                            {SyncPairIcon("Maylene & Medicham", "maylene-trainer fighting sinnoh gym-leader pokeathlete battleground-foe support exr-none genpool", "/images/pair/sinnoh/Maylene.png", "yellow")}
                             {SyncPairIcon("Lillie (New Year's 2021) & Ribombee", "lillie-trainer bug alola seasonal-outfit fancy-lady battle-partner support exr-none", "/images/pair/0Y_SEASONALS/0Z_0D_NY_2021_Lillie.png", "green")}
                             {SyncPairIcon("Giovanni & Nidorino", "giovanni-trainer poison kanto villain support exr-none lodge-pair lodge-free", "/images/pair/0A_KANTO/Giovanni.png", "green")}
                         </div>
@@ -972,7 +972,7 @@ const TierList = () => {
                             {SyncPairIcon("Morty & Gastly", "morty-trainer ghsot johto gym-leader scarf supernatural support exr-none lodge-pair lodge-free", "/images/pair/0B_JOHTO/0B_JOHTO_0B-04_TL_Morty.png", "orange")}
                             {SyncPairIcon("Phoebe & Dusknoir", "phoebe-trainer hoenn elite-four supernatural free-spirit support exr-none spotlight ticket", "/images/pair/hoenn/Phoebe.png", "orange")}
                             {SyncPairIcon("Acerola & Banette", "acerola-trainer ghost alola elite-four trial-giver fancy-lady support exr-none lodge-pair lodge-free", "/images/pair/0G_ALOLA/0G_ALOLA_0C-03_TL_Acerola.png", "orange")}
-                            {SyncPairIcon("Adaman & Vaporeon", "adaman-trainer water sinnoh nature-lover knowledgeable support exr-none lodge-pair lodge-gacha", "/images/pair/0D1_HISUI/0I_HISUI_0B-01_TL_Adaman.png", "yellow")}
+                            {SyncPairIcon("Adaman & Vaporeon", "adaman-trainer water sinnoh nature-lover knowledgeable support exr-none lodge-pair lodge-gacha", "/images/pair/hisui/TL_Adaman.png", "yellow")}
                             {SyncPairIcon("Player & Regirock", "player-trainer rock main-character pasio support exr-none battle-point", "/images/pair/pasio/PlayerM_Regirock.png", "yellow")}
                             {SyncPairIcon("Leaf & Clefable", "leaf-trainer fairy kanto main-character pallet-town support exr-none lodge-pair lodge-free", "/images/pair/0A_KANTO/0A_KANTO_0A-03_TL_Leaf.png", "yellow")}
                             {SyncPairIcon("Lillie & Clefairy", "lillie-trainer fairy alola fancy-lady battle-partner alola-adventurer support exr-none spotlight ticket has-lodge", "/images/pair/0G_ALOLA/0G_ALOLA_0A-04_Lillie.png", "green")}
@@ -984,7 +984,7 @@ const TierList = () => {
                             {SyncPairIcon("Roxanne & Probopass", "roxanne-trainer rock hoenn hym-leader pigtails rock-lover support exr-none genpool", "/images/pair/hoenn/Roxanne.png", "red")}
                             {SyncPairIcon("Rachel & Umbreon", "rachel-trainer dark pasio sunglasses free-spirit support exr-none pokefair", "/images/pair/pasio/Rachel_4.png", "red")}
                             {SyncPairIcon("Rosa (Holiday 2019) & Delibird", "rosa-trainer flying unova cape seasonal-outfit cook support exr-none", "/images/pair/0Y_SEASONALS/0Z_0A_HOLIDAY_2019_Rosa.png", "orange")}
-                            {SyncPairIcon("Marley & Arcanine", "marley-trainer fire sinnoh battle-partner battleground-foe support exr-none genpool", "/images/pair/0D_SINNOH/0D_SINNOH_0E-03_Marley.png", "orange")}
+                            {SyncPairIcon("Marley & Arcanine", "marley-trainer fire sinnoh battle-partner battleground-foe support exr-none genpool", "/images/pair/sinnoh/Marley.png", "orange")}
                             {SyncPairIcon("Player & Torchic", "player-trainer fire main-character pasio support exr-none story", "/images/pair/pasio/PlayerM_Torchic.png", "orange")}
                             {SyncPairIcon("Rosa & Serperior", "rosa-trainer grass unova main-character pigtails unova-adventurer support exr-none story has-lodge", "/images/pair/0E_UNOVA/0E_UNOVA_0A-06_Rosa.png", "yellow")}
                             {SyncPairIcon("Acerola & Palossand", "acerola-trainer ghost alola elite-four trial-giver fancy-lady tech exr-none story has-lodge", "/images/pair/0G_ALOLA/0G_ALOLA_0C-03_Acerola.png", "yellow")}
@@ -997,7 +997,7 @@ const TierList = () => {
                             {SyncPairIcon("Drake & Salamence", "drake-trainer dragon hoenn elite-four veteran-trainer support exr-none genpool", "/images/pair/hoenn/Drake.png", "red")}
                             {SyncPairIcon("Ramos & Victreebel", "ramos-trainer grass kalo gym-leader nature-lover veteran-trainer tech exr-none genpool", "/images/pair/0F_KALOS/0F_KALOS_0B-04_Ramos.png", "red")}
                             {SyncPairIcon("Liza & Lunatone", "liza-trainer psychic hoenn gym-leader supernatural space-cadet support exr-none genpool", "/images/pair/hoenn/Liza.png", "orange")}
-                            {SyncPairIcon("Thorton & Bronzong", "thorton-trainer steel sinnoh battle-facility-foe knowledgeable gadgeteer tech exr-none genpool", "/images/pair/0D_SINNOH/0D_SINNOH_0E-01_Thorton.png", "orange")}
+                            {SyncPairIcon("Thorton & Bronzong", "thorton-trainer steel sinnoh battle-facility-foe knowledgeable gadgeteer tech exr-none genpool", "/images/pair/sinnoh/Thorton.png", "orange")}
                             {SyncPairIcon("Viola & Masquerain", "viola-trainer bug kalos gym-leader artistic tech exr-none story", "/images/pair/0F_KALOS/0F_KALOS_0B-01_Viola.png", "orange")}
                             {SyncPairIcon("Marlon & Carracosta", "marlon-trainer water unova gym-leader nature-lover body-builder support exr-none genpool", "/images/pair/0E_UNOVA/0E_UNOVA_0B-10_Marlon.png", "orange")}
                             {SyncPairIcon("Erika & Tangela", "erika-trainer grass kanto gym-leader nature-lover fancy-lady tech exr-none battle-point", "/images/pair/0A_KANTO/0A_KANTO_0B-04b_Erika.png", "yellow")}
