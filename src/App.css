@@ -183,3 +183,22 @@
     align-items: center;
 }
 
+.homepage-resource {
+    display: flex;
+    border: 1px solid gray;
+
+    .resource-overview {
+        width: 65%;
+        margin: 20px;
+    }
+
+    .resource-thumbnail {
+        width: 35%;
+        margin: 20px;
+        padding-top: 20px;
+
+        > img {
+            max-width: 100%;
+        }
+    }
+}

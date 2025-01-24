@@ -177,12 +177,9 @@ const TierList = () => {
                 <h1 className="banner-title">Tier List Companion</h1>
             </div>
             <div className="tierlist-header">
-                <h1>Why does this UI suck?</h1>
-                <p>I'm working on building this tool at the moment. No UI is finalized and I'm hoping to add in more ways to make parsing through this tierlist more accessible to all, regardless of accessibility needs or language barriers.</p>
-                
                 <h2>About the Tier List Companion</h2>
-                <p>This companion is based on Spark's tier list. I am not involved with the placement of sync pairs on the tier list, but I am maintaining this resource as a way to look for specific sync pairs and understand some of the justification behind their ultimate placement.
-                    If something is out of place or if long enough goes by after a tierlist update and this page still isn't updated to reflect that, please ping me @adeptcs in the r/PokemonMasters Discord server.
+                <p>This companion is based on Spark's tier list, currently maintained by Ropalme, Rion, and Darkshark. 
+                    I am not involved with the placement of sync pairs on the tier list, but I am maintaining this resource as a way to look for specific sync pairs and understand some of the justification behind their ultimate placement.
                 </p>
                 <div className="not-ranked">
                     <h3>The following sync pairs are not ranked on the tierlist at the moment, since they were added in the most recent update:</h3>
