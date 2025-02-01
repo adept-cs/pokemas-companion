@@ -39,15 +39,17 @@
     }
     
     .tierlists {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        padding-bottom: 20px;
-    
-        .damage-dealer, .hybrid, .utility {
-            margin-top: 40px;
-            max-width: 750px;
-            width: 50%;
+        @media (min-width: 1024px) {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding-bottom: 20px;
+        
+            .damage-dealer, .hybrid, .utility {
+                margin-top: 40px;
+                max-width: 750px;
+                width: 50%;
+            }
         }
     }
 
@@ -76,7 +78,8 @@
     }
       
     .submit-btn {
-        transform: translateX(50%);
+        width: 34%;
+        margin: 10px 33% 0;
 
         button {
             padding: 10px 20px;
@@ -129,23 +132,25 @@
 }
 
 .sync-pair-filters {
-    display: flex;
-
-    > * {
-        margin: 10px;
-        width: calc(50% - 20px);
-    }
-
-    .type-trainer-filters, .misc-theme-filters {
+    @media (min-width: 1024px) {
         display: flex;
 
         > * {
             margin: 10px;
             width: calc(50% - 20px);
         }
-
-        > div > h3 {
-            text-align: center;
+    
+        .type-trainer-filters, .misc-theme-filters {
+            display: flex;
+    
+            > * {
+                margin: 10px;
+                width: calc(50% - 20px);
+            }
+    
+            > div > h3 {
+                text-align: center;
+            }
         }
     }
 }
@@ -174,6 +179,7 @@
 
     .filter-option {
         padding-right: 3px;
+        font-size: 14px;
     }
 }
 

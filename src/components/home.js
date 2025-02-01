@@ -18,7 +18,7 @@ const Home = () => {
                 <h2 className="section-header">All Resources</h2>
                 <div className="homepage-resource">
                     <div className="resource-overview">
-                        <h3><Link to="/pokemas-companion/tierlist">Spark's Tier List - Filterable [BETA]</Link></h3>
+                        <h3><Link to="tierlist">Spark's Tier List - Filterable [BETA]</Link></h3>
                         <p>A version of Spark's tierlist with interactive filtering based on trainer, role, acquisition method, and in-game theme skills. <i>Resource originally created by Spark, Ropalme, Rion, and Darkshark</i></p>
                         <h4>Last updated: 23 January, 2025</h4>
                     </div>
