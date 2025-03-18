@@ -19,11 +19,21 @@ const Home = () => {
                 <div className="homepage-resource">
                     <div className="resource-overview">
                         <h3><Link to="tierlist">Spark's Tier List - Filterable [BETA]</Link></h3>
-                        <p>A version of Spark's tierlist with interactive filtering based on trainer, role, acquisition method, and in-game theme skills. <i>Resource originally created by Spark, Ropalme, Rion, and Darkshark</i></p>
-                        <h4>Last updated: 23 January, 2025</h4>
+                        <p>A version of Spark's tierlist with interactive filtering based on trainer, role, acquisition method, and in-game theme skills. <i>Resource originally created by Spark, Ropalme, Rion, and Darkshark.</i></p>
+                        <h4>Last updated: 17 March, 2025</h4>
                     </div>
                     <div className="resource-thumbnail">
                         <img src={`${process.env.PUBLIC_URL}/images/spark-combined.png`} className="resource-img" alt="Spark's Tierlist" />
+                    </div>
+                </div>
+                <div className="homepage-resource">
+                    <div className="resource-overview">
+                        <h3>Battle Rally Stage Viewer [COMING SOON]</h3>
+                        <p>Identify stages in Battle Rally by the opponents you see. Shows what sync pairs battles were "made" for if applicable, and all enemy passives. <i>Resource originally created by me!</i></p>
+                        <h4>This feature is currently in development. Check back later for this to be supported, but I'm excited about adding it!</h4>
+                    </div>
+                    <div className="resource-thumbnail">
+
                     </div>
                 </div>
             </div>

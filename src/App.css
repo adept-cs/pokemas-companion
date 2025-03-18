@@ -1,5 +1,17 @@
 .app {
     padding: 0 3%;
+
+    a, a:visited {
+        color: #181a1b;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        background: #181a1b;
+
+        h1, h2, h3, h4, p, a, a:visited {
+            color: #e8e6e3;
+        }
+    }
 }
 
 .menu-nav {
@@ -26,10 +38,14 @@
 }
 
 .banner-title {
-    color: black;
+    color: #181a1b;
     text-align: center;
     line-height: 10vh;
     position: relative;
+
+    @media (prefers-color-scheme: dark) {
+        color: #e8e6e3;
+    }
 }
 
 .tierlist-page {
@@ -63,18 +79,35 @@
       
         .tier-title {
             display: flex;
-            background: black;
-            color: white;
+            background: #181a1b;
+            color: #e8e6e3;
             text-transform: uppercase;
             justify-content: center;
             align-items: center;
             font-size: auto;
             width: 5%;
+
+            @media (prefers-color-scheme: dark) {
+                border: 1px solid #e8e6e3;
+            }
         }
     }
       
     .not-included-row {
         justify-content: center;
+        margin: 0;
+
+        @media (min-width: 1024px) {
+            margin: 0 30%;
+        }
+
+        @media(max-width: 1024px) {
+            flex-wrap: wrap;
+            
+            .sync-pair-icon {
+                width: 15%;
+            }
+        }
     }
       
     .submit-btn {
@@ -82,12 +115,24 @@
         justify-content: center;
 
         button {
-            border: 1px solid black;
+            border: 1px solid #181a1b;
             border-radius: 10px;
             font-size: 24px;
             margin: 20px;
             padding: 10px 20px;
             text-transform: uppercase;
+
+            @media (prefers-color-scheme: dark) {
+                border: 1px solid #e8e6e3;
+                background: darkgray;
+                color: #181a1b;
+            }
+        }
+    }
+
+    @media (prefers-color-scheme: dark) {
+        label, h1, h2, h3, h4, p {
+            color: #e8e6e3;
         }
     }
 }
@@ -120,7 +165,11 @@
     }
   
     .black {
-        background: black;
+        background: #181a1b;
+
+        @media (prefers-color-scheme: dark) {
+            background: #e8e6e3;
+        }
     }
 
     :has(.not-found) {
@@ -160,6 +209,10 @@
         border-radius: 15px;
         margin: 5px 0px;
         padding: 0px 5px 15px 5px;
+
+        @media (prefers-color-scheme: dark) {
+            border: 1px solid darkgray;
+        }
     }
 }
 
@@ -182,7 +235,7 @@
 
     .acquisition-sections {
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
     }
 
     .filter-option {

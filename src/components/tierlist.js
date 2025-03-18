@@ -102,7 +102,7 @@ const TierList = () => {
         {value: 'free-spirit', label: 'Free Spirit'},{value: 'gadgeteer', label: 'Gadgeteer'},{value: 'galar-adventurer', label: 'Galar Adventurer'},{value: 'grown-woman', label: 'Grown Woman'},{value: 'hoenn-family', label: 'Hoenn Family'},
         {value: 'kalos-neighbors', label: 'Kalos Neighbors'},{value: 'knowledgeable', label: 'Knowledgeable'},{value: 'melemele-family', label: 'Melemele Family'},{value: 'nature-lover', label: 'Nature Lover'},{value: 'ninja-family', label: 'Ninja Family'},
         {value: 'observatory-cousin', label: 'Observatory Cousin'},{value: 'old-colleagues', label: 'Old Colleagues'},{value: 'old-timer', label: 'Old-Timer'},{value: 'pallet-town', label: 'Pallet Town'},{value: 'passionate-spirit', label: 'Passionate Spirit'},
-        {value: 'pokeathlete', label: 'Pokeathlete'},{value: 'researcher', label: 'Researcher'},{value: 'rock-lover', label: 'Rock Lover'},{value: 'sinnoh-bros', label: 'Sinnoh Bros'},{value: 'space-cadet', label: 'Space Cadet'},
+        {value: 'pokeathlete', label: 'Pokeathlete'},{value: 'researcher', label: 'Researcher'},{value: 'rock-lover', label: 'Rock Lover'},{value: 'sinnoh-bros', label: 'Sinnoh Bros'},{value: 'shiny', label: 'Shiny'},{value: 'space-cadet', label: 'Space Cadet'},
         {value: 'supernatural', label: 'Supernatural'},{value: 'sweet-tooth', label: 'Sweet Tooth'},{value: 'team-rocket-forever', label: 'Team Rocket Forever'},{value: 'team-star', label: 'Team Star'},{value: 'undella-town', label: 'Undella Town'},{value: 'unova-adventurer', label: 'Unova Adventurer'},
         {value: 'unova-gym-besties', label: 'Unova Gym Besties'},{value: 'veteran-trainer', label: 'Veteran Trainer'},
     ];
@@ -185,7 +185,7 @@ const TierList = () => {
             <div className="tierlist-header">
                 <h2>About the Tier List Companion</h2>
                 <p>This companion is based on Spark's tier list, currently maintained by Ropalme, Rion, and Darkshark. 
-                    I am not involved with the placement of sync pairs on the tier list, but I am maintaining this resource as a way to look for specific sync pairs and understand some of the justification behind their ultimate placement.
+                    I am not involved with the placement of sync pairs on the tier list, but I am maintaining this resource as a way to look for specific sync pairs.
                 </p>
                 <div className="not-ranked">
                     <h3>The following sync pairs are not ranked on the tierlist at the moment, since they were added in the most recent update:</h3>
@@ -197,7 +197,7 @@ const TierList = () => {
                         {SyncPairIcon("May (Champion) & Primal Kyogre★", "may-trainer water hoenn main-character champion space-cadet field exr-strike master-fair shiny filter-excluded", "/images/pair/hoenn/NC_May.png", "black")}
                         {SyncPairIcon("Brendan & Swellow", "brendan-trainer flying hoenn main-character space-cadet tech exr-none lodge-pair filter-excluded", "/images/pair/hoenn/TL_Brendan.png", "black")}
                         {SyncPairIcon("Hau & Crabominable", "hau-trainer ice alola rival free-spirit sprint exr-none training-ticket filter-excluded", "/images/pair/alola/DC_Hau.png", "black")}
-                        {SyncPairIcon("Brendan (Champion) & Primal Groudon★", "brendan-trainer ground hoenn main-character champion space-cadet field exr-strike master-fair filter-excluded", "/images/pair/hoenn/NC_Brendan.png", "black")}
+                        {SyncPairIcon("Brendan (Champion) & Primal Groudon★", "brendan-trainer ground hoenn main-character champion space-cadet field exr-strike master-fair shiny filter-excluded", "/images/pair/hoenn/NC_Brendan.png", "black")}
                         {SyncPairIcon("Arc Suit N & Zoroark", "n-trainer dark unova rival arc-suit unova-adventurer multi exr-tech arc-fair filter-excluded", "/images/pair/unova/Arc_N.png", "black")}
                         {SyncPairIcon("Ethan & Ho-Oh", "ethan-trainer fire johto main-character pokeathlete sprint exr-field variety filter-excluded", "/images/pair/johto/Var_Ethan.png", "black")}
                         {SyncPairIcon("Ortega & Dachsbun", "ortega-trainer fairy paldea team-star gadgeteer passionate-spirit support exr-field pokefair filter-excluded", "/images/pair/paldea/Ortega.png", "black")}
@@ -304,82 +304,82 @@ const TierList = () => {
                                 <h4 className="section-header">Free-to-Play</h4>
                                 <div className="filter-option">
                                     <input type="checkbox" id="story-acquisition" onChange={() => toggleAcquisitions("story")}/>
-                                    <label for="story-acquisition">Story</label>
+                                    <label htmlFor="story-acquisition">Story</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="la-acquisition" onChange={() => toggleAcquisitions("legendary-adventure")}/>
-                                    <label for="la-acquisition">Legendary Adventure</label>
+                                    <label htmlFor="la-acquisition">Legendary Adventure</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="event-acquisition" onChange={() => toggleAcquisitions("event")}/>
-                                    <label for="event-acquisition">Event</label>
+                                    <label htmlFor="event-acquisition">Event</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="ticket-acquisition" onChange={() => toggleAcquisitions("ticket")}/>
-                                    <label for="ticket-acquisition">Ticket Scout</label>
+                                    <label htmlFor="ticket-acquisition">Ticket Scout</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="genpool-acquisition" onChange={() => toggleAcquisitions("genpool")}/>
-                                    <label for="genpool-acquisition">Summonable 3 and 4 Stars</label>
+                                    <label htmlFor="genpool-acquisition">Summonable 3 and 4 Stars</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="egg-acquisition" onChange={() => toggleAcquisitions("egg")}/>
-                                    <label for="egg-acquisition">Eggmons</label>
+                                    <label htmlFor="egg-acquisition">Eggmons</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="bp-acquisition" onChange={() => toggleAcquisitions("battle-point")}/>
-                                    <label for="bp-acquisition">BP Vouchers</label>
+                                    <label htmlFor="bp-acquisition">BP Vouchers</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="dc-acquisition" onChange={() => toggleAcquisitions("training-ticket")}/>
-                                    <label for="dc-acquisition">Training Ticket Pairs</label>
+                                    <label htmlFor="dc-acquisition">Training Ticket Pairs</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="f2plodge-acquisition" onChange={() => toggleAcquisitions("lodge-free")}/>
-                                    <label for="f2plodge-acquisition">F2P Lodge Pairs</label>
+                                    <label htmlFor="f2plodge-acquisition">F2P Lodge Pairs</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="gymscout-acquistion" onChange={() => toggleAcquisitions("gym-scout")} />
-                                    <label for="gymscout-acquisition">Gym Scout</label>
+                                    <label htmlFor="gymscout-acquisition">Gym Scout</label>
                                 </div>
                             </div>
                             <div className="limited-section">
                                 <h4 className="section-header">Limited</h4>
                                 <div className="filter-option">
                                     <input type="checkbox" id="pf-acquisition" onChange={() => toggleAcquisitions("pokefair")}/>
-                                    <label for="pf-acquisition">Poké Fair</label>
+                                    <label htmlFor="pf-acquisition">Poké Fair</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="mf-acquisition" onChange={() => toggleAcquisitions("master-fair")}/>
-                                    <label for="mf-acquisition">Master Fair</label>
+                                    <label htmlFor="mf-acquisition">Master Fair</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="af-acquisition" onChange={() => toggleAcquisitions("arc-fair")}/>
-                                    <label for="af-acquisition">Arc Fair</label>
+                                    <label htmlFor="af-acquisition">Arc Fair</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="variety-acquisition" onChange={() => toggleAcquisitions("variety")}/>
-                                    <label for="variety-acquisition">Variety Scout</label>
+                                    <label htmlFor="variety-acquisition">Variety Scout</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="sc-acquisition" onChange={() => toggleAcquisitions("special-costume")}/>
-                                    <label for="sc-acquisition">Special Costume Pairs</label>
+                                    <label htmlFor="sc-acquisition">Special Costume Pairs</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="seasonal-acquisition" onChange={() => toggleAcquisitions("seasonal-outfit")}/>
-                                    <label for="seasonal-acquisition">Seasonal Pairs</label>
+                                    <label htmlFor="seasonal-acquisition">Seasonal Pairs</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="mix-acquisition" onChange={() => toggleAcquisitions("mix-scout")}/>
-                                    <label for="mix-acquisition">Mix Scout Exclusive</label>
+                                    <label htmlFor="mix-acquisition">Mix Scout Exclusive</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="noticket-acquisition" onChange={() => toggleAcquisitions("no-ticket")}/>
-                                    <label for="noticket-acquisition">General Pool, non-Ticket Scout</label>
+                                    <label htmlFor="noticket-acquisition">General Pool, non-Ticket Scout</label>
                                 </div>
                                 <div className="filter-option">
                                     <input type="checkbox" id="limlodge-acquisition" onChange={() => toggleAcquisitions("lodge-gacha")}/>
-                                    <label for="limlodge-acquisition">Limited Lodge Pairs</label>
+                                    <label htmlFor="limlodge-acquisition">Limited Lodge Pairs</label>
                                 </div>
                             </div>
                         </div>
@@ -487,7 +487,7 @@ const TierList = () => {
                             {SyncPairIcon("Silver & Ho-Oh", "silver-trainer fire johto rival battle-partner complicated-family strike exr-none legendary-adventure has-lodge", "/images/pair/johto/Silver.png", "orange")}
                             {SyncPairIcon("Steven (Anniversary 2021) & Rayquaza★", "steven-trainer flying hoenn seasonal-outfit battle-facility-foe rock-lover strike exr-none master-fair shiny", "/images/pair/hoenn/A_Steven.png", "orange")}
                             {SyncPairIcon("Hilda & Emboar", "hilda-trainer fire unova main-character unova-adventurer passionate-spirit strike exr-none spotlight ticket", "/images/pair/unova/Hilda.png", "orange")}
-                            {SyncPairIcon("Elesa & Zebstrika", "elesa-trainer unova gym-leader undella-town artistic strike exr-none spotlight ticket has-lodge", "/images/pair/unova/Elesa.png", "yellow")}
+                            {SyncPairIcon("Elesa & Zebstrika", "elesa-trainer electric unova gym-leader undella-town artistic strike exr-none spotlight ticket has-lodge", "/images/pair/unova/Elesa.png", "yellow")}
                             {SyncPairIcon("Kris & Feraligatr", "kris-trainer water johto main-character pigtails knowledgeable strike exr-none spotlight ticket", "/images/pair/johto/Kris.png", "yellow")}
                             {SyncPairIcon("Sygna Suit Grimsley & Sharpedo", "grimsley-trainer water unova cape sygna-suit strike exr-none spotlight ticket", "/images/pair/unova/SS_Grimsley.png", "yellow")}
                             {SyncPairIcon("Player & Solgaleo", "player-trainer steel main-character pasio strike exr-none legendary-adventure", "/images/pair/pasio/PlayerM_Solgaleo.png", "yellow")}
