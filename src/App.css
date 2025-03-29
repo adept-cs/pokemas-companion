@@ -50,9 +50,9 @@
 
 .tierlist-page {
     
-    .not-ranked { 
+    /*.not-ranked { 
         display: none;
-    }
+    }*/
     
     .tierlists {
         @media (min-width: 1024px) {
