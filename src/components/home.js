@@ -28,7 +28,7 @@ const Home = () => {
                 </div>
                 <div className="homepage-resource">
                     <div className="resource-overview">
-                        <h3>Battle Rally Stage Viewer [COMING SOON]</h3>
+                        <h3><Link to="rally">Battle Rally Stage Viewer [COMING SOON]</Link></h3>
                         <p>Identify stages in Battle Rally by the opponents you see. Shows what sync pairs battles were "made" for if applicable, and all enemy passives. <i>Resource originally created by me!</i></p>
                         <h4>This feature is currently in development. Check back later for this to be supported, but I'm excited about adding it!</h4>
                     </div>

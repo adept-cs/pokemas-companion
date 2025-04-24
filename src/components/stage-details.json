@@ -1,0 +1,2104 @@
+{
+    "Anabel_UB": {
+        "left": {
+            "name": "Beauty & Arcanine",
+            "weakness" : "water",
+            "moves": [
+                "X Sp.Atk All (1 MP)",
+                "Overheat",
+                "Bulldoze (post-sync)",
+                "Bulldoze (after center target faints)",
+                "Heat Wave"
+            ],
+            "passives": [
+                "Condition Nullification Extension 5",
+                "Resilience",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Charging Sun 9",
+                "Speeding Sun 5",
+                "Sunscreen 5",
+                "Team Sunbathe 9",
+                "Piercing Gaze",
+                "Dauntless",
+                "Shielded 1",
+                "Barricade Buddies 1",
+                "Quick Tempo",
+                "Team Sentry Entry 1"
+            ]
+        },
+        "center": {
+            "name": "Anabel & Entei",
+            "weakness": "water",
+            "moves": [
+                "Eruption",
+                "Sacred Fire",
+                "Bulldoze",
+                "Heat Wave",
+                "X Sp.Atk All (1 MP)",
+                "Dire Hit All+ (2 MP)",
+                "Sync Move: Fire Sync Beam"
+            ],
+            "passives": [
+                "1st Time 60% HP: Endurance",
+                "Condition Nullification Extension 5",
+                "Resilience",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Fluid Fortification",
+                "Sunburst",
+                "Solarize",
+                "Charging Sun 9",
+                "Solar Flare 9",
+                "Team Sunbathe 9",
+                "Piercing Gaze",
+                "Hostile Environment 1",
+                "Initial Injured Ferocity 2",
+                "Fanfare 2",
+                "Searing Surge 5"
+            ]
+        },
+        "right": {
+            "name": "Ace Trainer (F) & Ninetales",
+            "weakness": "water",
+            "moves": [
+                "Heat Wave",
+                "Flare Blitz",
+                "X Attack All (1 MP)",
+                "Heat Wave (post-sync)",
+                "Giga Impact (after center target faints)"
+            ],
+            "passives": [
+                "Condition Nullification Extension 5",
+                "Resilience",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Charging Sun 9",
+                "Speeding Sun 5",
+                "Sunscreen 5",
+                "Team Sunbathe 9",
+                "Piercing Gaze",
+                "Standfast 9",
+                "Shielded 1",
+                "Barricade Buddies 1",
+                "Team Solar Immunity",
+                "Team Wise Entry 1"
+            ]
+        }
+    },
+    "Argenta_UB": {
+        "left": {
+            "name": "Lass & Slowbro",
+            "weakness": "grass",
+            "moves": [
+                "Earthquake",
+                "Psychic",
+                "Psychic Terrain (1 MP)",
+                "Muddy Water (post-sync)",
+                "Earthquake (after center target faints)"
+            ],
+            "passives": [
+                "Wide Awake",
+                "Unflappable",
+                "Antifreeze",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "Raging Rain 5",
+                "Psychic Terrain Debut & Extension 5",
+                "Team Weird Vibes 3",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Rain Gear 5",
+                "Move: Remove Interference 9",
+                "Refreshing Rain 1",
+                "Torrential Tenacity",
+                "Rainy Immunity"
+            ]
+        },
+        "center": {
+            "name": "Argenta & Suicune",
+            "weakness": "grass",
+            "moves": [
+                "Waterfall",
+			    "Bulldoze",
+			    "Liquidation",
+			    "Hydro Pump (post-sync)",
+			    "X Attack All (1 MP)",
+			    "Dire Hit All+ (2 MP)",
+			    "Sync Move: Water Sync Impact"
+            ],
+            "passives": [
+                "1st Time 50% HP: Endurance",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "Move: Remove Interference 9",
+                "1st Time 50% HP: Team Remove Negative Status Change",
+                "Downpour",
+                "Raging Rain 5",
+                "Shower Power 9",
+                "1st Time 50% HP: Rainy",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Rain Gear 5",
+                "Racing Rain 4",
+                "Move Gauge Refresh 9",
+                "Refreshing Rain 1",
+                "Torrential Tenacity",
+                "Rainy Immunity"
+            ]
+        },
+        "right": {
+            "name": "Beauty & Starmie",
+            "weakness": "grass",
+            "moves": [
+                "Swift",
+                "Psychic",
+                "X Sp.Atk All (1 MP)",
+                "Hyper Beam (post-sync)",
+                "Surf (after center target faints)"
+            ],
+            "passives": [
+                "Wide Awake",
+                "Unflappable",
+                "Antifreeze",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "Raging Rain 5",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Psychic Shift",
+                "Rain Gear 5",
+                "Team Weird Vibes 3",
+                "Move: Remove Interference 9",
+                "Refreshing Rain 1",
+                "Torrential Tenacity",
+                "Rainy Immunity"
+            ]
+        }
+    },
+    "Darach_UB": {
+        "left": {
+            "name": "Beauty & Talonflame",
+            "weakness": "rock",
+            "moves": [
+                "Heat Wave",
+                "Overheat",
+                "X Sp.Atk All (1 MP)",
+                "Heat Wave (post-sync)",
+                "Giga Impact (after center target faints)"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "All DF Resistance 5",
+                "Piercing Gaze",
+                "Unaffected by Field Effect: Moves ↑ 9",
+                "Dauntless"
+            ]
+        },
+        "center": {
+            "name": "Darach & Staraptor",
+            "weakness": "rock",
+            "moves": [
+                "Quick Attack (3 MP)",
+                "Heat Wave",
+                "Brave Bird",
+                "Heat Wave (post-sync)",
+                "Have At You! (1 MP)",
+                "Dire Hit All+ (2 MP)",
+                "Sync Move: Loyal Butler Brave Bird"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "All DF Resistance 5",
+                "HP 40% or Less: All DF Immunity",
+                "Piercing Gaze",
+                "Standfast 9",
+                "Team Gimme Five 1",
+                "Unaffected by Field Effect: Moves ↑ 9",
+                "Unaffected by Field Effect: S-Moves ↑ 9",
+                "1st Time 40% HP: Endurance",
+                "Move Gauge Refresh 9",
+                "Group Morale Boost 9",
+                "1st S-Move on Opp: Defense ↓ & Sp. Def ↓ 2"
+            ]
+        },
+        "right": {
+            "name": "Collector & Aerodactyl",
+            "weakness": "rock",
+            "moves": [
+                "Brutal Swing",
+                "Crunch",
+                "X Attack All (1 MP)",
+                "Giga Impact (post-sync)",
+                "Heat Wave (after center target faints)"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "All DF Resistance 5",
+                "Piercing Gaze",
+                "Unaffected by Field Effect: Moves ↑ 9"
+            ]
+        }
+    },
+    "Evelyn_UB": {
+        "left": {
+            "name": "Punk Girl & Hydreigon",
+            "weakness": "fairy",
+            "moves": [
+                "X Sp.Atk All (1 MP)",
+                "Crunch",
+                "Dragon Rush",
+                "Earthquake (post-sync)",
+                "Dark Pulse (after center target faints)"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Fluid Fortification",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Sp.Def ↑: Moves ↑ 9",
+                "Barricade Buddies 1",
+                "Piercing Gaze"
+            ]
+        },
+        "center": {
+            "name": "Evelyn & Latios",
+            "weakness": "fairy",
+            "moves": [
+                "Luster Purge",
+                "Breaking Swipe (1 MP)",
+                "Hyper Beam",
+                "Earthquake (post-sync)",
+                "X Sp.Atk All (1 MP)",
+                "Dire Hit All+ (2 MP)",
+                "Sync Move: Dragon Sync Beam"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Fluid Fortification",
+                "One-Hit KO Nullification",
+                "Sharpened Mind 9",
+                "1st Time 60% HP: Endurance",
+                "1st Time 60% HP: 5 Stats ↑2",
+                "All Ramped Up 1",
+                "High Five 1",
+                "Brain Sync 9",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "Piercing Gaze",
+                "Move Gauge Refresh 9",
+                "Grand Entry 2"
+            ]
+        },
+        "right": {
+            "name": "Beauty & Dragapult",
+            "weakness": "fairy",
+            "moves": [
+                "Dragon Claw (1 MP)",
+                "Surf",
+                "Dragon Darts",
+                "Surf (post-sync)",
+                "Dragon Darts (after center target faints)"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Fluid Fortification",
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Sp.Def ↑: Moves ↑ 9",
+                "Berserk Bunch 1",
+                "Piercing Gaze"
+            ]
+        }
+    },
+    "Giovanni_UB": {
+        "left": {
+            "name": "Team Rocket Grunt & Hypno",
+            "weakness": "dark",
+            "moves": [
+                "X Sp.Def All+ (1 MP)",
+                "Psychic",
+                "Swift",
+                "Hyper Beam (post-sync)",
+                "Swift (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Unaffected by Field Effect: Moves ↑ 5",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "All DF Resistance 7",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Discombobulate 9",
+                "Ripple Effect 9",
+                "Double Drop",
+                "Group Pep Talk 9",
+                "Group Morale Boost 9",
+                "Good Form",
+                "Move Gauge Refresh 9"
+            ]
+        },
+        "center": {
+            "name": "Giovanni & Mega Mewtwo Y",
+            "weakness": "dark",
+            "moves": [
+                "Ice Beam",
+                "Psystrike",
+                "Earthquake",
+                "You're in Trouble Now! (1 MP)",
+                "The Ultimate Power! (1 MP)",
+                "Sure Crit All",
+                "Sync Move: World Domination Psystrike"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Unaffected by Field Effect: Moves ↑ 5",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "All DF Resistance 7",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "1st Time 80% HP: Endurance",
+                "1st Time 40% HP: Endurance",
+                "Sharpened Body 9",
+                "Sharpened Mind 9",
+                "Brawn Sync 9",
+                "Brain Sync 9",
+                "S-Move: Team 5 Stats ↑ 2",
+                "Good Form",
+                "Rising Tide"
+            ]
+        },
+        "right": {
+            "name": "Team Rocket Grunt & Hypno",
+            "weakness": "dark",
+            "moves": [
+                "Swift",
+                "Mega Kick",
+                "X Defense All+ (1 MP)",
+                "Swift (post-sync)",
+                "Giga Impact (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Unaffected by Field Effect: Moves ↑ 5",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "All DF Resistance 7",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Discombobulate 9",
+                "Ripple Effect 9",
+                "Double Drop",
+                "Group Pep Talk 9",
+                "Group Morale Boost 9",
+                "Good Form",
+                "Move Gauge Refresh 9"
+            ]
+        }
+    },
+    "Leon_UB": {
+        "left": {
+            "name": "Ace Trainer (F) & Butterfree",
+            "weakness": "electric",
+            "moves": [
+                "Struggle Bug",
+                "X Speed All (1 MP)",
+                "Condition Shield (1 MP, post-sync)",
+                "Hyper Beam (after center target faints)",
+                "Sure Crit All (1 MP)"
+            ],
+            "passives": [
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "Unaffected by Field Effect: Moves ↑ 5",
+                "Robust Physique",
+                "No Status Cond: P-Moves, S-Moves, & Max Moves ↑ 3",
+                "Piercing Gaze",
+                "Dirty Fighting 5",
+                "Move on Opp: Sleep 9",
+                "Friend Mend 9",
+                "Lessen Paralysis 7"
+            ]
+        },
+        "center": {
+            "name": "Leon (Alt.) & Charizard",
+            "weakness": "electric",
+            "moves": [
+                "Heat Wave",
+                "Flare Blitz",
+                "Blast Burn",
+                "Dragon Rush",
+                "Inferno",
+                "Sure Crit All (1 MP)",
+                "Sync Move: Champion Time Fire Blast",
+                "Max Move: G-Max Wildfire"
+            ],
+            "passives": [
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "Unaffected by Field Effect: Moves ↑ 5",
+                "Robust Physique",
+                "No Status Cond: P-Moves, S-Moves, & Max Moves ↑ 5",
+                "Piercing Gaze",
+                "Dirty Fighting 5",
+                "1st Time 60% HP: Endurance",
+                "1st Time 60% HP: Team Remove Status Cond",
+                "1st Time 60% HP: Remove WTZ",
+                "Standfast 9",
+                "Fainting Cleanse",
+                "Move Gauge Refresh 9",
+                "S-Move: Team Free Move Next 9",
+                "Fanfare 3",
+                "S-Move: Team Sp.Atk ↑ 3",
+                "Lessen Paralysis 7"
+            ]
+        },
+        "right": {
+            "name": "Ace Trainer (M) & Lapras",
+            "weakness": "electric",
+            "moves": [
+                "Sparkling Aria",
+                "Hydro Pump",
+                "X Sp.Atk All (1 MP)",
+                "Sparkling Aria (post-sync)",
+                "Surf (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Unaffected by Field Effect: Defense & Sp.Def x3",
+                "Unaffected by Field Effect: Moves ↑ 5",
+                "Robust Physique",
+                "No Status Cond: P-Moves, S-Moves, & Max Moves ↑ 3",
+                "Piercing Gaze",
+                "Dirty Fighting 5",
+                "Move on Opp: Sleep 9",
+                "Friend Mend 9",
+                "Lessen Paralysis 7"
+            ]
+        }
+    },
+    "Lucy_UB": {
+        "left": {
+            "name": "Street Thug & Nidoking",
+            "weakness": "ground",
+            "moves": [
+                "Poison Jab",
+                "X Attack All (1 MP)",
+                "Sludge Wave",
+                "Rock Slide (post-sync)",
+                "Sludge Wave (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Wide Awake",
+                "Unflappable",
+                "Antifreeze",
+                "Sudden Sprint 3",
+                "Hostile Environment 10",
+                "Toxic Power 5",
+                "Speed ↑: Moves ↑ 9",
+                "Piercing Gaze",
+                "Move Gauge Refresh 9"
+            ]
+        },
+        "center": {
+            "name": "Lucy & Seviper",
+            "weakness": "ground",
+            "moves": [
+                "Sludge Wave (3 Use)",
+                "Iron Tail",
+                "Venoshock",
+                "Sure Crit All",
+                "Sync Move: Pike Queen Poison Fang"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Wide Awake",
+                "Unflappable",
+                "Antifreeze",
+                "Sudden Sprint 3",
+                "1st Time 80% HP: Endurance",
+                "1st Time 40% HP: Endurance",
+                "1st Time 80% HP: Remove Status Cond & Negative Status Change",
+                "1st Time 40% HP: Remove Status Cond & Negative Status Change",
+                "Hostile Environment 10",
+                "Potent Toxin 2",
+                "Toxic Power 5",
+                "Virulent Toxin 5",
+                "Speed ↑: Moves ↑ 9",
+                "Speedster's Sync 9",
+                "Pep Rally 1",
+                "Piercing Gaze",
+                "S-Move: Team Speed ↑ 2"
+            ]
+        },
+        "right": {
+            "name": "Beauty & Nidoqueen",
+            "weakness": "ground",
+            "moves": [
+                "Shadow Ball",
+                "X Sp.Atk All (1 MP)",
+                "Rock Slide",
+                "Sludge Wave (post-sync)",
+                "Rock Slide (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Wide Awake",
+                "Unflappable",
+                "Antifreeze",
+                "Sudden Sprint 3",
+                "Hostile Environment 10",
+                "Toxic Power 5",
+                "Speed ↑: Moves ↑ 9",
+                "Piercing Gaze",
+                "Move Gauge Refresh 9"
+            ]
+        }
+    },
+    "MaskedRoyal_UB": {
+        "left": {
+            "name": "Ace Trainer (M) & Primarina",
+            "weakness": "poison",
+            "moves": [
+                "Hyper Voice (1 MP)",
+                "Sparkling Aria",
+                "X Sp.Atk All (1 MP)",
+                "Blizzard (post-sync)",
+                "Giga Impact (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "No Status Cond: Defense & Sp.Def x3",
+                "Robust Physique",
+                "No Status Cond: P-Moves, S-Moves, & Max Moves ↑ 5",
+                "T-Move: Team Remove Status Cond 9",
+                "Hit: Team Attack ↑ & Sp. Atk ↑ 9",
+                "Sharpened Body 5",
+                "Sharpened Mind 5",
+                "Speed ↑: Moves ↑ 3",
+                "Dashing Team 5"
+            ]
+        },
+        "center": {
+            "name": "The Masked Royal & Alolan Ninetales",
+            "weakness": "poison",
+            "moves": [
+                "Triple Axel",
+                "X Speed All (1 MP)",
+                "Blizzard",
+                "Giga Impact",
+                "X Sp.Atk All (1 MP)",
+                "Sure Crit All",
+                "Sync Move: Ice Sync Beam"
+            ],
+            "passives": [
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "1st Time 70% HP: Endurance",
+                "No Status Cond: Defense & Sp.Def x3",
+                "T-Move: Team Remove Status Cond 9",
+                "1st Time 70% HP: Team Remove Status Cond",
+                "Fainting Cleanse",
+                "High Five 2",
+                "1st Time 70% HP: Team 5 Stats ↑2",
+                "Sharpened Body 5",
+                "Sharpened Mind 5",
+                "Speed ↑: Moves ↑ 5",
+                "Brawn Sync 5",
+                "Brain Sync 5",
+                "Speedster's Sync 5",
+                "Recharging Strike 9"
+            ]
+        },
+        "right": {
+            "name": "Pokémon Ranger & Meganium",
+            "weakness": "poison",
+            "moves": [
+                "Seed Bomb",
+                "Petal Blizzard",
+                "X Attack All (1 MP)",
+                "Petal Blizzard (post-sync)",
+                "Frenzy Plant (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "No Status Cond: Defense & Sp.Def x3",
+                "Robust Physique",
+                "No Status Cond: P-Moves, S-Moves, & Max Moves ↑ 5",
+                "T-Move: Team Remove Status Cond 9",
+                "Hit: Team Attack ↑ & Sp. Atk ↑ 9",
+                "Sharpened Body 5",
+                "Sharpened Mind 5",
+                "Speed ↑: Moves ↑ 3",
+                "Dashing Team 5"
+            ]
+        }
+    },
+    "Nemona_UB": {
+        "left": {
+            "name": "Punk Girl & Toxtricity (Low Key Form)",
+            "weakness": "psychic",
+            "moves": [
+                "X Sp.Atk All (1 MP)",
+                "Discharge",
+                "Overdrive",
+                "Electric Terrain (1 MP, post-sync)",
+                "Overdrive (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Team Power Induction 5",
+                "Electrorepulsion 3",
+                "Turbo Charge 3",
+                "Grounding Wire",
+                "Team Electric Current",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "Friend Care 9",
+                "Move Gauge Refresh 9",
+                "Shock Recovery 1"
+            ]
+        },
+        "center": {
+            "name": "Nemona & Pawmot",
+            "weakness": "psychic",
+            "moves": [
+                "Thunder Punch",
+                "Swift",
+                "Wild Charge",
+                "Discharge",
+                "X Attack All (1 MP)",
+                "Dire Hit All+ (2 MP)",
+                "Sync Move: Coming to Fruition Double Shock"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Debut: Electric Terrain",
+                "Power Plant",
+                "1st Time 60% HP: Electric Terrain",
+                "Team Power Induction 7",
+                "Sync Induction 9",
+                "Electrorepulsion 3",
+                "Grounding Wire",
+                "S-Move: Team Remove Negative Status Change 9",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "1st Time 60% HP: Endurance",
+                "S-Move: Team 5 Stats ↑ 2",
+                "Shock Recovery 1",
+                "Hit: Defense ↓ & Sp. Def ↓ 9",
+                "Insult to Injury",
+                "Brainteaser"
+            ]
+        },
+        "right": {
+            "name": "Street Thug & Toxtricity (Amped Form)",
+            "weakness": "psychic",
+            "moves": [
+                "Wild Charge",
+                "Hyper Voice (1 MP)",
+                "X Attack All (1 MP)",
+                "Overdrive (post-sync)",
+                "Wild Charge (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "Lessen Burn 10",
+                "Lessen Trap 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Team Power Induction 5",
+                "Electrorepulsion 3",
+                "Turbo Charge 3",
+                "Grounding Wire",
+                "Team Charged Speed Drain 9 (x2)",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "Friend Care 9",
+                "Move Gauge Refresh 9",
+                "Shock Recovery 1"
+            ]
+        }
+    },
+    "Nita_UB": {
+        "left": {
+            "name": "Pokémon Ranger & Hippowdon",
+            "weakness": "ice",
+            "moves": [
+                "Hyper Voice",
+                "X Attack All (1 MP)",
+                "Double-Edge",
+                "Sandstorm",
+                "Earthquake (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Sand Kicker",
+                "Sand Alert 5",
+                "Surging Sand 9",
+                "Move Gauge Refresh 9",
+                "Soothing Sand 1",
+                "Sandy Pep Rally 9",
+                "Sands of Time 4",
+                "Pep Rally 1",
+                "Speed ↑: Moves ↑ 9",
+                "Speed ↑: Defense & Sp.Def x3",
+                "Piercing Gaze",
+                "Standfast 9"
+            ]
+        },
+        "center": {
+            "name": "Nita & Landorus (Incarnate Forme)",
+            "weakness": "ice",
+            "moves": [
+                "Earthquake",
+                "Earth Power",
+                "Hyper Beam",
+                "X Speed All (1 MP)",
+                "How Are Ya? (1 MP)",
+                "Sync Move: Spunky Sis Ground Impact"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "1st Time 80% HP: Endurance",
+                "1st Time 50% HP: Endurance",
+                "1st Time 80% HP: Sandstorm",
+                "1st Time 50% HP: Sandstorm",
+                "Sand Alert 5",
+                "Surging Sand 9",
+                "Sand Blaster 9",
+                "Build Up",
+                "Soothing Sand 1",
+                "Team Fast-Track 9",
+                "S-Move: Team Remove Stat ↓ 9",
+                "Speed ↑: Moves ↑ 9",
+                "Speedster's Sync 9",
+                "Speed ↑: Defense & Sp.Def x3",
+                "Piercing Gaze"
+            ]
+        },
+        "right": {
+            "name": "Ace Trainer (M) & Garchomp",
+            "weakness": "ice",
+            "moves": [
+                "Brutal Swing",
+                "Dragon Rush",
+                "X Sp.Atk All (1 MP)",
+                "Earthquake (post-sync)",
+                "Hyper Beam (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Sand Alert 5",
+                "Surging Sand 9",
+                "Move Gauge Refresh 9",
+                "Soothing Sand 1",
+                "Sandy Pep Rally 9",
+                "Sands of Time 4",
+                "Pep Rally 1",
+                "Speed ↑: Moves ↑ 9",
+                "Speed ↑: Defense & Sp.Def x3",
+                "Piercing Gaze"
+            ]
+        }
+    },
+    "Noland_UB": {
+        "left": {
+            "name": "Black Belt & Poliwrath",
+            "weakness": "flying",
+            "moves": [
+                "X Attack All (1 MP)",
+                "Giga Impact",
+                "Earthquake",
+                "Earthquake (post-sync)",
+                "Fissure (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Piercing Blows",
+                "Move: Physical Boost 10",
+                "Move Gauge Refresh 9",
+                "Follow-Through 9"
+            ]
+        },
+        "center": {
+            "name": "Noland & Machamp",
+            "weakness": "flying",
+            "moves": [
+                "Fissure",
+                "Earthquake",
+                "X Attack All (1 MP)",
+                "Sync Move: Fighting Sync Impact"
+            ],
+            "passives": [
+                "One-Hit KO Nullification",
+                "Lessen Poison 10",
+                "Piercing Gaze",
+                "Piercing Blows",
+                "Momentum 1",
+                "S-Move: Physical Boost 10",
+                "1st Time 80% HP: Endurance",
+                "1st Time 50% HP: Endurance",
+                "1st Time 80% HP: Team 5 Stats ↑2",
+                "1st Time 50% HP: Team 5 Stats ↑2",
+                "Quick Tempo",
+                "Catalytic Acceleration",
+                "Move Gauge Refresh 9",
+                "Good Form",
+                "Build Up",
+                "Victory Lap"
+            ]
+        },
+        "right": {
+            "name": "Black Belt & Poliwrath",
+            "weakness": "flying",
+            "moves": [
+                "Brick Break (1 MP)",
+                "X Attack All (1 MP)",
+                "Earthquake",
+                "Fissure (post-sync)",
+                "Earthquake (after center target faints)"
+            ],
+            "passives": [
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Piercing Gaze",
+                "Piercing Blows",
+                "Move: Physical Boost 10",
+                "Move Gauge Refresh 9",
+                "Follow-Through 9"
+            ]
+        }
+    },
+    "Palmer_UB": {
+        "left": {
+            "name": "Camper & Snorlax",
+            "weakness": "fighting",
+            "moves": [
+                "X Attack All (1 MP)",
+                "Giga Impact",
+                "Rock Slide",
+                "Rock Slide (post-sync)",
+                "Giga Impact (after center target faints)"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Wide Awake",
+                "Unflappable",
+                "Antifreeze",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Piercing Blows",
+                "Zero In 3",
+                "Piercing Gaze",
+                "Berserker 2",
+                "Move Gauge Refresh 9"
+            ]
+        },
+        "center": {
+            "name": "Palmer & Regigigas",
+            "weakness": "fighting",
+            "moves": [
+                "Ancient Power",
+                "You've Come This Far! (1 MP)",
+                "Rock Slide",
+                "Giga Impact",
+                "Rock Slide (post-sync)",
+                "Sync Move: Towering Tower Tycoon Normal Impact",
+                "Max Move: Max Strike (immediately post-sync)"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Wide Awake",
+                "Unflappable",
+                "Antifreeze",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "S-Move: Sync Buff ↑ 3",
+                "Piercing Blows",
+                "Clutch Critical",
+                "1st S-Move: Normal Zone",
+                "Targets Maxed",
+                "Piercing Gaze",
+                "Sync Buff & Hit: Physical Boost ↑3 9",
+                "Catalyst",
+                "Swag Bag 9"
+            ]
+        },
+        "right": {
+            "name": "Barry & Empoleon",
+            "weakness": "fighting",
+            "moves": [
+                "X Defense All (1 MP)",
+                "X Sp.Atk All (1 MP)",
+                "Surf",
+                "Blizzard (post-sync)",
+                "Hydro Cannon (after center target faints)"
+            ],
+            "passives": [
+                "Resilience",
+                "Condition Nullification Extension 5",
+                "Wide Awake",
+                "Unflappable",
+                "Antifreeze",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Piercing Blows",
+                "Zero In 3",
+                "Piercing Gaze",
+                "Ramp Up 2",
+                "Move Gauge Refresh 9"
+            ]
+        }
+    },
+    "Thorton_UB": {
+        "left": {
+            "name": "Pokémon Ranger & Avalugg",
+            "weakness": "fire",
+            "moves": [
+                "Icicle Crash",
+                "X Defense All+ (1 MP)",
+                "Rock Slide (1 MP)",
+                "Rock Slide (post-sync)",
+                "Icicle Crash (after center target faints)"
+            ],
+            "passives": [
+                "Resilience",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Sentry Entry x3",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "Piercing Gaze",
+                "Friend Care 9",
+                "Defense ↑: Moves ↑ 3"
+            ]
+        },
+        "center": {
+            "name": "Thorton & Articuno",
+            "weakness": "fire",
+            "moves": [
+                "Icy Wind",
+                "Triple Axel",
+                "Double-Edge",
+                "Blizzard",
+                "X Attack All (1 MP)",
+                "Dire Hit All+ (2 MP)",
+                "Sync Move: Ice Sync Impact"
+            ],
+            "passives": [
+                "Resilience",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Sentry Entry x3",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "Piercing Gaze",
+                "1st Time 60% HP: Endurance",
+                "1st Time 60% HP: Swap ↑ Defense & Sp.Def",
+                "Friend Care 9",
+                "Standfast 9",
+                "Team Sentry Entry 1",
+                "Move Gauge Refresh 9",
+                "Defense ↑: Moves ↑ 3",
+                "Tough Sync 3",
+                "Brainy Rush 2",
+                "Defense Rush 1",
+                "Catalyst"
+            ]
+        },
+        "right": {
+            "name": "Scientist & Steelix",
+            "weakness": "fire",
+            "moves": [
+                "Earthquake",
+                "X Attack All (1 MP)",
+                "Stealth Rock (1 MP)",
+                "Earthquake (post-sync)",
+                "Iron Head (after center target faints)"
+            ],
+            "passives": [
+                "Resilience",
+                "Lessen Poison 10",
+                "One-Hit KO Nullification",
+                "Sentry Entry x3",
+                "No Negative Status Change: Defense & Sp.Def x3",
+                "Piercing Gaze",
+                "Friend Care 9",
+                "Defense ↑: Moves ↑ 3"
+            ]
+        }
+    },
+    "Lucky_Area": {
+        "left": {
+            "name": "Preschooler & Togepi",
+            "weakness": "steel",
+            "moves": [
+                "Draining Kiss",
+                "Headbutt",
+                "X Sp.Def (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Preschooler & Togepi",
+            "weakness": "steel",
+            "moves": [
+                "Psychic",
+                "Draining Kiss (2 MP)",
+                "X Speed All (1 MP)",
+                "X Defense All (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Preschooler & Togepi",
+            "weakness": "steel",
+            "moves": [
+                "Draining Kiss",
+                "Headbutt",
+                "X Sp.Def (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeLance_GeetaSilver": {
+        "left": {
+            "name": "Ace Trainer (F) & Gardevoir",
+            "weakness": "poison",
+            "moves": [
+                "Psychic",
+                "Moonblast"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Lance & Dragonite",
+            "weakness": "rock",
+            "moves": [
+                "Outrage",
+                "Dragon Claw (2 MP)",
+                "X Speed All (1 MP)",
+                "X Sp.Def All (1 MP)",
+                "Sync Move: Unrivaled Outrage"
+            ],
+            "passives": [
+                "Clearheaded"
+            ]
+        },
+        "right": {
+            "name": "Ace Trainer (M) & Granbull",
+            "weakness": "poison",
+            "moves": [
+                "Play Rough",
+                "Crunch"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengePasio_SCAdamanIrida": {
+        "left": {
+            "name": "Pokémon Ranger & Yamper",
+            "weakness": "ground",
+            "moves": [
+                "Spark",
+                "Thunderbolt"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Beauty & Jynx",
+            "weakness": "ghost",
+            "moves": [
+                "Psychic",
+                "Ice Punch (2 MP)",
+                "X Sp.Def All (1 MP)",
+                "X Speed All (1 MP)",
+                "Sync Move: Psychic Sync Beam"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Youngster & Simisear",
+            "weakness": "ground",
+            "moves": [
+                "Fire Punch",
+                "Flamethrower"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengePasio_JacqVolo": {
+        "left": {
+            "name": "Punk Girl & Liepard",
+            "weakness": "fairy",
+            "moves": [
+                "Seed Bomb",
+                "Dark Pulse"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Scientist & Toxicroak",
+            "weakness": "psychic",
+            "moves": [
+                "Poison Jab",
+                "Venoshock (2 MP)",
+                "X Speed All (1 MP)",
+                "X Defense All (1 MP)",
+                "Sync Move: Poison Sync Impact"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Street Thug & Nidoking",
+            "weakness": "ground",
+            "moves": [
+                "Earth Power",
+                "Earthquake (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeTagTeam_SCBarrySelene": {
+        "center": {
+            "name": "The Masked Royal & Incineroar",
+            "weakness": "fighting",
+            "moves": [
+                "Darkest Lariat",
+                "Brutal Swing (2 MP)",
+                "Ready...Fight! (1 MP)",
+                "X Sp.Def (1 MP)",
+                "Sync Move: Heel Turn Malicious Moonsault"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Crasher Wake & Floatzel",
+            "weakness": "grass",
+            "moves": [
+                "Waterfall",
+                "Ice Punch"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeWhitney_Rika": {
+        "left": {
+            "name": "Rising Star & Pichu",
+            "weakness": "ground",
+            "moves": [
+                "Thunderbolt",
+                "Electroweb (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Whitney & Miltank",
+            "weakness": "fighting",
+            "moves": [
+                "Mega Kick",
+                "Headbutt (2 MP)",
+                "X Accuracy All (1 MP)",
+                "X Speed All (1 MP)",
+                "Sync Move: Supercute Rolling Tackle"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Camper & Elekid",
+            "weakness": "ground",
+            "moves": [
+                "Thunderbolt",
+                "Swift (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengePerformers_BrycenmanBellelba": {
+        "left": {
+            "name": "Nate & Braviary",
+            "weakness": "rock",
+            "moves": [
+                "Aerial Ace",
+                "Crush Claw"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Diantha (Special Costume) & Keldeo (Resolute Form)",
+            "weakness": "grass",
+            "moves": [
+                "Scald",
+                "Water Pulse (2 MP)",
+                "X Speed All (1 MP)",
+                "X Defense All (1 MP)",
+                "Sync Move: Water Sync Beam"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Rosa & Serperior",
+            "weakness": "flying",
+            "moves": [
+                "Giga Drain",
+                "Seed Bomb"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengePasio_NCBiancaCheren": {
+        "left": {
+            "name": "Hiker & Throh",
+            "weakness": "flying",
+            "moves": [
+                "Body Slam",
+                "Brick Break"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Lass & Cryogonal",
+            "weakness": "fighting",
+            "moves": [
+                "Icy Wind",
+                "Body Slam (2 MP)",
+                "X Defense All (1 MP)",
+                "X Speed All (1 MP)",
+                "Sync Move: Ice Sync Beam"
+            ],
+            "passives": [
+                "Team Pinpoint Entry 1"
+            ]
+        },
+        "right": {
+            "name": "Black Belt & Sawk",
+            "weakness": "flying",
+            "moves": [
+                "Zen Headbutt",
+                "Rock Smash"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengePasio_LarryKabu": {
+        "left": {
+            "name": "Camper & Mudkip",
+            "weakness": "grass",
+            "moves": [
+                "Ice Beam",
+                "Bite"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Rising Star & Thwackey",
+            "weakness": "fire",
+            "moves": [
+                "Wood Hammer",
+                "Razor Leaf (2 MP)",
+                "X Speed All (1 MP)",
+                "X Defense All (1 MP)",
+                "Sync Move: Grass Sync Impact"
+            ],
+            "passives": [
+                "Standfast 9"
+            ]
+        },
+        "right": {
+            "name": "Lass & Fuecoco",
+            "weakness": "water",
+            "moves": [
+                "Flamethrower",
+                "Fire Fang"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeLana_SumAcerolaGardenia": {
+        "left": {
+            "name": "Swimmer & Jigglypuff",
+            "weakness": "steel",
+            "moves": [
+                "Draining Kiss",
+                "Disarming Voice (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Lana & Araquanid",
+            "weakness": "rock",
+            "moves": [
+                "Liquidation",
+                "Bubble Beam (2 MP)",
+                "X Speed (1 MP)",
+                "Karpe Diem! (1 MP)",
+                "Sync Move: Seaside Sister Hydro Vortex"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Swimmer & Frillish",
+            "weakness": "ghost",
+            "moves": [
+                "Waterfall",
+                "Facade"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeErika_AveryKlaraGreta": {
+        "left": {
+            "name": "Swimmer & Mareanie",
+            "weakness": "grass",
+            "moves": [
+                "Water Pulse",
+                "Brine"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Erika & Vileplume",
+            "weakness": "psychic",
+            "moves": [
+                "Sludge Wave",
+                "Venoshock (2 MP)",
+                "Pour It On! (1 MP)",
+                "X Sp.Def (1 MP)",
+                "Sync Move: Poison Sync Beam"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Swimmer & Bibarel",
+            "weakness": "grass",
+            "moves": [
+                "Headbutt",
+                "Aqua Tail"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengePasio_AltElioSelene": {
+        "left": {
+            "name": "Camper & Glaceon",
+            "weakness": "rock",
+            "moves": [
+                "Swift (1 MP)",
+                "Ice Fang"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Rising Star & Alolan Ninetales",
+            "weakness": "rock",
+            "moves": [
+                "Icy Wind",
+                "Feint Attack",
+                "X Speed All (1 MP)",
+                "X Defense All (1 MP)",
+                "Sync Move: Ice Sync Beam"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Preschooler & Ribombee",
+            "weakness": "rock",
+            "moves": [
+                "Dazzling Gleam (1 MP)",
+                "Aerial Ace"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeN_Arven": {
+        "left": {
+            "name": "Camper & Exeggutor",
+            "weakness": "dark",
+            "moves": [
+                "Seed Bomb",
+                "Bulldoze (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "N & Zekrom",
+            "weakness": "ground",
+            "moves": [
+                "Wild Charge",
+                "Brutal Swing (2 MP)",
+                "Ideals Will Prevail! (1 MP)",
+                "X Attack (1 MP)",
+                "Sync Move: Bridging Bolt Strike"
+            ],
+            "passives": [
+                "Standfast 9"
+            ]
+        },
+        "right": {
+            "name": "Collector & Polteageist (Phony Form)",
+            "weakness": "dark",
+            "moves": [
+                "Psybeam",
+                "Facade"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeArven_SSNemona": {
+        "left": {
+            "name": "Poké Fan & Appletun",
+            "weakness": "fairy",
+            "moves": [
+                "Body Slam",
+                "Stomping Tantrum"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Arven & Mabosstiff",
+            "weakness": "fairy",
+            "moves": [
+                "Jaw Lock",
+                "Bite (2 MP)",
+                "X Speed All (1 MP)",
+                "X Sp.Def All (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Hiker & Breloom",
+            "weakness": "fairy",
+            "moves": [
+                "Bullet Seed",
+                "Low Sweep"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengePasio_SSLear": {
+        "left": {
+            "name": "Youngster & Clefairy",
+            "weakness": "steel",
+            "moves": [
+                "Disarming Voice (1 MP)",
+                "Thunderbolt"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Rising Star & Whimsicott",
+            "weakness": "steel",
+            "moves": [
+                "Moonblast",
+                "Razor Leaf (2 MP)",
+                "X Speed All (1 MP)",
+                "X Defense All (1 MP)",
+                "Sync Move: Fairy Sync Beam"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Preschooler & Jigglypuff",
+            "weakness": "steel",
+            "moves": [
+                "Headbutt",
+                "Body Slam"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeRei_ArcSuits": {
+        "left": {
+            "name": "Pokémon Ranger & Abomasnow",
+            "weakness": "steel",
+            "moves": [
+                "Energy Ball",
+                "Razor Leaf (1 MP)"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Rei & Hisuian Decidueye",
+            "weakness": "flying",
+            "moves": [
+                "Brave Bird",
+                "Swift (2 MP)",
+                "X Sp.Def All (1 MP)",
+                "X Defense All (1 MP)",
+                "Sync Move: Space-Time Traveler Triple Arrows"
+            ],
+            "passives": [
+                "Standfast 7"
+            ]
+        },
+        "right": {
+            "name": "Camper & Lucario",
+            "weakness": "ground",
+            "moves": [
+                "Close Combat",
+                "Dragon Pulse"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "ChallengeIono_A24Lillie": {
+        "center": {
+            "name": "Iono & Bellibolt",
+            "weakness": "ground",
+            "moves": [
+                "Discharge",
+                "Thunderbolt (2 MP)",
+                "X Speed All (1 MP)",
+                "X Sp.Def All (1 MP)",
+                "Sync Move: Supercharged Streamer Zap Cannon"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Rosa (Special Costume) & Shaymin (Sky Forme)",
+            "weakness": "rock",
+            "moves": [
+                "Energy Ball",
+                "Aerial Ace"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "DEB_A24Lillie": {
+        "left": {
+            "name": "Hilda & Emboar",
+            "weakness": "ground",
+            "moves": [
+                "Fire Punch",
+                "Flamethrower"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "Lillie (Anniversary 2024) & Solgaleo",
+            "weakness": "ground",
+            "moves": [
+                "Sunsteel Strike",
+                "Facade (2 MP)",
+                "X Speed All (1 MP)",
+                "X Attack All (1 MP)",
+                "Sync Move: Wholesome Heart Searing Sunraze Smash"
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "Nemona & Pawmot",
+            "weakness": "ground",
+            "moves": [
+                "Thunder Punch",
+                "Bite"
+            ],
+            "passives": [
+                
+            ]
+        }
+    },
+    "BC_GeetaSilver": {
+        "left": {
+            "name": "Pokémon Ranger & Abomasnow",
+            "weakness": "poison",
+            "moves": [
+                "Ice Punch",
+                "Energy Ball (1 MP)",
+                "X Sp.Def All (1 MP)",
+                "Ice Punch (post-sync)",
+                "Rock Slide (after center target faints)"
+            ],
+            "passives": [
+                "Wise Entry x2",
+                "Invigorating Hail 3",
+                "Hasty Hail 2",
+                "Hail Alert 3",
+                "Cold Front",
+                "Snow Shelter",
+                "Healing Hail 1"
+            ]
+        },
+        "center": {
+            "name": "Geeta & Avalugg",
+            "weakness": "rock",
+            "moves": [
+                "Icicle Crash",
+                "Ice Beam",
+                "Crunch",
+                "X Speed All (1 MP)",
+                "X Defense All (1 MP)",
+                "X Attack All (1 MP)",
+                "Sync Move: Ice Sync Impact"
+            ],
+            "passives": [
+                "Healthy Advantage 4",
+                "Trained Body 3",
+                "Hail: P-Moves ↑ & S-Moves ↑ 3",
+                "Hail Alert 5",
+                "Team Pinpoint Entry 2",
+                "Tough Sync 3",
+                "Snow Shelter",
+                "Healing Hail 1",
+                "Lessen Poison 7"
+            ]
+        },
+        "right": {
+            "name": "Hiker & Glalie",
+            "weakness": "rock",
+            "moves": [
+                "Ice Fang",
+                "Ice Beam (1 MP)",
+                "X Speed All (1 MP)",
+                "Ice Beam (post-sync)",
+                "Blizzard (after center target faints)"
+            ],
+            "passives": [
+                "Wise Entry x2",
+                "Invigorating Hail 3",
+                "Hasty Hail 2",
+                "Hail Alert 3",
+                "Snow Shelter",
+                "Healing Hail 1"
+            ]
+        }
+    },
+    "BC_SCAdamanIrida": {
+        "left": {
+            "name": "Ace Trainer & Dusknoir",
+            "weakness": "ghost",
+            "moves": [
+                "Shadow Punch",
+                "Shadow Sneak (1 MP)",
+                "X Sp.Def All (1 MP)",
+                "Shadow Punch (post-sync)",
+                "Earthquake (after center target faints)"
+            ],
+            "passives": [
+                "Sentry Entry x2",
+                "Mad Strength 9",
+                "Sharpened Body 3"
+            ]
+        },
+        "center": {
+            "name": "Kiawe & Alolan Marowak",
+            "weakness": "ground",
+            "moves": [
+                "Flare Blitz",
+                "Flame Charge",
+                "Shadow Bone",
+                "X Defense All (1 MP)",
+                "Will-O-Wisp (1 MP)",
+                "X Attack All (1 MP)",
+                "Sync Move: Fire Dance Inferno Overdrive"
+            ],
+            "passives": [
+                "No Negative Status Change: P-Move DR & S-Move DR 8",
+                "Stout Heart 3",
+                "Lessen Trap 7",
+                "Team Pinpoint Entry 1",
+                "Go Viral 9",
+                "Sharpened Body 3",
+                "Brawn Sync 3",
+                "Standfast 9",
+                "Fierce Entry 1"
+            ]
+        },
+        "right": {
+            "name": "Lass & Medicham",
+            "weakness": "ghost",
+            "moves": [
+                "Zen Headbutt",
+                "Low Sweep (1 MP)",
+                "X Speed All (1 MP)",
+                "Zen Headbutt (post-sync)",
+                "Swift (after center target faints)"
+            ],
+            "passives": [
+                "Sentry Entry x2",
+                "Mad Strength 9",
+                "Sharpened Body 3"
+            ]
+        }
+    },
+    "SBE_NCSilver": {
+        "left": {
+            "name": "Beauty & Umbreon",
+            "weakness": "fighting",
+            "moves": [
+                "Dark Pulse",
+                "Shadow Ball (1 MP)",
+                "X Sp.Atk All (1 MP)",
+                "Shadow Ball (post-sync)",
+                "Hyper Beam (after center target faints)"
+            ],
+            "passives": [
+                "Tough Cookie",
+                "Offensive Defense 4",
+                "Umbral Power 3",
+                "Dark Shift"
+            ]
+        },
+        "center": {
+            "name": "Silver (Champion) & Mega Tyranitar★",
+            "weakness": "fighting",
+            "moves": [
+                "Stone Edge",
+                "Rock Tomb",
+                "Crunch",
+                "X Defense All (1 MP)",
+                "Dark Wish (1 MP)",
+                "X Sp.Def All (1 MP)",
+                "Sync Move: Emotional Resolve Rock Slide"
+            ],
+            "passives": [
+                "Trained Body 3",
+                "Trained Mind 3",
+                "Sp.Def ↑: Moves ↑ 3",
+                "Tough Sync 3",
+                "Umbral Power 3",
+                "Dark Zone: S-Moves ↑ 5",
+                "Brainy Rush 2",
+                "Umbral Acceleration 2",
+                "Ripple Effect 9",
+                "Team Sentry Entry 1",
+                "Wise Entry 1",
+                "Team Pinpoint Entry 2",
+                "Quick Tempo"
+            ]
+        },
+        "right": {
+            "name": "Street Thug & Cacturne",
+            "weakness": "fighting",
+            "moves": [
+                "Power Trip",
+                "Bullet Seed (1 MP)",
+                "X Attack All (1 MP)",
+                "Bullet Seed (post-sync)",
+                "Swift (after center target faints)"
+            ],
+            "passives": [
+                "Tough Cookie",
+                "Offensive Defense 4",
+                "Umbral Power 3",
+                "Dark Shift"
+            ]
+        }
+    },
+    "BC_JacqVolo": {
+        "left": {
+            "name": "Hiker & Krookodile",
+            "weakness": "fairy",
+            "moves": [
+                "Dragon Pulse",
+                "Earthquake (1 MP)",
+                "X Defense All (1 MP)",
+                "Drgon Pulse (post-sync)",
+                "Earthquake (after center target faints)"
+            ],
+            "passives": [
+                "Clear Advantage 8",
+                "Toxic Power 3"
+            ]
+        },
+        "center": {
+            "name": "N & Tentacruel",
+            "weakness": "psychic",
+            "moves": [
+                "Sludge Wave",
+                "Waterfall",
+                "Brutal Swing",
+                "X Speed All (1 MP)",
+                "Toxic (1 MP)",
+                "X Evasion All (1 MP)",
+                "Sync Move: Poison Sync Beam"
+            ],
+            "passives": [
+                "Pinpoint Entry 1",
+                "Toxic Power 5",
+                "Virulent Toxin 5",
+                "Fanfare 1",
+                "S-Move: Team Sp.Atk ↑ 1"
+            ]
+        },
+        "right": {
+            "name": "Pokémon Ranger & Muk",
+            "weakness": "psychic",
+            "moves": [
+                "Headbutt",
+                "Swift (1 MP)",
+                "X Attack All (1 MP)",
+                "Headbutt (post-sync)",
+                "Sludge Wave (after center target faints)"
+            ],
+            "passives": [
+                "Clear Advantage 8",
+                "Toxic Power 3"
+            ]
+        }
+    },
+    "BC_SCBarrySelene": {
+        "left": {
+            "name": "Ace Trainer & Cradily",
+            "weakness": "bug",
+            "moves": [
+                "Bullet Seed",
+                "Rock Tomb (1 MP)",
+                "X Sp.Def All (1 MP)",
+                "Rock Tomb (post-sync)",
+                "Sludge Wave (after center target faints)"
+            ],
+            "passives": [
+                "Wise Entry x2",
+                "Agile Entry 2",
+                "Rock Zone: Moves ↑ 3",
+                "Lithic Acceleration 3",
+                "Rock Zone Extension 5"
+            ]
+        },
+        "center": {
+            "name": "Raihan & Gigalith",
+            "weakness": "steel",
+            "moves": [
+                "Earthquake",
+                "Stone Edge (1 MP)",
+                "Rock Tomb",
+                "X Defense All (1 MP)",
+                "X Evasion All (1 MP)",
+                "X Attack All (1 MP)",
+                "Sync Move: Smashing Rock Impact"
+            ],
+            "passives": [
+                "Wise Entry x2",
+                "Debut: Rock Zone",
+                "S-Move: Rock Zone",
+                "Rock Zone: Moves ↑ 3",
+                "Rock Zone: S-Moves ↑ 5",
+                "Lithic Acceleration 3"
+            ]
+        },
+        "right": {
+            "name": "Gordie & Tyranitar",
+            "weakness": "bug",
+            "moves": [
+                "Crunch",
+                "Stone Edge (1 MP)",
+                "X Speed All (1 MP)",
+                "Stone Edge (post-sync)",
+                "Rock Slide (after center target faints)"
+            ],
+            "passives": [
+                "Wise Entry x2",
+                "Agile Entry 2",
+                "Rock Zone: Moves ↑ 3",
+                "Lithic Acceleration 3",
+                "Rock Zone Extension 5"
+            ]
+        }
+    },
+    "Sample": {
+        "left": {
+            "name": "",
+            "weakness": "",
+            "moves": [
+
+            ],
+            "passives": [
+                
+            ]
+        },
+        "center": {
+            "name": "",
+            "weakness": "",
+            "moves": [
+
+            ],
+            "passives": [
+                
+            ]
+        },
+        "right": {
+            "name": "",
+            "weakness": "",
+            "moves": [
+
+            ],
+            "passives": [
+                
+            ]
+        }
+    }
+}
