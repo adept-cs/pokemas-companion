@@ -5,25 +5,32 @@ import 'react-tooltip/dist/react-tooltip.css';
 
 const RallyStage = (name, filters, imgPath, imgName) => {
     let dataKey = details[imgName];
+    console.log(imgName);
     let left = dataKey["left"];
     let center = dataKey["center"];
     let right = dataKey["right"];
-    let leftPassives, leftTargetName, leftTargetWeakness, centerPassives, centerTargetName, centerTargetWeakness, rightPassives, rightTargetName, rightTargetWeakness;
+    let leftPassives, leftTargetName, centerPassives, centerTargetName, rightPassives, rightTargetName;
     
-    if (left !== undefined) {
+    if (left["name"] !== undefined) {
         leftPassives = left["passives"].map(function (passive) { return getPassiveDiv(passive); });
         leftTargetName = left["name"];
-        leftTargetWeakness = `${process.env.PUBLIC_URL}/images/type/${left["weakness"]}.svg`;
     }
-    if (center !== undefined) {
+    if (center["name"] !== undefined) {
         centerPassives = center["passives"].map(function (passive) { return getPassiveDiv(passive); });
         centerTargetName = center["name"];
-        centerTargetWeakness = `${process.env.PUBLIC_URL}/images/type/${center["weakness"]}.svg`;
     }
-    if (right !== undefined) {
+    if (right["name"] !== undefined) {
         rightPassives = right["passives"].map(function (passive) { return getPassiveDiv(passive); });
         rightTargetName = right["name"];
-        rightTargetWeakness = `${process.env.PUBLIC_URL}/images/type/${right["weakness"]}.svg`;
+    }
+
+    function getWeaknessImages(imgString) {
+        let images = "";
+        return imgString.split(" ").map((type) => (<img src={getImageUrl(type)} className="type-weakness" alt={type} />));
+    }
+
+    function getImageUrl(file) {
+        return `${process.env.PUBLIC_URL}/images/type/${file}-sm.png`;
     }
 
     function getPassiveDiv(passive){
@@ -56,13 +63,13 @@ const RallyStage = (name, filters, imgPath, imgName) => {
             </div>
             <div className="stage-passives">
                 <div className="left-target">
-                    {left !== undefined &&
+                    {left["name"] !== undefined &&
                         <div className="target-info">
                             <div className="target-title">
                                 <h4>{leftTargetName}</h4>
                                 <p>
                                     Weakness:
-                                    <img src={leftTargetWeakness} className="type-weakness" alt={left["weakness"]} />
+                                    {getWeaknessImages(left["weakness"])}
                                 </p>
                             </div>
                             <ul>
@@ -72,13 +79,13 @@ const RallyStage = (name, filters, imgPath, imgName) => {
                     }
                 </div>
                 <div className="center-target">
-                    {center !== undefined &&
+                    {center["name"] !== undefined &&
                         <div className="target-info">
                             <div className="target-title">
                                 <h4>{centerTargetName}</h4>
                                 <p>
                                     Weakness:
-                                    <img src={centerTargetWeakness} className="type-weakness" alt={center["weakness"]} />
+                                    {getWeaknessImages(center["weakness"])}
                                 </p>
                             </div>
                             <ul>
@@ -88,13 +95,13 @@ const RallyStage = (name, filters, imgPath, imgName) => {
                     }
                 </div>
                 <div className="right-target">
-                    {right !== undefined &&
+                    {right["name"] !== undefined &&
                         <div className="target-info">
                             <div className="target-title">
                                 <h4>{rightTargetName}</h4>
                                 <p>
                                     Weakness:
-                                    <img src={rightTargetWeakness} className="type-weakness" alt={right["weakness"]} />
+                                    {getWeaknessImages(right["weakness"])}
                                 </p>
                             </div>
                             <ul>

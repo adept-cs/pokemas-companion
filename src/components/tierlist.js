@@ -7,24 +7,24 @@ const TierList = () => {
     let selectedTypes = {};
 
     let typeOptions = [
-        {value: 'normal', label: 'Normal', img: `${process.env.PUBLIC_URL}/images/type/normal.svg`},
-        {value: 'fire', label: 'Fire', img: `${process.env.PUBLIC_URL}/images/type/fire.svg`},
-        {value: 'water', label: 'Water', img: `${process.env.PUBLIC_URL}/images/type/water.svg`},
-        {value: 'electric', label: 'Electric', img: `${process.env.PUBLIC_URL}/images/type/electric.svg`},
-        {value: 'grass', label: 'Grass', img: `${process.env.PUBLIC_URL}/images/type/grass.svg`},
-        {value: 'ice', label: 'Ice', img: `${process.env.PUBLIC_URL}/images/type/ice.svg`},
-        {value: 'fighting', label: 'Fighting', img: `${process.env.PUBLIC_URL}/images/type/fighting.svg`},
-        {value: 'poison', label: 'Poison', img: `${process.env.PUBLIC_URL}/images/type/poison.svg`},
-        {value: 'ground', label: 'Ground', img: `${process.env.PUBLIC_URL}/images/type/ground.svg`},
-        {value: 'flying', label: 'Flying', img: `${process.env.PUBLIC_URL}/images/type/flying.svg`},
-        {value: 'psychic', label: 'Psychic', img: `${process.env.PUBLIC_URL}/images/type/psychic.svg`},
-        {value: 'bug', label: 'Bug', img: `${process.env.PUBLIC_URL}/images/type/bug.svg`},
-        {value: 'rock', label: 'Rock', img: `${process.env.PUBLIC_URL}/images/type/rock.svg`},
-        {value: 'ghost', label: 'Ghost', img: `${process.env.PUBLIC_URL}/images/type/ghost.svg`},
-        {value: 'dragon', label: 'Dragon', img: `${process.env.PUBLIC_URL}/images/type/dragon.svg`},
-        {value: 'dark', label: 'Dark', img: `${process.env.PUBLIC_URL}/images/type/dark.svg`},
-        {value: 'steel', label: 'Steel', img: `${process.env.PUBLIC_URL}/images/type/steel.svg`},
-        {value: 'fairy', label: 'Fairy', img: `${process.env.PUBLIC_URL}/images/type/fairy.svg`}
+        {value: 'normal', label: 'Normal', img: `${process.env.PUBLIC_URL}/images/type/normal.png`},
+        {value: 'fire', label: 'Fire', img: `${process.env.PUBLIC_URL}/images/type/fire.png`},
+        {value: 'water', label: 'Water', img: `${process.env.PUBLIC_URL}/images/type/water.png`},
+        {value: 'electric', label: 'Electric', img: `${process.env.PUBLIC_URL}/images/type/electric.png`},
+        {value: 'grass', label: 'Grass', img: `${process.env.PUBLIC_URL}/images/type/grass.png`},
+        {value: 'ice', label: 'Ice', img: `${process.env.PUBLIC_URL}/images/type/ice.png`},
+        {value: 'fighting', label: 'Fighting', img: `${process.env.PUBLIC_URL}/images/type/fighting.png`},
+        {value: 'poison', label: 'Poison', img: `${process.env.PUBLIC_URL}/images/type/poison.png`},
+        {value: 'ground', label: 'Ground', img: `${process.env.PUBLIC_URL}/images/type/ground.png`},
+        {value: 'flying', label: 'Flying', img: `${process.env.PUBLIC_URL}/images/type/flying.png`},
+        {value: 'psychic', label: 'Psychic', img: `${process.env.PUBLIC_URL}/images/type/psychic.png`},
+        {value: 'bug', label: 'Bug', img: `${process.env.PUBLIC_URL}/images/type/bug.png`},
+        {value: 'rock', label: 'Rock', img: `${process.env.PUBLIC_URL}/images/type/rock.png`},
+        {value: 'ghost', label: 'Ghost', img: `${process.env.PUBLIC_URL}/images/type/ghost.png`},
+        {value: 'dragon', label: 'Dragon', img: `${process.env.PUBLIC_URL}/images/type/dragon.png`},
+        {value: 'dark', label: 'Dark', img: `${process.env.PUBLIC_URL}/images/type/dark.png`},
+        {value: 'steel', label: 'Steel', img: `${process.env.PUBLIC_URL}/images/type/steel.png`},
+        {value: 'fairy', label: 'Fairy', img: `${process.env.PUBLIC_URL}/images/type/fairy.png`}
     ];
 
     function changeSelectedTypes(types) {
@@ -193,7 +193,7 @@ const TierList = () => {
                     <div className="tierlist-row not-included-row">
                         {SyncPairIcon("Sygna Suit Iono & Raging Bolt", "iono-trainer electric paldea gym-leader sygna-suit artistic field exr-sprint pokefair filter-excluded", "/images/pair/paldea/SS_Iono.png", "black")}
                         {SyncPairIcon("Sygna Suit Elesa (Alt.) & Thundurus Therian Forme", "elesa-trainer electric unova gym-leader sygna-suit artistic field exr-strike pokefair filter-excluded", "/images/pair/unova/SSA_Elesa.png", "black")}
-                        {SyncPairIcon("Teddy (Hiker) & Rellor", "teddy-trainer bug sinnoh nature-lover support exr-none event filter-excluded", "/images/pair/sinnoh/Ev_Teddy.png", "black")}
+                        {SyncPairIcon("Teddy (Hiker) & Rellor★", "teddy-trainer bug sinnoh nature-lover support exr-none event shiny filter-excluded", "/images/pair/sinnoh/Ev_Teddy.png", "black")}
                         {SyncPairIcon("Arc Suit Alder & Volcarona", "alder-trainer bug unova champion arc-suit veteran-trainer multi exr-sprint arc-fair filter-excluded", "/images/pair/unova/Arc_Alder.png", "black")}
                         {SyncPairIcon("Korrina & Hawlucha", "korrina-trainer fighting kalos gym-leader passionate-spirit support exr-field gym-scout filter-excluded", "/images/pair/kalos/Gym_Korrina.png", "black")}
                         {SyncPairIcon("Whitney & Wigglytuff", "whitney-trainer normal johto gym-leader pigtails pokeathlete support exr-field gym-scout filter-excluded", "/images/pair/johto/Gym_Whitney.png", "black")}

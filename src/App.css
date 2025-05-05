@@ -276,7 +276,7 @@
             text-align: center;
         }
         
-        section {
+        section:not(#champion-stadium-stages), .cs-stages {
             @media (min-width: 1024px) {
                 display: flex;
                 flex-wrap: wrap;
@@ -286,6 +286,25 @@
                 .rally-stage {
                     width: 40%;
                     margin: 0 4%;
+                    border: 1px solid #181a1b;
+                    border-radius: 20px;
+                    padding: 5px;
+    
+                    @media (prefers-color-scheme: dark) {
+                        border: 1px solid #e8e6e3;
+                    }
+                }
+            }
+
+            @media (min-width: 1536px) {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                padding-bottom: 20px;
+    
+                .rally-stage {
+                    width: 24%;
+                    margin: 0 4% 10px 4%;
                     border: 1px solid #181a1b;
                     border-radius: 20px;
                     padding: 5px;
@@ -318,12 +337,14 @@
             .target-title {
                 h4 {
                     text-align: center;
+                    min-height: 65px;
                 }
                 
                 p {
                     display: flex;
+                    align-items: center;
                     justify-content: space-around;
-                    line-height: 32px;
+                    height: 32px;
 
                     .type-weakness {
                         max-width: 32px;
