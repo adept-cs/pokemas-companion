@@ -15,7 +15,7 @@ const RallyFinder = () => {
                 <h2>About the Battle Rally Stage Viewer</h2>
                 <p>
                     This tool was created to provide an easy way to identify Battle Rally stages by the enemy preview, and to see what gimmicks are needed to counter the stage.
-                    If a stage is made with specific sync pair(s) in mind - such as a Battle Challenge from a specific event - I also refer to those sync pairs as shorthand.
+                    If a stage is made with specific sync pair(s) in mind - such as a Battle Challenge from a specific event - I also will be referring to those sync pairs as shorthand.
                 </p>
                 <p>
                     If a stage doesn't have a graphical preview, then I probably haven't seen it in my Battle Rally runs since I decided to start making this tool.

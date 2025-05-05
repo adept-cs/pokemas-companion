@@ -5,6 +5,7 @@ const Menu = () => {
         <div className="menu-nav">
             <Link to="">Home</Link>
             <Link to="tierlist">Tier List Companion</Link>
+            <Link to="rally">Battle Rally Companion (In Development)</Link>
         </div>
     );
 };
