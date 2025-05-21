@@ -8,7 +8,7 @@
     @media (prefers-color-scheme: dark) {
         background: #181a1b;
 
-        label, h1, h2, h3, h4, p, a, a:visited, li {
+        label, h1, h2, h3, h4, p, a, a:visited, li, div {
             color: #e8e6e3;
         }
     }
@@ -50,9 +50,9 @@
 
 .tierlist-page {
     
-    /*.not-ranked { 
+    .not-ranked:has(.not-included-row:empty) { 
         display: none;
-    }*/
+    }
     
     .tierlists {
         @media (min-width: 1024px) {
@@ -73,7 +73,7 @@
         display: flex;
       
         > * {
-            width: 7%;
+            width: 6%;
             border: 1px solid gray;
         }
       
@@ -277,6 +277,28 @@
         }
         
         section:not(#champion-stadium-stages), .cs-stages {
+            @media (max-width: 1023px) {
+                .rally-stage {
+                    width: 90%;
+                    margin: 0 4% 10px 4%;
+                    border: 1px solid #181a1b;
+                    border-radius: 20px;
+                    padding: 5px;
+    
+                    @media (prefers-color-scheme: dark) {
+                        border: 1px solid #e8e6e3;
+                    }
+    
+                    .single-col-view {
+                        display: flex;
+                    }
+    
+                    .multi-col-view {
+                        display: none;
+                    }
+                }
+            }
+            
             @media (min-width: 1024px) {
                 display: flex;
                 flex-wrap: wrap;
@@ -285,7 +307,7 @@
     
                 .rally-stage {
                     width: 40%;
-                    margin: 0 4%;
+                    margin: 0 4% 10px 4%;
                     border: 1px solid #181a1b;
                     border-radius: 20px;
                     padding: 5px;
@@ -293,6 +315,14 @@
                     @media (prefers-color-scheme: dark) {
                         border: 1px solid #e8e6e3;
                     }
+                }
+
+                .single-col-view {
+                    display: none;
+                }
+
+                .multi-col-view {
+                    display: block;
                 }
             }
 
@@ -313,6 +343,41 @@
                         border: 1px solid #e8e6e3;
                     }
                 }
+
+                .single-col-view {
+                    display: none;
+                }
+
+                .multi-col-view {
+                    display: block;
+                }
+            }
+
+            @media (min-width: 2048px) {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                padding-bottom: 20px;
+    
+                .rally-stage {
+                    width: 18%;
+                    margin: 0 3% 10px 3%;
+                    border: 1px solid #181a1b;
+                    border-radius: 20px;
+                    padding: 5px;
+    
+                    @media (prefers-color-scheme: dark) {
+                        border: 1px solid #e8e6e3;
+                    }
+                }
+
+                .single-col-view {
+                    display: none;
+                }
+
+                .multi-col-view {
+                    display: block;
+                }
             }
         }
     }
@@ -331,8 +396,10 @@
         justify-content: space-between;
 
         .left-target, .center-target, .right-target {
-            width: 28%;
-            margin: 0 2.5%;
+            width: 32%;
+            margin: 0 0.5%;
+            background-color: rgba(127, 127, 127, 0.3);
+            border-radius: 0.8em;
 
             .target-title {
                 h4 {
@@ -349,6 +416,106 @@
                     .type-weakness {
                         max-width: 32px;
                     }
+                }
+            }
+
+            .passive {
+                align-items: center;
+                aspect-ratio: 1070 / 114;
+                background-image: url("../public/images/misc/passive_blank.png");
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center center;
+                border-radius: 0.8em;
+                display: flex;
+                justify-content: center;
+                padding: 0 8px;
+                max-width: 100%;
+                
+                :first-child {
+                    font-weight: bold;
+                    text-shadow: -1px 0 #181a1b, 0 1px #181a1b, 1px 0 #181a1b, 0 -1px #181a1b;
+                    color: #e8e6e3;
+                    text-align: center;
+                }
+            }
+
+            .passive:not(:last-child) {
+                margin-bottom: 5px;
+            }
+        }
+
+        .swap-button-row {
+            display: flex;
+            justify-content: space-around;
+
+            > button {
+                width: 20%;
+                background: none;
+                border: none;
+                border-radius: 50%;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center center;
+                aspect-ratio: 1 / 1;
+                margin: 0 5%;
+            }
+
+            > button:not(.placeholder) {
+                box-shadow: 0 3px 3px 0 #181a1b;
+
+                @media (prefers-color-scheme: dark) {
+                    box-shadow: 2px 2px 2px 2px #e8e6e3;
+                }
+            }
+        }
+
+        .left-target-full, .center-target-full, .right-target-full {
+            width: 100%;
+            background-color: rgba(127, 127, 127, 0.3);
+            border-radius: 0.8em;
+
+            &.inactive {
+                display: none;
+            }
+
+            .target-title {
+                h4 {
+                    text-align: center;
+                    min-height: 65px;
+                }
+                
+                p {
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-around;
+                    height: 32px;
+                    margin: 0 15% 10px;
+
+                    .type-weakness {
+                        max-width: 32px;
+                    }
+                }
+            }
+
+            .passive {
+                align-items: center;
+                aspect-ratio: 1070 / 114;
+                background-image: url("../public/images/misc/passive_blank.png");
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center center;
+                border-radius: 1.7em;
+                display: flex;
+                justify-content: center;
+                padding: 0 8px;
+                max-width: 100%;
+                
+                :first-child {
+                    font-weight: bold;
+                    text-shadow: -1px 0 #181a1b, 0 1px #181a1b, 1px 0 #181a1b, 0 -1px #181a1b;
+                    color: #e8e6e3;
+                    text-align: center;
                 }
             }
 

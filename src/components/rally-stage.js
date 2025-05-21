@@ -1,11 +1,12 @@
 import * as details from './stage-details.json';
 import * as translations from './passive-translations.json';
+import * as pokemonUrls from './pokemon-icons.json';
 import { Tooltip } from 'react-tooltip';
 import 'react-tooltip/dist/react-tooltip.css';
+import $ from 'jquery';
 
 const RallyStage = (name, filters, imgPath, imgName) => {
     let dataKey = details[imgName];
-    console.log(imgName);
     let left = dataKey["left"];
     let center = dataKey["center"];
     let right = dataKey["right"];
@@ -25,7 +26,6 @@ const RallyStage = (name, filters, imgPath, imgName) => {
     }
 
     function getWeaknessImages(imgString) {
-        let images = "";
         return imgString.split(" ").map((type) => (<img src={getImageUrl(type)} className="type-weakness" alt={type} />));
     }
 
@@ -33,9 +33,17 @@ const RallyStage = (name, filters, imgPath, imgName) => {
         return `${process.env.PUBLIC_URL}/images/type/${file}-sm.png`;
     }
 
+    function getPokemonImg(name) {
+        if (name) {
+            let pokemonName = name.split("&")[name.split("&").length - 1].trim();
+            return `url("${process.env.PUBLIC_URL}/images/pokemon/${pokemonUrls[pokemonName] ?? ""}.png")`;
+        }
+        return "";
+    }
+
     function getPassiveDiv(passive){
         let trimmedPassive = trimPassive(passive);
-        return (<li className="passive" key={trimmedPassive + "-desc"}><div className={trimmedPassive + "-desc"}>{passive}</div><Tooltip anchorSelect={"." + trimmedPassive + "-desc"} place="top" style={{"width": "200px"}}>{getPassiveTranslation(passive)}</Tooltip></li>);
+        return (<div key={trimmedPassive + "-desc"} className={trimmedPassive + "-desc passive"}><div>{passive}</div><Tooltip anchorSelect={"." + trimmedPassive + "-desc"} place="top" style={{"width": "200px"}}>{getPassiveTranslation(passive)}</Tooltip></div>);
     }
 
     function trimPassive(passive) {
@@ -54,6 +62,24 @@ const RallyStage = (name, filters, imgPath, imgName) => {
         }
         return passive;
     }
+
+    function activateLeftTarget() {
+        $(`.left-target-full.${imgName}`).addClass('active').removeClass('inactive');
+        $(`.center-target-full.${imgName}`).removeClass('active').addClass('inactive');
+        $(`.right-target-full.${imgName}`).removeClass('active').addClass('inactive');
+    }
+
+    function activateCenterTarget() {
+        $(`.left-target-full.${imgName}`).removeClass('active').addClass('inactive');
+        $(`.center-target-full.${imgName}`).addClass('active').removeClass('inactive');
+        $(`.right-target-full.${imgName}`).removeClass('active').addClass('inactive');
+    }
+
+    function activateRightTarget() {
+        $(`.left-target-full.${imgName}`).removeClass('active').addClass('inactive');
+        $(`.center-target-full.${imgName}`).removeClass('active').addClass('inactive');
+        $(`.right-target-full.${imgName}`).addClass('active').removeClass('inactive');
+    }
     
     return (
         <div className={`rally-stage ${filters}`}>
@@ -61,9 +87,9 @@ const RallyStage = (name, filters, imgPath, imgName) => {
                 <img src={`${process.env.PUBLIC_URL}${imgPath}/${imgName}.png`} title={name} alt={name} />
                 <h3>{name}</h3>
             </div>
-            <div className="stage-passives">
+            <div className="stage-passives single-col-view">
                 <div className="left-target">
-                    {left["name"] !== undefined &&
+                    {leftTargetName !== undefined &&
                         <div className="target-info">
                             <div className="target-title">
                                 <h4>{leftTargetName}</h4>
@@ -72,14 +98,12 @@ const RallyStage = (name, filters, imgPath, imgName) => {
                                     {getWeaknessImages(left["weakness"])}
                                 </p>
                             </div>
-                            <ul>
-                                {leftPassives}
-                            </ul>
+                            {leftPassives}
                         </div>
                     }
                 </div>
                 <div className="center-target">
-                    {center["name"] !== undefined &&
+                    {centerTargetName !== undefined &&
                         <div className="target-info">
                             <div className="target-title">
                                 <h4>{centerTargetName}</h4>
@@ -88,14 +112,12 @@ const RallyStage = (name, filters, imgPath, imgName) => {
                                     {getWeaknessImages(center["weakness"])}
                                 </p>
                             </div>
-                            <ul>
-                                {centerPassives}
-                            </ul>
+                            {centerPassives}
                         </div>
                     }
                 </div>
                 <div className="right-target">
-                    {right["name"] !== undefined &&
+                    {rightTargetName !== undefined &&
                         <div className="target-info">
                             <div className="target-title">
                                 <h4>{rightTargetName}</h4>
@@ -104,9 +126,65 @@ const RallyStage = (name, filters, imgPath, imgName) => {
                                     {getWeaknessImages(right["weakness"])}
                                 </p>
                             </div>
-                            <ul>
-                                {rightPassives}
-                            </ul>
+                            {rightPassives}
+                        </div>
+                    }
+                </div>
+            </div>
+            <div className="stage-passives multi-col-view">
+                <div className="swap-button-row">
+                    {leftTargetName !== undefined &&
+                        <button type="button" style={{backgroundImage: getPokemonImg(leftTargetName)}} onClick={() => activateLeftTarget()}></button>
+                    }
+                    {leftTargetName === undefined && <button type="button" className="placeholder"></button>}
+                    {centerTargetName !== undefined &&
+                        <button type="button" style={{backgroundImage: getPokemonImg(centerTargetName)}} onClick={() => activateCenterTarget()}></button>
+                    }
+                    {centerTargetName === undefined && <button type="button" className="placeholder"></button>}
+                    {rightTargetName !== undefined &&
+                        <button type="button" style={{backgroundImage: getPokemonImg(rightTargetName)}} onClick={() => activateRightTarget()}></button>
+                    }
+                    {rightTargetName === undefined && <button type="button" className="placeholder"></button>}
+                </div>
+                <div className={`left-target-full inactive ${imgName}`}>
+                    {leftTargetName !== undefined &&
+                        <div className="target-info">
+                            <div className="target-title">
+                                <h4>{leftTargetName}</h4>
+                                <p>
+                                    Weakness:
+                                    {getWeaknessImages(left["weakness"])}
+                                </p>
+                            </div>
+                            {leftPassives}
+                        </div>
+                    }
+                </div>
+                <div className={`center-target-full active ${imgName}`}>
+                    {centerTargetName !== undefined &&
+                        <div className="target-info">
+                            <div className="target-title">
+                                <h4>{centerTargetName}</h4>
+                                <p>
+                                    Weakness:
+                                    {getWeaknessImages(center["weakness"])}
+                                </p>
+                            </div>
+                            {centerPassives}
+                        </div>
+                    }
+                </div>
+                <div className={`right-target-full inactive ${imgName}`}>
+                    {rightTargetName !== undefined &&
+                        <div className="target-info">
+                            <div className="target-title">
+                                <h4>{rightTargetName}</h4>
+                                <p>
+                                    Weakness:
+                                    {getWeaknessImages(right["weakness"])}
+                                </p>
+                            </div>
+                            {rightPassives}
                         </div>
                     }
                 </div>
