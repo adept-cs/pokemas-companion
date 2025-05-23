@@ -248,7 +248,7 @@ const RallyFinder = () => {
                             {RallyStage("Challenge N (from A Pure and Touching Heart)", "", "/images/br-stages/regular-stages", "Story_NCNate")}
                             {RallyStage("Challenge Hugh (from A Touching Sepia-Toned Song)", "", "/images/br-stages/regular-stages", "Story_NCRosa")}
                             {RallyStage("Challenge Siebold (from Focus on the Shining Shot!)", "", "/images/br-stages/regular-stages", "Story_HolSycamoreViola")}
-                            {RallyStage("Chalenge Lillie (from Rising New Year's Resolutions)", "", "/images/br-stages/regular-stages", "Story_NYWallaceSabrina")}
+                            {RallyStage("Chalenge Lillie (from Rising New Year's Resolutions)", "", "/images/br-stages/regular-stages", "Story_NYWallaceClair")}
                             {RallyStage("Battle: Premium Guest (from The Electrifying Influencer)", "", "/images/br-stages/regular-stages", "Story_Iono")}
                             {RallyStage("Challenge Pasio's Trainers (from Sub-zero - My Past, My Future)", "", "/images/br-stages/regular-stages", "Story_Grusha")}
                             {RallyStage("Challenge Lance (from Honing One's Love)", "", "/images/br-stages/regular-stages", "ChallengeLance_GeetaSilver")}

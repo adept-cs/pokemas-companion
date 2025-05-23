@@ -8,7 +8,7 @@
     @media (prefers-color-scheme: dark) {
         background: #181a1b;
 
-        label, h1, h2, h3, h4, p, a, a:visited, li, div {
+        label, h1, h2, h3, h4, p, a, a:visited, li {
             color: #e8e6e3;
         }
     }
