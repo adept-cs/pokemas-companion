@@ -598,7 +598,7 @@
             ]
         },
         "right": {
-            "name": "Pokémon Ranger & Meganium",
+            "name": "Pokémon Ranger & Meganium (Female)",
             "weakness": "poison",
             "moves": [
                 "Seed Bomb ",
@@ -2682,7 +2682,7 @@
     },
     "CS_Will_Ghost": {
         "center": {
-            "name": "Will & Xatu",
+            "name": "Will & Xatu (Female)",
             "weakness": "ghost",
             "moves": [
                 "Psychic ",
@@ -3804,7 +3804,7 @@
             ]
         },
         "right": {
-            "name": "Pokémon Ranger & Xatu",
+            "name": "Pokémon Ranger & Xatu (Female)",
             "weakness": "electric",
             "moves": [
                 "Air Cutter ",
@@ -4885,7 +4885,7 @@
             "passives": []
         },
         "left": {
-            "name": "Hiker & Steelix",
+            "name": "Hiker & Steelix (Female)",
             "weakness": "ground",
             "moves": [
                 "Iron Head ",
@@ -6752,7 +6752,7 @@
             "passives": []
         },
         "left": {
-            "name": "Ace Trainer (M) & Steelix",
+            "name": "Ace Trainer (M) & Steelix (Female)",
             "weakness": "ground",
             "moves": [
                 "Iron Tail ",
@@ -6868,7 +6868,7 @@
     },
     "CS_Wallace_Grass": {
         "center": {
-            "name": "Wallace & Milotic",
+            "name": "Wallace & Milotic (Female)",
             "weakness": "grass",
             "moves": [
                 "Hydro Pump ",
@@ -6994,7 +6994,7 @@
             ]
         },
         "right": {
-            "name": "Collector & Xatu",
+            "name": "Collector & Xatu (Female)",
             "weakness": "electric",
             "moves": [
                 "Psychic ",
@@ -8023,7 +8023,7 @@
             ]
         },
         "left": {
-            "name": "Beauty & Milotic",
+            "name": "Beauty & Milotic (Female)",
             "weakness": "grass",
             "moves": [
                 "Hydro Pump ",
@@ -10437,7 +10437,7 @@
             ]
         },
         "right": {
-            "name": "Scientist & Steelix",
+            "name": "Scientist & Steelix (Female)",
             "weakness": "fire",
             "moves": [
                 "Earthquake ",
@@ -11796,7 +11796,7 @@
             "passives": []
         },
         "right": {
-            "name": "Swimmer (F) & Milotic",
+            "name": "Swimmer (F) & Milotic (Female)",
             "weakness": "grass",
             "moves": [
                 "Aqua Tail ",
@@ -12236,7 +12236,7 @@
     },
     "Story_NCSerenaCalem": {
         "center": {
-            "name": "Jasmine & Steelix",
+            "name": "Jasmine & Steelix (Female)",
             "weakness": "water",
             "moves": [
                 "Iron Tail ",
@@ -13595,7 +13595,7 @@
             "passives": []
         },
         "left": {
-            "name": "Scientist & Xatu",
+            "name": "Scientist & Xatu (Female)",
             "weakness": "ice",
             "moves": [
                 "Air Slash ",

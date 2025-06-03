@@ -8,9 +8,30 @@
     @media (prefers-color-scheme: dark) {
         background: #181a1b;
 
-        label, h1, h2, h3, h4, p, a, a:visited, li {
+        label, h1, h2, h3, h4, p, a, a:visited, li, th, input {
             color: #e8e6e3;
         }
+    }
+
+    .no-background {
+        background: none;
+    }
+
+    .no-border {
+        border: 0;
+    }
+}
+
+.collapsible {
+    margin: 10px 0;
+    text-align: center;
+    
+    button {
+        width: 75%;
+    }
+
+    div {
+        text-align: left;
     }
 }
 
@@ -61,7 +82,7 @@
             justify-content: center;
             padding-bottom: 20px;
         
-            .damage-dealer, .hybrid, .utility {
+            .damage-dealer, .hybrid, .utility, .strike, .tech, .support, .sprint, .field {
                 margin-top: 40px;
                 max-width: 750px;
                 width: 50%;
@@ -72,23 +93,39 @@
     .tierlist-row {
         display: flex;
       
-        > * {
-            width: 6%;
-            border: 1px solid gray;
-        }
-      
         .tier-title {
             display: flex;
+            flex-direction: column;
             background: #181a1b;
+            border: 1px solid gray;
             color: #e8e6e3;
             text-transform: uppercase;
             justify-content: center;
             align-items: center;
-            font-size: auto;
             width: 5%;
+            object-fit: contain;
+
+            img {
+                max-width: calc(100% - 15px);
+            }
 
             @media (prefers-color-scheme: dark) {
                 border: 1px solid #e8e6e3;
+            }
+        }
+
+        .tier-content {
+            display: flex;
+            flex-wrap: wrap;
+            width: 95%;
+            
+            > * {
+                width: 7%;
+                border: 1px solid gray;
+
+                @media (prefers-color-scheme: dark) {
+                    border: 1px solid #e8e6e3;
+                }
             }
         }
     }
@@ -131,6 +168,8 @@
     }
 
     .sync-pair-icon {
+        box-sizing: border-box;
+        
         .sync-pair {
             margin: 5%;
             width: 90%;
@@ -167,6 +206,18 @@
         :has(.filter-excluded) {
             opacity: 1;
         }
+    }
+
+    .sync-pair-icon:has(div.border-red) {
+        border: 3px solid red;
+    }
+
+    .sync-pair-icon:has(div.border-blue) {
+        border: 3px solid blue;
+    }
+
+    .sync-pair-icon:has(div.border-purple) {
+        border: 3px solid purple;
     }
     
     .sync-pair-filters {
@@ -421,15 +472,14 @@
 
             .passive {
                 align-items: center;
-                aspect-ratio: 1070 / 114;
-                background-image: url("../public/images/misc/passive_blank.png");
+                background-color: #28d5ef;
                 background-size: cover;
                 background-repeat: no-repeat;
                 background-position: center center;
                 border-radius: 0.8em;
                 display: flex;
                 justify-content: center;
-                padding: 0 8px;
+                padding: 10px;
                 max-width: 100%;
                 
                 :first-child {
@@ -500,15 +550,14 @@
 
             .passive {
                 align-items: center;
-                aspect-ratio: 1070 / 114;
-                background-image: url("../public/images/misc/passive_blank.png");
+                background-color: #28d5ef;
                 background-size: cover;
                 background-repeat: no-repeat;
                 background-position: center center;
                 border-radius: 1.7em;
                 display: flex;
                 justify-content: center;
-                padding: 0 8px;
+                padding: 10px;
                 max-width: 100%;
                 
                 :first-child {
@@ -523,5 +572,37 @@
                 margin-bottom: 5px;
             }
         }
+    }
+}
+
+.lalg-page {
+    .sync-pair-info-row {
+        th {
+            width: 6%;
+            box-sizing: border-box;
+
+            .sync-pair {
+                margin: 5%;
+                width: 90%;
+            }
+        }
+
+        td {
+            border: 1px solid gray;
+            color: #181a1b;
+            vertical-align: center;
+            text-align: center;
+            width: 6.71%;
+
+            .secondary-info {
+                display: none;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                border: 1px solid #e8e6e3;
+                color: #e8e6e3;
+            }
+        }
+
     }
 }

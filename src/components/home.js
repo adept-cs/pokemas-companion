@@ -18,9 +18,9 @@ const Home = () => {
                 <h2 className="section-header">All Resources</h2>
                 <div className="homepage-resource">
                     <div className="resource-overview">
-                        <h3><Link to="tierlist-spark">Spark's Tier List - Filterable [BETA]</Link></h3>
+                        <h3><Link to="tierlist/spark">Spark's Tier List - Filterable</Link></h3>
                         <p>A version of Spark's tierlist with interactive filtering based on trainer, role, acquisition method, and in-game theme skills. <i>Resource originally created by Spark, Ropalme, Rion, and Darkshark.</i></p>
-                        <h4>Last updated: 22 May, 2025</h4>
+                        <h4>Last updated: 31 May, 2025</h4>
                     </div>
                     <div className="resource-thumbnail">
                         <img src={`${process.env.PUBLIC_URL}/images/spark-combined.png`} className="resource-img" alt="Spark's Tierlist" />
@@ -28,9 +28,17 @@ const Home = () => {
                 </div>
                 <div className="homepage-resource">
                     <div className="resource-overview">
+                        <h3><Link to="tierlist/wag">WAG's Tier List - Filterable</Link></h3>
+                        <p>A version of WAG's tierlist with interactive filtering based on trainer, role, acquisition method, and in-game theme skills. <i>Resource originally created by WAG.</i></p>
+                        <h4>Last updated: 31 May, 2025</h4>
+                    </div>
+                    <div className="resource-thumbnail">
+                    </div>
+                </div>
+                <div className="homepage-resource">
+                    <div className="resource-overview">
                         <h3><Link to="rally">Battle Rally Stage Viewer</Link></h3>
                         <p>Identify stages in Battle Rally by the opponents you see. Shows what sync pairs battles were "made" for if applicable, and all enemy passives. <i>Resource originally created by me!</i></p>
-                        <h4>This feature is currently in development. Check back later for this to be supported, but I'm excited about adding it!</h4>
                     </div>
                     <div className="resource-thumbnail">
 
