@@ -390,11 +390,11 @@
         }
     },
     "Acerola_TL": {
+        "base_star": 4,
         "filters": "acerola-trainer ghost alola elite-four trial-giver fancy-lady support exr-none lodge-pair lodge-free",
         "name": "Acerola & Banette",
         "region": "alola",
         "tracker_key": "063",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -625,11 +625,11 @@
         }
     },
     "Adaman_TL": {
+        "base_star": 4,
         "filters": "adaman-trainer water sinnoh nature-lover knowledgeable support exr-none lodge-pair lodge-gacha",
         "name": "Adaman & Vaporeon",
         "region": "hisui",
         "tracker_key": "166",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -704,11 +704,11 @@
         }
     },
     "Agatha": {
+        "base_star": 4,
         "filters": "agatha-trainer ghost kanto elite-four veteran-trainer old-timer genpool tech exr-none",
         "name": "Agatha & Gengar",
         "region": "kanto",
         "tracker_key": "009",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1719,11 +1719,11 @@
         }
     },
     "Arven_TL": {
+        "base_star": 4,
         "filters": "arven-trainer rock paldea rival cook knowledgeable support exr-none lodge-pair lodge-gacha",
         "name": "Arven & Nacli",
         "region": "paldea",
         "tracker_key": "210",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2110,11 +2110,11 @@
         }
     },
     "Barry": {
+        "base_star": 3,
         "filters": "barry-trainer water sinnoh rival scarf passionate-spirit strike exr-none story",
         "name": "Barry & Empoleon",
         "region": "sinnoh",
         "tracker_key": "029",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2189,11 +2189,11 @@
         }
     },
     "Barry_BP": {
+        "base_star": 4,
         "filters": "barry-trainer grass sinnoh rival scarf passionate-spirit support exr-none battle-point",
         "name": "Barry & Roserade",
         "region": "sinnoh",
         "tracker_key": "029",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3438,11 +3438,11 @@
         }
     },
     "Blaine": {
+        "base_star": 4,
         "filters": "blaine-trainer fire kanto gym-leader sunglasses researcher tech exr-none genpool",
         "name": "Blaine & Rapidash",
         "region": "kanto",
         "tracker_key": "006",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3517,11 +3517,11 @@
         }
     },
     "Blossom": {
+        "base_star": 3,
         "filters": "blossom-trainer fairy kalos artistic tech exr-none event",
         "name": "Blossom (Furisode Girl) & Kirlia",
         "region": "kalos",
         "tracker_key": "221",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3830,11 +3830,11 @@
         }
     },
     "Blue_Ev": {
+        "base_star": 4,
         "filters": "blue-trainer fire kanto champion rival pallet-town strike exr-none event",
         "name": "Blue & Arcanine",
         "region": "kanto",
         "tracker_key": "065",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4143,11 +4143,11 @@
         }
     },
     "Blue_TL": {
+        "base_star": 4,
         "filters": "blue-trainer grass kanto champion rival pallet-town support exr-none lodge-pair lodge-free",
         "name": "Blue & Exeggutor",
         "region": "kanto",
         "tracker_key": "065",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4222,11 +4222,11 @@
         }
     },
     "Brawly": {
+        "base_star": 3,
         "filters": "brawly-trainer fighting hoenn gym-leader body-builder nature-lover tech exr-none genpool",
         "name": "Brawly & Hariyama",
         "region": "hoenn",
         "tracker_key": "020",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4535,11 +4535,11 @@
         }
     },
     "Brendan_TL": {
+        "base_star": 4,
         "filters": "brendan-trainer flying hoenn main-character space-cadet tech exr-none lodge-pair",
         "name": "Brendan & Swellow",
         "region": "hoenn",
         "tracker_key": "018",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4614,11 +4614,11 @@
         }
     },
     "Brock": {
+        "base_star": 3,
         "filters": "brock-trainer rock kanto gym-leader rock-lover body-builder tech exr-none story",
         "name": "Brock & Onix",
         "region": "kanto",
         "tracker_key": "002",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4771,11 +4771,11 @@
         }
     },
     "Brock_SS": {
+        "base_star": 3,
         "filters": "brock-trainer rock kanto sygna-suit rock-lover body-builder strike exr-none story",
         "name": "Sygna Suit Brock & Tyranitar",
         "region": "kanto",
         "tracker_key": "002",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4850,11 +4850,11 @@
         }
     },
     "Bruno": {
+        "base_star": 4,
         "filters": "bruno-trainer fighting kanto elite-four body-builder sweet-tooth strike exr-none genpool",
         "name": "Bruno & Machamp",
         "region": "kanto",
         "tracker_key": "008",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5007,11 +5007,11 @@
         }
     },
     "Brycen": {
+        "base_star": 3,
         "filters": "brycen-trainer ice unova gym-leader artistic masked tech exr-none genpool",
         "name": "Brycen & Cryogonal",
         "region": "unova",
         "tracker_key": "042",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5164,11 +5164,11 @@
         }
     },
     "Bugsy": {
+        "base_star": 3,
         "filters": "bugsy-trainer bug johto gym-leader knowledgeable researcher strike exr-none genpool",
         "name": "Bugsy & Beedrill",
         "region": "johto",
         "tracker_key": "011",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5243,11 +5243,11 @@
         }
     },
     "Bugsy_Ev": {
+        "base_star": 4,
         "filters": "bugsy-trainer bug johto gym-leader knowledgeable researcher support exr-none event",
         "name": "Bugsy & Scyther",
         "region": "johto",
         "tracker_key": "011",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5868,11 +5868,11 @@
         }
     },
     "Calem_TL": {
+        "base_star": 4,
         "filters": "calem-trainer fire kalos main-character sunglasses strike exr-none lodge-pair lodge-free",
         "name": "Calem & Fennekin",
         "region": "kalos",
         "tracker_key": "071",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6025,11 +6025,11 @@
         }
     },
     "Candice": {
+        "base_star": 3,
         "filters": "candice-trainer ice sinnoh gym-leader pigtails battleground-foe tech exr-none genpool",
         "name": "Candice & Abomasnow",
         "region": "sinnoh",
         "tracker_key": "034",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6104,11 +6104,11 @@
         }
     },
     "Candice_BP": {
+        "base_star": 4,
         "filters": "candice-trainer ice sinnoh gym-leader pigtails battleground-foe strike exr-none battle-point",
         "name": "Candice & Froslass",
         "region": "sinnoh",
         "tracker_key": "034",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6573,11 +6573,11 @@
         }
     },
     "Cheren_TL": {
+        "base_star": 4,
         "filters": "cheren-trainer dark unova gym-leader rival unova-adventurer tech exr-none lodge-pair lodge-free",
         "name": "Cheren & Purrloin",
         "region": "unova",
         "tracker_key": "064",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6652,11 +6652,11 @@
         }
     },
     "Cheryl": {
+        "base_star": 3,
         "filters": "cheryl-trainer normal sinnoh grown-woman battle-partner battleground-foe support exr-none genpool",
         "name": "Cheryl & Blissey",
         "region": "sinnoh",
         "tracker_key": "037",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6731,11 +6731,11 @@
         }
     },
     "Cheryl_BP": {
+        "base_star": 4,
         "filters": "cheryl-trainer water sinnoh grown-woman battle-partner battleground-foe support exr-none battle-point",
         "name": "Cheryl & Wailord",
         "region": "sinnoh",
         "tracker_key": "037",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6888,11 +6888,11 @@
         }
     },
     "Clair": {
+        "base_star": 4,
         "filters": "clair-trainer dragon johto gym-leader cape dragon-cousin strike exr-none story",
         "name": "Clair & Kingdra",
         "region": "johto",
         "tracker_key": "014",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7201,11 +7201,11 @@
         }
     },
     "Clay": {
+        "base_star": 3,
         "filters": "clay-trainer ground unova gym-leader veteran-trainer rock-lover tech exr-none genpool",
         "name": "Clay & Seismitoad",
         "region": "unova",
         "tracker_key": "040",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7358,11 +7358,11 @@
         }
     },
     "Clemont_BP": {
+        "base_star": 4,
         "filters": "clemont-trainer electric kalos gym-leader glasses gadgeteer support exr-none battle-point",
         "name": "Clemont & Magneton",
         "region": "kalos",
         "tracker_key": "089",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7671,11 +7671,11 @@
         }
     },
     "CrasherWake": {
+        "base_star": 3,
         "filters": "crasherwake-trainer water sinnoh gym-leader body-builder masked tech exr-none genpool",
         "name": "Crasher Wake & Floatzel",
         "region": "sinnoh",
         "tracker_key": "033",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7867,6 +7867,84 @@
                 "matchup": "",
                 "soloInvestment": "3/5",
                 "soloLink": "https://youtu.be/2gfM9YzxZec"
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Cynthia_S": {
+        "filters": "cynthia-trainer water sinnoh champion seasonal-outfit undella-town support exr-field",
+        "name": "Cynthia (Summer 2025) & Milotic",
+        "region": "sinnoh",
+        "tracker_key": "078",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
             },
             "raikou": {
                 "matchup": "",
@@ -8140,11 +8218,11 @@
         }
     },
     "Cynthia_TL": {
+        "base_star": 4,
         "filters": "cynthia-trainer ground sinnoh champion undella-town researcher support exr-none lodge-pair lodge-gacha",
         "name": "Cynthia & Gastrodon",
         "region": "sinnoh",
         "tracker_key": "078",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9077,11 +9155,11 @@
         }
     },
     "Dawn_TL": {
+        "base_star": 4,
         "filters": "dawn-trainer sinnoh main-character scarf contest-lover support exr-none lodge-pair lodge-free",
         "name": "Dawn & Wormadam Plant Cloak",
         "region": "sinnoh",
         "tracker_key": "094",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9468,11 +9546,11 @@
         }
     },
     "Diantha_TL": {
+        "base_star": 4,
         "filters": "diantha-trainer rock kalos champion artistic grown-woman strike exr-none lodge-pair lodge-gacha",
         "name": "Diantha & Tyrantrum",
         "region": "kalos",
         "tracker_key": "120",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9547,11 +9625,11 @@
         }
     },
     "Drake": {
+        "base_star": 4,
         "filters": "drake-trainer dragon hoenn elite-four veteran-trainer support exr-none genpool",
         "name": "Drake & Salamence",
         "region": "hoenn",
         "tracker_key": "027",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10172,11 +10250,11 @@
         }
     },
     "Elesa_TL": {
+        "base_star": 4,
         "filters": "elesa-trainer electric unova gym-leader undella-town artistic support exr-none lodge-pair lodge-free",
         "name": "Elesa & Joltik",
         "region": "unova",
         "tracker_key": "069",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10953,11 +11031,11 @@
         }
     },
     "Erika": {
+        "base_star": 3,
         "filters": "erika-trainer grass kanto gym-leader nature-love fancy-lady tech exr-none story",
         "name": "Erika & Vileplume",
         "region": "kanto",
         "tracker_key": "005",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11032,11 +11110,11 @@
         }
     },
     "Erika_BP": {
+        "base_star": 4,
         "filters": "erika-trainer grass kanto gym-leader nature-lover fancy-lady tech exr-none battle-point",
         "name": "Erika & Tangela",
         "region": "kanto",
         "tracker_key": "005",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11422,6 +11500,84 @@
             }
         }
     },
+    "Ethan_Arc": {
+        "filters": "ethan-trainer flying johto main-character arc-suit pokeathlete multi exr-field arc-fair",
+        "name": "Arc Suit Ethan & Lugia",
+        "region": "johto",
+        "tracker_key": "075",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
     "Ethan_SS": {
         "filters": "ethan-trainer flying johto main-character sygna-suit scarf strike exr-field master-fair",
         "name": "Sygna Suit Ethan & Lugia",
@@ -11657,11 +11813,11 @@
         }
     },
     "Eve": {
+        "base_star": 3,
         "filters": "eve-trainer normal galar tech exr-none event",
         "name": "Eve (Poké Kid & Eevee",
         "region": "galar",
         "tracker_key": "189",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11892,11 +12048,11 @@
         }
     },
     "Falkner_BP": {
+        "base_star": 4,
         "filters": "falkner-trainer flying johto gym-leader pokeathlete tech exr-none battle-point",
         "name": "Falkner & Pidgeot",
         "region": "johto",
         "tracker_key": "139",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12127,11 +12283,11 @@
         }
     },
     "Flannery": {
+        "base_star": 3,
         "filters": "flannery-trainer fire hoenn gym-leader grown-woman passionate-spirit tech exr-none story",
         "name": "Flannery & Torkoal",
         "region": "hoenn",
         "tracker_key": "021",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12206,11 +12362,11 @@
         }
     },
     "Flint": {
+        "base_star": 4,
         "filters": "flint-trainer fire sinnoh elite-four sinnoh-bros passionate-spirit strike exr-none story",
         "name": "Flint & Infernape",
         "region": "sinnoh",
         "tracker_key": "035",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12441,11 +12597,11 @@
         }
     },
     "Gardenia": {
+        "base_star": 4,
         "filters": "gardenia-trainer grass sinnoh gym-leader nature-lover battleground-foe strike exr-none genpool",
         "name": "Gardenia & Roserade",
         "region": "sinnoh",
         "tracker_key": "031",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12910,11 +13066,11 @@
         }
     },
     "Giovanni_Ev": {
+        "base_star": 4,
         "filters": "giovanni-trainer normal kanto villain support exr-none event",
         "name": "Giovanni & Persian",
         "region": "kanto",
         "tracker_key": "074",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13145,11 +13301,11 @@
         }
     },
     "Giovanni_TL": {
+        "base_star": 4,
         "filters": "giovanni-trainer poison kanto villain support exr-none lodge-pair lodge-free",
         "name": "Giovanni & Nidorino",
         "region": "kanto",
         "tracker_key": "074",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13614,11 +13770,11 @@
         }
     },
     "Gladion_TL": {
+        "base_star": 4,
         "filters": "gladion-trainer poison alola rival villain alola-adventurer support exr-none lodge-pair lodge-free",
         "name": "Gladion & Golbat",
         "region": "alola",
         "tracker_key": "102",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14005,11 +14161,11 @@
         }
     },
     "Gloria_TL": {
+        "base_star": 4,
         "filters": "gloria-trainer grass galar main-character cook galar-adventurer strike exr-none lodge-pair lodge-gacha",
         "name": "Gloria & Thwackey",
         "region": "galar",
         "tracker_key": "111",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14240,11 +14396,11 @@
         }
     },
     "Grant": {
+        "base_star": 4,
         "filters": "grant-trainer rock kalos gym-leader sweet-tooth rock-lover tech exr-none genpool",
         "name": "Grant & Aurorus",
         "region": "kalos",
         "tracker_key": "048",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15177,11 +15333,11 @@
         }
     },
     "Hapu": {
+        "base_star": 3,
         "filters": "hapu-trainer ground alola trial-giver pigtails nature-lover strike exr-none story",
         "name": "Hapu & Mudsdale",
         "region": "alola",
         "tracker_key": "058",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15256,11 +15412,11 @@
         }
     },
     "Hau": {
+        "base_star": 4,
         "filters": "hau-trainer electric alola rival free-spirit melemele-family strike exr-none story",
         "name": "Hau & Alolan Raichu",
         "region": "alola",
         "tracker_key": "054",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15491,11 +15647,11 @@
         }
     },
     "Helena": {
+        "base_star": 3,
         "filters": "helena-trainer ghost kalos supernatural tech exr-none event",
         "name": "Helena (Hex Maniac) & Haunter",
         "region": "kalos",
         "tracker_key": "158",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17442,11 +17598,11 @@
         }
     },
     "Iono_TL": {
+        "base_star": 4,
         "filters": "iono-trainer electric paldea gym-leader artistic free-spirit support exr-none lodge-pair lodge-gacha",
         "name": "Iono & Wattrel",
         "region": "paldea",
         "tracker_key": "191",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17677,11 +17833,11 @@
         }
     },
     "Irida_TL": {
+        "base_star": 4,
         "filters": "irida-trainer fire sinnoh nature-lover artistic tech exr-none lodge-pair lodge-gacha",
         "name": "Irida & Flareon",
         "region": "hisui",
         "tracker_key": "167",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17756,11 +17912,11 @@
         }
     },
     "Iris": {
+        "base_star": 3,
         "filters": "iris-trainer dragon unova gym-leader undella-town strike exr-none story has-lodge",
         "name": "Iris & Haxorus",
         "region": "unova",
         "tracker_key": "043",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17991,11 +18147,11 @@
         }
     },
     "Iris_TL": {
+        "base_star": 4,
         "filters": "iris-trainer dragon unova gym-leader undella-town support exr-none lodge-pair lodge-free",
         "name": "Iris & Druddigon",
         "region": "unova",
         "tracker_key": "043",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18148,11 +18304,11 @@
         }
     },
     "James": {
+        "base_star": 3,
         "filters": "james-trainer poison kanto villain team-rocket-forever tech exr-none event",
         "name": "James & Weezing",
         "region": "kanto",
         "tracker_key": "104",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18227,11 +18383,11 @@
         }
     },
     "Janine": {
+        "base_star": 3,
         "filters": "janine-trainer poison kanto gym-leader scarf ninja-family tech exr-none genpool",
         "name": "Janine & Ariados",
         "region": "kanto",
         "tracker_key": "015",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18306,11 +18462,11 @@
         }
     },
     "Janine_BP": {
+        "base_star": 4,
         "filters": "janine-trainer poison kanto gym-leader scarf support exr-none battle-point",
         "name": "Janine & Crobat",
         "region": "kanto",
         "tracker_key": "015",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18619,11 +18775,11 @@
         }
     },
     "Jasmine_TL": {
+        "base_star": 4,
         "filters": "jasmine-trainer stel johto gym-leader pokeathlete contest-lover support exr-none lodge-pair lodge-free",
         "name": "Jasmine & Magnemite",
         "region": "johto",
         "tracker_key": "093",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18698,11 +18854,11 @@
         }
     },
     "Jessie": {
+        "base_star": 3,
         "filters": "jessie-trainer poison kanto villain team-rocket-forever strike exr-none event",
         "name": "Jessie & Arbok",
         "region": "kanto",
         "tracker_key": "097",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19011,11 +19167,11 @@
         }
     },
     "Kabu_TL": {
+        "base_star": 4,
         "filters": "kabu-trainer fire galar gym-leader passionate-spirit veteran-trainer support exr-none lodge-pair lodge-gacha",
         "name": "Kabu & Torkoal",
         "region": "galar",
         "tracker_key": "206",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19090,11 +19246,11 @@
         }
     },
     "Kahili": {
+        "base_star": 4,
         "filters": "kahili-trainer flying alola elite-four fancy-late grown-woman strike exr-none genpool",
         "name": "Kahili & Toucannon",
         "region": "alola",
         "tracker_key": "059",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19169,11 +19325,11 @@
         }
     },
     "Kali": {
+        "base_star": 3,
         "filters": "kali-trainer fairy kalos pigtails support exr-none event",
         "name": "Kali & Azumarill",
         "region": "kalos",
         "tracker_key": "161",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19326,11 +19482,11 @@
         }
     },
     "Karen_BP": {
+        "base_star": 4,
         "filters": "karen-trainer dark johto elite-four grown-woman strike exr-none battle-point",
         "name": "Karen & Umbreon",
         "region": "johto",
         "tracker_key": "017",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19405,11 +19561,11 @@
         }
     },
     "Katherine": {
+        "base_star": 3,
         "filters": "katherine-trainer fairy kalos pigtails tech exr-none event",
         "name": "Katherine & Slurpuff",
         "region": "kalos",
         "tracker_key": "190",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19718,11 +19874,11 @@
         }
     },
     "Koga": {
+        "base_star": 4,
         "filters": "koga-trainer poison kanto elite-four scarf ninja-family tech exr-none story",
         "name": "Koga & Crobat",
         "region": "kanto",
         "tracker_key": "062",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19797,11 +19953,11 @@
         }
     },
     "Korrina": {
+        "base_star": 3,
         "filters": "korrina-trainer fighting kalos gym-leader passionate-spirit strike exr-none story",
         "name": "Korrina & Lucario",
         "region": "kalos",
         "tracker_key": "049",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20422,11 +20578,11 @@
         }
     },
     "Lacey_TL": {
+        "base_star": 4,
         "filters": "lacey-trainer fairy paldea elite-four fancy-lady sprint exr-none lodge-gacha",
         "name": "Lacey & Alcremie",
         "region": "paldea",
         "tracker_key": "227",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20657,11 +20813,11 @@
         }
     },
     "Lana_TL": {
+        "base_star": 4,
         "filters": "lana-trainer water alola trial-giver free-spirit nature-lover support exr-none lodge-pair lodge-free",
         "name": "Lana & Lanturn",
         "region": "alola",
         "tracker_key": "129",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20970,11 +21126,11 @@
         }
     },
     "Lance_TL": {
+        "base_star": 4,
         "filters": "lance-trainer dragon kanto champion cape support exr-none lodge-pair lodge-gacha",
         "name": "Lance & Kingdra",
         "region": "kanto",
         "tracker_key": "077",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21283,11 +21439,11 @@
         }
     },
     "Larry_TL": {
+        "base_star": 4,
         "filters": "larry-trainer normal paldea gym-leader elite-four free-spirit support exr-none lodge-gacha",
         "name": "Larry & Oinkologne",
         "region": "paldea",
         "tracker_key": "205",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21674,11 +21830,11 @@
         }
     },
     "Leaf_TL": {
+        "base_star": 4,
         "filters": "leaf-trainer fairy kanto main-character pallet-town support exr-none lodge-pair lodge-free",
         "name": "Leaf & Clefable",
         "region": "kanto",
         "tracker_key": "076",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21909,11 +22065,11 @@
         }
     },
     "Lear_TL": {
+        "base_star": 4,
         "filters": "lear-trainer dark pasio rival sunglasses tech exr-none lodge-pair lodge-gacha",
         "name": "Lear & Krookodile",
         "region": "pasio",
         "tracker_key": "136",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22066,7 +22222,7 @@
         }
     },
     "Leon": {
-        "filters": "leon-trainer fire galar champion battle-facility-foe free-spirit strike exr-support master-fair",
+        "filters": "leon-trainer fire galar champion battle-facility-foe free-spirit strike exr-support master-fair has-lodge",
         "name": "Leon & Charizard",
         "region": "galar",
         "tracker_key": "118",
@@ -22380,6 +22536,84 @@
     "Leon_SS": {
         "filters": "leon-trainer dragon galar sygna-suit battle-facility-foe free-spirit strike exr-support pokefair",
         "name": "Sygna Suit Leon & Eternatus",
+        "region": "galar",
+        "tracker_key": "118",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Leon_TL": {
+        "filters": "leon-trainer ground galar champion battle-facility-foe free-spirit support exr-none lodge-pair lodge-gacha",
+        "name": "Leon & Seismitoad",
         "region": "galar",
         "tracker_key": "118",
         "z_arenas": {
@@ -22924,11 +23158,11 @@
         }
     },
     "Lillie_TL": {
+        "base_star": 4,
         "filters": "lillie-trainer fairy alola fancy-lady alola-adventurer battle-partner tech exr-none lodge-pair lodge-free",
         "name": "Lillie & Comfey",
         "region": "alola",
         "tracker_key": "103",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23159,11 +23393,11 @@
         }
     },
     "Liza": {
+        "base_star": 3,
         "filters": "liza-trainer psychic hoenn gym-leader supernatural space-cadet support exr-none genpool",
         "name": "Liza & Lunatone",
         "region": "hoenn",
         "tracker_key": "025",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23394,11 +23628,11 @@
         }
     },
     "Lorelei": {
+        "base_star": 4,
         "filters": "lorelei-trainer ice kanto elite-four glasses grown-woman tech exr-none genpool",
         "name": "Lorelei & Lapras",
         "region": "kanto",
         "tracker_key": "007",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23551,11 +23785,11 @@
         }
     },
     "LtSurge": {
+        "base_star": 3,
         "filters": "ltsurge-trainer electric kanto gym-leader sunglasses body-builder tech exr-none genpool",
         "name": "Lt. Surge & Electrode",
         "region": "kanto",
         "tracker_key": "004",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23630,11 +23864,11 @@
         }
     },
     "LtSurge_BP": {
+        "base_star": 4,
         "filters": "ltsurge-trainer electric kanto gym-leader sunglasses body-builder support exr-none battle-point",
         "name": "Lt. Surge & Raichu",
         "region": "kanto",
         "tracker_key": "004",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24021,11 +24255,11 @@
         }
     },
     "Lucy": {
+        "base_star": 4,
         "filters": "lucy-trainer poison hoenn battle-facility-foe grown-woman passionate-spirit tech exr-none genpool",
         "name": "Lucy & Seviper",
         "region": "hoenn",
         "tracker_key": "098",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24178,11 +24412,11 @@
         }
     },
     "Lusamine_BP": {
+        "base_star": 4,
         "filters": "lusamine-trainer grass alola villain grown-woman alola-adventurer strike exr-none battle-point",
         "name": "Lusamine & Lilligant",
         "region": "alola",
         "tracker_key": "101",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25193,11 +25427,11 @@
         }
     },
     "Marley": {
+        "base_star": 3,
         "filters": "marley-trainer fire sinnoh battle-partner battleground-foe support exr-none genpool",
         "name": "Marley & Arcanine",
         "region": "sinnoh",
         "tracker_key": "038",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25350,11 +25584,11 @@
         }
     },
     "Marlon": {
+        "base_star": 3,
         "filters": "marlon-trainer water unova gym-leader nature-lover body-builder support exr-none genpool",
         "name": "Marlon & Carracosta",
         "region": "unova",
         "tracker_key": "045",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25975,11 +26209,11 @@
         }
     },
     "Marnie_TL": {
+        "base_star": 4,
         "filters": "marnie-trainer poison galar rival pigtails fancy-lady tech exr-none lodge-pair lodge-gacha",
         "name": "Marnie & Toxicroak",
         "region": "galar",
         "tracker_key": "119",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26132,11 +26366,11 @@
         }
     },
     "Marshal": {
+        "base_star": 4,
         "filters": "marshal-trainer fighting unova elite-four body-builder passionate-spirit strike exr-none genpool",
         "name": "Marshal & Conkeldurr",
         "region": "unova",
         "tracker_key": "047",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26757,11 +26991,11 @@
         }
     },
     "May_TL": {
+        "base_star": 4,
         "filters": "may-trainer water hoenn main-character space-cadet contest-lover strike exr-none lodge-pair lodge-free",
         "name": "May & Wailmer",
         "region": "hoenn",
         "tracker_key": "113",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26836,11 +27070,11 @@
         }
     },
     "Maylene": {
+        "base_star": 3,
         "filters": "maylene-trainer fighting sinnoh gym-leader pokeathlete battleground-foe support exr-none genpool",
         "name": "Maylene & Medicham",
         "region": "sinnoh",
         "tracker_key": "032",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27227,11 +27461,11 @@
         }
     },
     "Mina": {
+        "base_star": 3,
         "filters": "mina-trainer fairy alola trial-giver artistic free-spirit tech exr-none genpool",
         "name": "Mina & Granbull",
         "region": "alola",
         "tracker_key": "056",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27384,11 +27618,11 @@
         }
     },
     "Misty": {
+        "base_star": 3,
         "filters": "misty-trainer water kanto gym-leader passionate-spirit support exr-none story",
         "name": "Misty & Starmie",
         "region": "kanto",
         "tracker_key": "003",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27463,11 +27697,11 @@
         }
     },
     "Misty_Ev": {
+        "base_star": 4,
         "filters": "misty-trainer water kanto gym-leader passionate-spirit support exr-none event",
         "name": "Misty (Swimsuit & Psyduck",
         "region": "kanto",
         "tracker_key": "003",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27620,11 +27854,11 @@
         }
     },
     "Molayne": {
+        "base_star": 4,
         "filters": "molayne-trainer steel alola elite-four glasses observatory-cousin strike exr-none genpool ",
         "name": "Molayne & Alolan Dugtrio",
         "region": "alola",
         "tracker_key": "106",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27933,11 +28167,11 @@
         }
     },
     "Morty_BP": {
+        "base_star": 4,
         "filters": "morty-trainer ghost johto gym-leader scarf supernatural support exr-none battle-point",
         "name": "Morty & Mismagius",
         "region": "johto",
         "tracker_key": "099",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28168,11 +28402,11 @@
         }
     },
     "Morty_TL": {
+        "base_star": 4,
         "filters": "morty-trainer ghsot johto gym-leader scarf supernatural support exr-none lodge-pair lodge-free",
         "name": "Morty & Gastly",
         "region": "johto",
         "tracker_key": "099",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28715,11 +28949,11 @@
         }
     },
     "N_TL": {
+        "base_star": 4,
         "filters": "n-trainer psychic unova rival villain unova-adventurer tech exr-none lodge-pair lodge-gacha",
         "name": "N & Sigilyph",
         "region": "unova",
         "tracker_key": "112",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28794,11 +29028,11 @@
         }
     },
     "Nanu": {
+        "base_star": 4,
         "filters": "nanu-trainer dark alola trial-giver veteran-trainer tech exr-none story",
         "name": "Nanu & Alolan Persian",
         "region": "alola",
         "tracker_key": "061",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28873,11 +29107,11 @@
         }
     },
     "Naomi": {
+        "base_star": 3,
         "filters": "naomi-trainer ground alola sunglasses strike exr-none event",
         "name": "Naomi & Sandslash",
         "region": "alola",
         "tracker_key": "154",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29576,11 +29810,11 @@
         }
     },
     "Noland": {
+        "base_star": 4,
         "filters": "noland-trainer bug hoenn battle-facility-foe knowledgeable strike exr-none genpool",
         "name": "Noland & Pinsir",
         "region": "hoenn",
         "tracker_key": "028",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29733,11 +29967,11 @@
         }
     },
     "Norman": {
+        "base_star": 3,
         "filters": "norman-trainer normal hoenn gym-leader hoenn-family passionate-spirit strike exr-none story",
         "name": "Norman & Slaking",
         "region": "hoenn",
         "tracker_key": "022",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29812,11 +30046,11 @@
         }
     },
     "Oak": {
+        "base_star": 3,
         "filters": "oak-trainer psychic kanto researcher old-timer tech exr-none story",
         "name": "Professor Oak & Mew",
         "region": "kanto",
         "tracker_key": "082",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30125,11 +30359,11 @@
         }
     },
     "Olivia_BP": {
+        "base_star": 4,
         "filters": "olivia-trainer rock alola elite-four rock-lover trial-giver support exr-none battle-point",
         "name": "Olivia & Carbink",
         "region": "alola",
         "tracker_key": "057",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30594,11 +30828,11 @@
         }
     },
     "Petey": {
+        "base_star": 3,
         "filters": "petey-trainer electric galar tech exr-none event",
         "name": "Petey (Poké Kid & Pikachu",
         "region": "galar",
         "tracker_key": "194",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31063,11 +31297,11 @@
         }
     },
     "PlayerM_Alcremie": {
+        "base_star": 4,
         "filters": "player-trainer fairy main-character pasio support exr-none event",
         "name": "Player & Alcremie",
         "region": "pasio",
         "tracker_key": "001",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31298,11 +31532,11 @@
         }
     },
     "PlayerM_Pikachu": {
+        "base_star": 3,
         "filters": "player-trainer electric main-character pasio strike exr-none story",
         "name": "Player & Pikachu",
         "region": "pasio",
         "tracker_key": "001",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31689,11 +31923,11 @@
         }
     },
     "PlayerM_Torchic": {
+        "base_star": 3,
         "filters": "player-trainer fire main-character pasio support exr-none story",
         "name": "Player & Torchic",
         "region": "pasio",
         "tracker_key": "001",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32158,11 +32392,11 @@
         }
     },
     "Pryce": {
+        "base_star": 3,
         "filters": "pryce-trainer ice johto gym-leader scarf veteran-trainer strike exr-none story",
         "name": "Pryce & Dewgong",
         "region": "johto",
         "tracker_key": "013",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32237,11 +32471,11 @@
         }
     },
     "Rachel": {
+        "base_star": 4,
         "filters": "rachel-trainer dark pasio sunglasses free-spirit support exr-none pokefair",
         "name": "Rachel & Umbreon",
         "region": "pasio",
         "tracker_key": "137",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32628,11 +32862,11 @@
         }
     },
     "Raihan_TL": {
+        "base_star": 4,
         "filters": "raihan-trainer rock galar gym-leader gadgeteer passionate-spirit support exr-none lodge-pair lodge-gacha",
         "name": "Raihan & Gigalith",
         "region": "galar",
         "tracker_key": "123",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32707,11 +32941,11 @@
         }
     },
     "Ramos": {
+        "base_star": 3,
         "filters": "ramos-trainer grass kalo gym-leader nature-lover veteran-trainer tech exr-none genpool",
         "name": "Ramos & Victreebel",
         "region": "kalos",
         "tracker_key": "050",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33410,11 +33644,11 @@
         }
     },
     "Rika_TL": {
+        "base_star": 4,
         "filters": "rika-trainer ground paldea elite-four knowledgeable grown-woman tech exr-none lodge-pair lodge-gacha",
         "name": "Rika & Whiscash",
         "region": "paldea",
         "tracker_key": "201",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33567,11 +33801,11 @@
         }
     },
     "Roark": {
+        "base_star": 3,
         "filters": "roark-trainer rock sinnoh gym-leader glasses rock-lover strike exr-none genpool",
         "name": "Roark & Rampardos",
         "region": "sinnoh",
         "tracker_key": "030",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34036,11 +34270,11 @@
         }
     },
     "Rosa_TL": {
+        "base_star": 4,
         "filters": "rosa-trainer water unova main-character pigtails unova-adventurer tech exr-none lodge-pair lodge-free",
         "name": "Rosa & Dewott",
         "region": "unova",
         "tracker_key": "039",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34193,11 +34427,11 @@
         }
     },
     "Rose_BP": {
+        "base_star": 4,
         "filters": "rose-trainer steel galar villain passionate-spirit tech exr-none battle-point",
         "name": "Rose & Perrserker",
         "region": "galar",
         "tracker_key": "169",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34272,11 +34506,11 @@
         }
     },
     "Roxanne": {
+        "base_star": 3,
         "filters": "roxanne-trainer rock hoenn hym-leader pigtails rock-lover support exr-none genpool",
         "name": "Roxanne & Probopass",
         "region": "hoenn",
         "tracker_key": "019",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34429,11 +34663,11 @@
         }
     },
     "Roxie": {
+        "base_star": 4,
         "filters": "roxie-trainer poison unova gym-leader artistic undella-town strike exr-none genpool",
         "name": "Roxie & Scolipede",
         "region": "unova",
         "tracker_key": "044",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34820,7 +35054,7 @@
         }
     },
     "SamsonOak": {
-        "filters": "oak-trainer dragon alola sunglasses researcher nature-lover support exr-field variety",
+        "filters": "samsonoak-trainer dragon alola sunglasses researcher nature-lover support exr-field variety",
         "name": "Samson Oak & Alolan Exeggutor",
         "region": "alola",
         "tracker_key": "232",
@@ -34898,11 +35132,11 @@
         }
     },
     "Sawyer": {
+        "base_star": 4,
         "filters": "sawyer-trainer dark sunglasses body-builder pasio support exr-none pokefair",
         "name": "Sawyer & Honchkrow",
         "region": "pasio",
         "tracker_key": "138",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35757,11 +35991,11 @@
         }
     },
     "Serena_TL": {
+        "base_star": 4,
         "filters": "serena-trainer flying kalos main-character sunglasses tech exr-none lodge-pair lodge-free",
         "name": "Serena & Fletchling",
         "region": "kalos",
         "tracker_key": "096",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36070,11 +36304,11 @@
         }
     },
     "Shauna_TL": {
+        "base_star": 4,
         "filters": "shauna-trainer normal kalos rival pigtails tech exr-none lodge-pair lodge-free",
         "name": "Shauna & Delcatty",
         "region": "kalos",
         "tracker_key": "162",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36149,11 +36383,11 @@
         }
     },
     "Shauntal": {
+        "base_star": 4,
         "filters": "shauntal-trainer ghost unova elite-four glasses undella-town strike exr-none genpool",
         "name": "Shauntal & Chandelure",
         "region": "unova",
         "tracker_key": "046",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36384,11 +36618,11 @@
         }
     },
     "Siebold": {
+        "base_star": 4,
         "filters": "siebold-trainer water kalos elite-four cook passionate-spirit strike exr-none genpool",
         "name": "Siebold & Clawitzer",
         "region": "kalos",
         "tracker_key": "052",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36543,6 +36777,84 @@
     "Silver": {
         "filters": "silver-trainer fire johto rival battle-partner complicated-family strike exr-none legendary-adventure has-lodge",
         "name": "Silver & Ho-Oh",
+        "region": "johto",
+        "tracker_key": "091",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Silver_Arc": {
+        "filters": "silver-trainer fire johto rival arc-suit battle-partner multi exr-support arc-fair",
+        "name": "Arc Suit Silver & Ho-Oh",
         "region": "johto",
         "tracker_key": "091",
         "z_arenas": {
@@ -36853,11 +37165,11 @@
         }
     },
     "Silver_TL": {
+        "base_star": 4,
         "filters": "silver-trainer water johto rival battle-partner tech exr-none lodge-pair lodge-free",
         "name": "Silver & Feraligatr",
         "region": "johto",
         "tracker_key": "091",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37010,11 +37322,11 @@
         }
     },
     "Skyla": {
+        "base_star": 3,
         "filters": "skyla-trainer flying unova gym-leader undella-town unova-gym-besties support exr-none story",
         "name": "Skyla & Swanna",
         "region": "unova",
         "tracker_key": "041",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37244,12 +37556,90 @@
             }
         }
     },
+    "Skyla_S": {
+        "filters": "skyla_trainer grass unova gym-leader seasonal-outfit undella-town sprint exr-strike",
+        "name": "Skyla (Summer 2025) & Jumpluff",
+        "region": "unova",
+        "tracker_key": "041",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
     "Skyla_TL": {
+        "base_star": 4,
         "filters": "skyla-trainer flying unova gym-leader undella-town strike exr-none lodge-pair lodge-free",
         "name": "Skyla & Unfezant",
         "region": "unova",
         "tracker_key": "041",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37480,11 +37870,11 @@
         }
     },
     "Sophocles": {
+        "base_star": 4,
         "filters": "sophocles-trainer electric alola trial-giver gadgeteer observatory-cousin tech exr-none genpool",
         "name": "Sophocles & Togedemaru",
         "region": "alola",
         "tracker_key": "055",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37559,11 +37949,11 @@
         }
     },
     "Sophocles_BP": {
+        "base_star": 4,
         "filters": "sophocles-trainer electric alola trial-giver gadgeteer strike exr-none battle-point",
         "name": "Sophocles & Alolan Golem",
         "region": "alola",
         "tracker_key": "055",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38418,11 +38808,11 @@
         }
     },
     "Steven_TL": {
+        "base_star": 4,
         "filters": "steven-trainer rock hoenn champion rock-lover space-cadet tech exr-none lodge-pair lodge-gacha",
         "name": "Steven & Cradily",
         "region": "hoenn",
         "tracker_key": "081",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38653,11 +39043,11 @@
         }
     },
     "Sycamore_TL": {
+        "base_star": 4,
         "filters": "sycamore-trainer grass kalos knowledgeable researcher strike exr-none lodge-pair lodge-free",
         "name": "Professor Sycamore & Bulbasaur",
         "region": "kalos",
         "tracker_key": "116",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38732,11 +39122,11 @@
         }
     },
     "Tate": {
+        "base_star": 3,
         "filters": "tate-trainer psychic hoenn gym-leader supernatural space-cadet strike exr-none genpool",
         "name": "Tate & Solrock",
         "region": "hoenn",
         "tracker_key": "024",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38889,11 +39279,11 @@
         }
     },
     "Teddy": {
+        "base_star": 3,
         "filters": "teddy-trainer bug sinnoh nature-lover support exr-none event shiny",
         "name": "Teddy (Hiker & Rellor★",
         "region": "sinnoh",
         "tracker_key": "229",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38968,11 +39358,11 @@
         }
     },
     "Thorton": {
+        "base_star": 4,
         "filters": "thorton-trainer steel sinnoh battle-facility-foe knowledgeable gadgeteer tech exr-none genpool",
         "name": "Thorton & Bronzong",
         "region": "sinnoh",
         "tracker_key": "036",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39281,11 +39671,11 @@
         }
     },
     "Tina": {
+        "base_star": 4,
         "filters": "tina-trainer fire free-spirit passionate-spirit pasio support exr-none pokefair",
         "name": "Tina & Flareon",
         "region": "pasio",
         "tracker_key": "176",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39438,11 +39828,11 @@
         }
     },
     "Valerie": {
+        "base_star": 4,
         "filters": "valerie-trainer fairy kalos gym-leader artistic free-spirit strike exr-none story",
         "name": "Valerie & Sylveon",
         "region": "kalos",
         "tracker_key": "083",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39517,11 +39907,11 @@
         }
     },
     "Valerie_BP": {
+        "base_star": 4,
         "filters": "valerie-trainer fairy kalos gym-leader artistic free-spirit strike exr-none battle-point",
         "name": "Valerie & Mawile",
         "region": "kalos",
         "tracker_key": "083",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39830,11 +40220,11 @@
         }
     },
     "Viola": {
+        "base_star": 4,
         "filters": "viola-trainer bug kalos gym-leader artistic tech exr-none story",
         "name": "Viola & Masquerain",
         "region": "kalos",
         "tracker_key": "060",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40143,11 +40533,11 @@
         }
     },
     "Volkner_TL": {
+        "base_star": 4,
         "filters": "volkner-trainer electric sinnoh gym-leader gadgeteer tech exr-none lodge-pair lodge-free",
         "name": "Volkner & Raichu",
         "region": "sinnoh",
         "tracker_key": "105",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40300,11 +40690,11 @@
         }
     },
     "Volo_TL": {
+        "base_star": 4,
         "filters": "volo-trainer ground sinnoh knowledgeable researcher strike exr-none lodge-pair lodge-gacha",
         "name": "Volo & Gible",
         "region": "hisui",
         "tracker_key": "199",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40769,11 +41159,11 @@
         }
     },
     "Wally_TL": {
+        "base_star": 4,
         "filters": "wally-trainer normal hoenn rival battle-facility-foe passionate-spirit support exr-none lodge-pair lodge-free",
         "name": "Wally & Delcatty",
         "region": "hoenn",
         "tracker_key": "092",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40848,11 +41238,11 @@
         }
     },
     "Whitney": {
+        "base_star": 4,
         "filters": "whitney-trainer normal johto gym-leader pigtails pokeathlete tech exr-none genpool",
         "name": "Whitney & Miltank",
         "region": "johto",
         "tracker_key": "012",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41083,11 +41473,11 @@
         }
     },
     "Wikstrom": {
+        "base_star": 4,
         "filters": "wikstrom-trainer steel kalos elite-four body-builder passionate-spirit tech exr-none genpool",
         "name": "Wikstrom & Aegislash",
         "region": "kalos",
         "tracker_key": "053",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41162,11 +41552,11 @@
         }
     },
     "Will": {
+        "base_star": 4,
         "filters": "will-trainer psychic johto elite-four masked tech exr-none genpool",
         "name": "Will & Xatu",
         "region": "johto",
         "tracker_key": "016",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41241,11 +41631,11 @@
         }
     },
     "Will_BP": {
+        "base_star": 4,
         "filters": "will-trainer psychic johto elite-four masked tech exr-none battle-point",
         "name": "Will & Slowbro",
         "region": "johto",
         "tracker_key": "016",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41320,11 +41710,11 @@
         }
     },
     "Winona": {
+        "base_star": 3,
         "filters": "winona-trainer flying hoenn gym-leader nature-lover free-spirit tech exr-none genpool",
         "name": "Winona & Pelipper",
         "region": "hoenn",
         "tracker_key": "023",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41477,11 +41867,11 @@
         }
     },
     "Wulfric": {
+        "base_star": 3,
         "filters": "wulfric-trainer ice kalos gym-leader veteran-trainer passionate-spirit strike exr-none genpool",
         "name": "Wulfric & Avalugg",
         "region": "kalos",
         "tracker_key": "051",
-        "base_star": 3,
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41634,11 +42024,11 @@
         }
     },
     "Zinnia_BP": {
+        "base_star": 4,
         "filters": "zinnia-trainer dragon hoenn cape space-cadet tech exr-none battle-point",
         "name": "Zinnia & Salamence",
         "region": "hoenn",
         "tracker_key": "080",
-        "base_star": 4,
         "z_arenas": {
             "azelf": {
                 "matchup": "",

@@ -20,7 +20,7 @@ const Home = () => {
                     <div className="resource-overview">
                         <h3><Link to="tierlist/spark">Spark's Tier List - Filterable</Link></h3>
                         <p>A version of Spark's tierlist with interactive filtering based on trainer, role, acquisition method, and in-game theme skills. <i>Resource originally created by Spark, Ropalme, Rion, and Darkshark.</i></p>
-                        <h4>Last updated: 31 May, 2025</h4>
+                        <h4>Last updated: 27 June, 2025 (2.57.0 release)</h4>
                     </div>
                     <div className="resource-thumbnail">
                         <img src={`${process.env.PUBLIC_URL}/images/spark-combined.png`} className="resource-img" alt="Spark's Tierlist" />
@@ -30,7 +30,7 @@ const Home = () => {
                     <div className="resource-overview">
                         <h3><Link to="tierlist/wag">WAG's Tier List - Filterable</Link></h3>
                         <p>A version of WAG's tierlist with interactive filtering based on trainer, role, acquisition method, and in-game theme skills. <i>Resource originally created by WAG.</i></p>
-                        <h4>Last updated: 31 May, 2025</h4>
+                        <h4>Last updated: 27 June, 2025 (early 2.58.0 list)</h4>
                     </div>
                     <div className="resource-thumbnail">
                     </div>

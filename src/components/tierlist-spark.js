@@ -60,7 +60,7 @@ const TierListSpark = () => {
         {value: 'palmer-trainer', label: 'Palmer'},{value: 'paulo-trainer', label: 'Paulo'},{value: 'penny-trainer', label: 'Penny'},{value: 'petey-trainer', label: 'Petey'},{value: 'petrel-trainer', label: 'Petrel'},{value: 'phoebe-trainer', label: 'Phoebe'},{value: 'piers-trainer', label: 'Piers'},{value: 'player-trainer', label: 'Player'},{value: 'plumeria-trainer', label: 'Plumeria'},{value: 'poppy-trainer', label: 'Poppy'},{value: 'proton-trainer', label: 'Proton'},{value: 'pryce-trainer', label: 'Pryce'},
         
         {value: 'rachel-trainer', label: 'Rachel'},{value: 'raihan-trainer', label: 'Raihan'},{value: 'ramos-trainer', label: 'Ramos'},{value: 'red-trainer', label: 'Red'},{value: 'rei-trainer', label: 'Rei'},{value: 'rika-trainer', label: 'Rika'},{value: 'riley-trainer', label: 'Riley'},{value: 'roark-trainer', label: 'Roark'},{value: 'rosa-trainer', label: 'Rosa'},{value: 'rose-trainer', label: 'Rose'},{value: 'roxanne-trainer', label: 'Roxanne'},{value: 'roxie-trainer', label: 'Roxie'},{value: 'ryuki-trainer', label: 'Ryuki'},
-        {value: 'sabrina-trainer', label: 'Sabrina'},{value: 'sawyer-trainer', label: 'Sawyer'},{value: 'selene-trainer', label: 'Selene'},{value: 'serena-trainer', label: 'Serena'},{value: 'shauna-trainer', label: 'Shauna'},{value: 'shauntal-trainer', label: 'Shauntal'},{value: 'sidney-trainer', label: 'Sidney'},{value: 'siebold-trainer', label: 'Siebold'},{value: 'silver-trainer', label: 'Silver'},{value: 'sina-trainer', label: 'Sina'},{value: 'skyla-trainer', label: 'Skyla'},{value: 'sonia-trainer', label: 'Sonia'},{value: 'sophocles-trainer', label: 'Sophocles'},{value: 'steven-trainer', label: 'Steven'},{value: 'sycamore-trainer', label: 'Professor Sycamore'},
+        {value: 'sabrina-trainer', label: 'Sabrina'},{value: 'samsonoak-trainer', label: 'Samson Oak'},{value: 'sawyer-trainer', label: 'Sawyer'},{value: 'selene-trainer', label: 'Selene'},{value: 'serena-trainer', label: 'Serena'},{value: 'shauna-trainer', label: 'Shauna'},{value: 'shauntal-trainer', label: 'Shauntal'},{value: 'sidney-trainer', label: 'Sidney'},{value: 'siebold-trainer', label: 'Siebold'},{value: 'silver-trainer', label: 'Silver'},{value: 'sina-trainer', label: 'Sina'},{value: 'skyla-trainer', label: 'Skyla'},{value: 'sonia-trainer', label: 'Sonia'},{value: 'sophocles-trainer', label: 'Sophocles'},{value: 'steven-trainer', label: 'Steven'},{value: 'sycamore-trainer', label: 'Professor Sycamore'},
         {value: 'tate-trainer', label: 'Tate'},{value: 'teddy-trainer', label: 'Teddy'},{value: 'thorton-trainer', label: 'Thorton'},{value: 'tierno-trainer', label: 'Tierno'},{value: 'tina-trainer', label: 'Tina'},{value: 'trevor-trainer', label: 'Trevor'},
         
         {value: 'valerie-trainer', label: 'Valerie'},{value: 'victor-trainer', label: 'Victor'},{value: 'viola-trainer', label: 'Viola'},{value: 'volkner-trainer', label: 'Volkner'},{value: 'volo-trainer', label: 'Volo'},
@@ -285,21 +285,17 @@ const TierListSpark = () => {
                                 </ul>
                             </li>
                         </ul>
-                        If you want to learn more, please take a look at the (slightly outdated) <a href="https://docs.google.com/document/d/1TW6J-BJOg6IxDJYGy7g8vVhT0wo--g9ssN9RrHyPiyo/edit?tab=t.0">criteria doc</a> provided by the resource managers. A massive thank you to Rion who helped me summarize these criteria to list here.
+                        If you want to learn more, please take a look at the (slightly outdated) <a href="https://docs.google.com/document/d/1TW6J-BJOg6IxDJYGy7g8vVhT0wo--g9ssN9RrHyPiyo/edit?tab=t.0" target="_blank">criteria doc</a> provided by the resource managers. A massive thank you to Rion who helped me summarize these criteria to list here.
                     </p>
                 </Collapsible>
                 <div className="not-ranked">
                     <h3>The following sync pairs are not ranked on the tierlist at the moment, since they were added in the most recent update:</h3>
                     <div className="tierlist-row not-included-row">
-                        {SyncPairIcon("Elio_NC", "black", "filter-excluded")}
-                        {SyncPairIcon("Selene_NC", "black", "filter-excluded")}
-                        {SyncPairIcon("Bede_DC", "black", "filter-excluded")}
-                        {SyncPairIcon("Iris_TL", "black", "filter-excluded")}
-                        {SyncPairIcon("Larry_SC", "black", "filter-excluded")}
-                        {SyncPairIcon("Clive", "black", "filter-excluded")}
-                        {SyncPairIcon("SamsonOak", "black", "filter-excluded")}
-                        {SyncPairIcon("Gordie_Var", "black", "filter-excluded")}
-                        {SyncPairIcon("Melony_Var", "black", "filter-excluded")}
+                        {SyncPairIcon("Cynthia_S", "black", "filter-excluded")}
+                        {SyncPairIcon("Leon_TL", "black", "filter-excluded")}
+                        {SyncPairIcon("Skyla_S", "black", "filter-excluded")}
+                        {SyncPairIcon("Silver_Arc", "black", "filter-excluded")}
+                        {SyncPairIcon("Ethan_Arc", "black", "filter-excluded")}
                     </div>
                 </div>
             </div>
@@ -506,125 +502,127 @@ const TierListSpark = () => {
                             <div className="tier-title">U</div>
                             <div className="tier-content">
                                 {SyncPairIcon("May_NC", "red")}
+                                {SyncPairIcon("Elio_NC", "red", "border-blue")}
+                                {SyncPairIcon("Selene_NC", "orange", "border-blue")}
                                 {SyncPairIcon("Florian", "orange")}
                                 {SyncPairIcon("Leon_Arc", "orange")}
-                                {SyncPairIcon("Alder_Arc", "orange", "border-blue")}
+                                {SyncPairIcon("Alder_Arc", "orange")}
                                 {SyncPairIcon("Red_NC", "yellow")}
                                 {SyncPairIcon("Cheren_NC", "yellow")}
                                 {SyncPairIcon("Erika_Pal", "green")}
-                                {SyncPairIcon("Lance_Arc", "green")}
-                                {SyncPairIcon("Giacomo", "green")}
-                                {SyncPairIcon("Marnie_NC", "green")}
-                                {SyncPairIcon("Ash", "green")}
                             </div>
                         </div>
                         <div className="splus-row tierlist-row">
                             <div className="tier-title">S+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Gladion_SS", "red", "border-purple")}
-                                {SyncPairIcon("Hop_Var2", "red")}
-                                {SyncPairIcon("Juliana", "orange")}
-                                {SyncPairIcon("Bede_SS", "orange", "border-blue")}
-                                {SyncPairIcon("Mela", "orange")}
-                                {SyncPairIcon("Hilda_SS", "orange")}
-                                {SyncPairIcon("Lysandre_SS", "orange")}
-                                {SyncPairIcon("Steven_SS_Att", "yellow")}
-                                {SyncPairIcon("Lear", "yellow")}
-                                {SyncPairIcon("Klara", "yellow")}
-                                {SyncPairIcon("Serena_SS", "green")}
-                                {SyncPairIcon("Irida_SC", "green")}
+                                {SyncPairIcon("Lance_Arc", "red")}
+                                {SyncPairIcon("Marnie_NC", "red")}
+                                {SyncPairIcon("Giacomo", "red")}
+                                {SyncPairIcon("Ash", "orange")}
+                                {SyncPairIcon("Gladion_SS", "orange")}
+                                {SyncPairIcon("Hop_Var2", "orange")}
+                                {SyncPairIcon("Juliana", "yellow")}
+                                {SyncPairIcon("Bede_SS", "yellow")}
+                                {SyncPairIcon("Mela", "yellow")}
+                                {SyncPairIcon("Hilda_SS", "yellow")}
+                                {SyncPairIcon("Lysandre_SS", "yellow")}
+                                {SyncPairIcon("Steven_SS_Att", "green")}
+                                {SyncPairIcon("Lear", "green")}
                             </div>
                         </div>
                         <div className="s-row tierlist-row">
                             <div className="tier-title">S</div>
                             <div className="tier-content">
+                                {SyncPairIcon("Klara", "red")}
                                 {SyncPairIcon("Selene_Alt", "red")}
-                                {SyncPairIcon("Dexio", "red")}
-                                {SyncPairIcon("Jacq", "red")}
-                                {SyncPairIcon("Piers_SS", "orange")}
-                                {SyncPairIcon("Poppy", "orange")}
-                                {SyncPairIcon("Rose", "orange", "border-purple")}
-                                {SyncPairIcon("Barry_SC", "yellow", "border-purple")}
-                                {SyncPairIcon("Adaman_SC", "yellow")}
-                                {SyncPairIcon("Cynthia", "yellow", "border-purple")}
-                                {SyncPairIcon("Gloria_Alt", "green")}
-                                {SyncPairIcon("Hilbert_SS", "green")}
-                                {SyncPairIcon("Palmer", "green")}
+                                {SyncPairIcon("Irida_SC", "red")}
+                                {SyncPairIcon("Serena_SS", "red")}
+                                {SyncPairIcon("Dexio", "orange")}
+                                {SyncPairIcon("Jacq", "orange")}
+                                {SyncPairIcon("Piers_SS", "yellow")}
+                                {SyncPairIcon("Poppy", "yellow")}
+                                {SyncPairIcon("Rose", "yellow")}
+                                {SyncPairIcon("Barry_SC", "green")}
+                                {SyncPairIcon("Adaman_SC", "green")}
+                                {SyncPairIcon("Cynthia", "green")}
                             </div>
                         </div>
                         <div className="sminus-row tierlist-row">
                             <div className="tier-title">S-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Emma", "red")}
-                                {SyncPairIcon("Sina", "red")}
-                                {SyncPairIcon("Eusine", "red")}
-                                {SyncPairIcon("Red_SS", "red", "border-purple")}
-                                {SyncPairIcon("Lucas", "orange")}
-                                {SyncPairIcon("Lusamine_SS", "orange")}
-                                {SyncPairIcon("Alder", "yellow", "border-purple")}
-                                {SyncPairIcon("Rei_Aca", "yellow")}
+                                {SyncPairIcon("Gloria_Alt", "red")}
+                                {SyncPairIcon("Hilbert_SS", "red")}
+                                {SyncPairIcon("Palmer", "red")}
+                                {SyncPairIcon("Emma", "orange")}
+                                {SyncPairIcon("Sina", "orange")}
+                                {SyncPairIcon("Eusine", "orange")}
+                                {SyncPairIcon("Red_SS", "orange")}
+                                {SyncPairIcon("Lucas", "yellow")}
+                                {SyncPairIcon("Lusamine_SS", "yellow")}
+                                {SyncPairIcon("Alder", "yellow")}
+                                {SyncPairIcon("Rei_Aca", "green")}
                                 {SyncPairIcon("Lance", "green")}
-                                {SyncPairIcon("Archie", "green")}
-                                {SyncPairIcon("Gladion", "green", "border-purple")}
-                                {SyncPairIcon("Candice_Pal", "green")}
                             </div>
                         </div>
                         <div className="aplus-row tierlist-row">
                             <div className="tier-title">A+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Giovanni_Var", "red")}
-                                {SyncPairIcon("Maxie", "red")}
-                                {SyncPairIcon("Cynthia_SS", "red")}
-                                {SyncPairIcon("Blue_Cl", "orange", "border-purple")}
+                                {SyncPairIcon("Archie", "red")}
+                                {SyncPairIcon("Gladion", "red")}
+                                {SyncPairIcon("Candice_Pal", "red")}
+                                {SyncPairIcon("Giovanni_Var", "orange")}
+                                {SyncPairIcon("Maxie", "orange")}
+                                {SyncPairIcon("Cynthia_SS", "orange")}
+                                {SyncPairIcon("Blue_Cl", "orange")}
                                 {SyncPairIcon("Emmet", "orange")}
                                 {SyncPairIcon("Olympia", "yellow")}
                                 {SyncPairIcon("Diantha_SC", "yellow")}
-                                {SyncPairIcon("Korrina_SS", "yellow")}
-                                {SyncPairIcon("Gloria", "yellow", "border-purple")}
-                                {SyncPairIcon("Iono_F", "green")}
-                                {SyncPairIcon("Liza_S", "green")}
-                                {SyncPairIcon("Lillie_A", "green")}
+                                {SyncPairIcon("Korrina_SS", "green")}
+                                {SyncPairIcon("Gloria", "green")}
                             </div>
                         </div>
                         <div className="a-row tierlist-row">
                             <div className="tier-title">A</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Leon", "red")}
-                                {SyncPairIcon("Steven_A", "red", "border-purple")}
-                                {SyncPairIcon("Giovanni_SS", "red")}
-                                {SyncPairIcon("Lisia_NY", "orange")}
-                                {SyncPairIcon("Victor", "orange", "border-purple")}
-                                {SyncPairIcon("N", "orange")}
-                                {SyncPairIcon("Diantha", "orange", "border-purple")}
-                                {SyncPairIcon("Ethan_SS", "yellow")}
-                                {SyncPairIcon("Raihan", "yellow")}
-                                {SyncPairIcon("Leon_SS", "yellow")}
-                                {SyncPairIcon("Sonia_SC", "green")}
-                                {SyncPairIcon("N_S", "green")}
+                                {SyncPairIcon("Iono_F", "red")}
+                                {SyncPairIcon("Liza_S", "red")}
+                                {SyncPairIcon("Lillie_A", "red")}
+                                {SyncPairIcon("Leon", "orange")}
+                                {SyncPairIcon("Steven_A", "orange")}
+                                {SyncPairIcon("Giovanni_SS", "yellow")}
+                                {SyncPairIcon("Lisia_NY", "yellow")}
+                                {SyncPairIcon("Victor", "yellow")}
+                                {SyncPairIcon("N", "yellow")}
+                                {SyncPairIcon("Diantha", "yellow")}
+                                {SyncPairIcon("Ethan_SS", "green")}
+                                {SyncPairIcon("Raihan", "green")}
                             </div>
                         </div>
                         <div className="aminus-row tierlist-row">
                             <div className="tier-title">A-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Emmet_SC", "red")}
-                                {SyncPairIcon("Hugh", "red")}
+                                {SyncPairIcon("Leon_SS", "red")}
+                                {SyncPairIcon("Sonia_SC", "red")}
+                                {SyncPairIcon("N_S", "red")}
+                                {SyncPairIcon("Emmet_SC", "orange")}
+                                {SyncPairIcon("Hugh", "orange")}
                                 {SyncPairIcon("Erika_SS", "orange")}
                                 {SyncPairIcon("Silver", "orange")}
                                 {SyncPairIcon("Riley", "yellow")}
                                 {SyncPairIcon("Hilda", "yellow")}
-                                {SyncPairIcon("Grimsley_SS", "yellow", "border-purple")}
-                                {SyncPairIcon("Kris", "yellow")}
+                                {SyncPairIcon("Grimsley_SS", "yellow")}
+                                {SyncPairIcon("Kris", "green")}
                                 {SyncPairIcon("Elesa", "green")}
-                                {SyncPairIcon("Blue", "green", "border-purple")}
-                                {SyncPairIcon("Hilda_SC", "green", "border-purple")}
-                                {SyncPairIcon("Iris_F", "green")}
                             </div>
                         </div>
                         <div className="bplus-row tierlist-row">
                             <div className="tier-title">B+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("May", "red", "border-purple")}
-                                {SyncPairIcon("Leon_H", "red")}
+                                {SyncPairIcon("Blue", "red")}
+                                {SyncPairIcon("Hilda_SC", "red")}
+                                {SyncPairIcon("Iris_F", "red")}
+                                {SyncPairIcon("May", "orange")}
+                                {SyncPairIcon("Leon_H", "orange")}
                                 {SyncPairIcon("Volkner_NY", "orange")}
                                 {SyncPairIcon("PlayerM_Solgaleo", "orange")}
                                 {SyncPairIcon("Chuck", "orange")}
@@ -632,81 +630,81 @@ const TierListSpark = () => {
                                 {SyncPairIcon("Hala", "yellow")}
                                 {SyncPairIcon("Ryuki", "green")}
                                 {SyncPairIcon("Cyrus", "green")}
-                                {SyncPairIcon("Caitlin", "green")}
-                                {SyncPairIcon("Giovanni", "green")}
-                                {SyncPairIcon("Brendan", "green")}
                             </div>
                         </div>
                         <div className="b-row tierlist-row">
                             <div className="tier-title">B</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Wally", "red", "border-purple")}
+                                {SyncPairIcon("Caitlin", "red")}
+                                {SyncPairIcon("Giovanni", "red")}
+                                {SyncPairIcon("Brendan", "red")}
+                                {SyncPairIcon("Wally", "orange")}
                                 {SyncPairIcon("Allister", "orange")}
-                                {SyncPairIcon("Clavell_Ev", "orange")}
-                                {SyncPairIcon("Lear_TL", "orange")}
-                                {SyncPairIcon("Nessa", "orange")}
-                                {SyncPairIcon("Sidney", "orange", "border-purple")}
-                                {SyncPairIcon("Guzma", "yellow")}
-                                {SyncPairIcon("Skyla_TL", "yellow")}
-                                {SyncPairIcon("Burgh", "yellow")}
-                                {SyncPairIcon("Hilbert_F", "green")}
-                                {SyncPairIcon("Guzma_SC", "green")}
-                                {SyncPairIcon("Fantina", "green")}
+                                {SyncPairIcon("Clavell_Ev", "yellow")}
+                                {SyncPairIcon("Lear_TL", "yellow")}
+                                {SyncPairIcon("Nessa", "yellow")}
+                                {SyncPairIcon("Sidney", "green")}
+                                {SyncPairIcon("Guzma", "green")}
+                                {SyncPairIcon("Mallow", "green", "border-purple")}
+                                {SyncPairIcon("Skyla_TL", "green")}
                             </div>
                         </div>
                         <div className="bminus-row tierlist-row">
                             <div className="tier-title">B-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Zinnia", "red")}
-                                {SyncPairIcon("Lusamine_BP", "red")}
-                                {SyncPairIcon("Morty", "orange")}
-                                {SyncPairIcon("Mallow", "orange")}
+                                {SyncPairIcon("Burgh", "red")}
+                                {SyncPairIcon("Morty", "red")}
+                                {SyncPairIcon("Fantina", "red")}
+                                {SyncPairIcon("Hilbert_F", "orange")}
+                                {SyncPairIcon("Guzma_SC", "orange")}
+                                {SyncPairIcon("Lusamine_BP", "orange")}
+                                {SyncPairIcon("Zinnia", "orange")}
                                 {SyncPairIcon("Olivia", "yellow")}
                                 {SyncPairIcon("Valerie_BP", "yellow")}
                                 {SyncPairIcon("Lusamine", "yellow")}
                                 {SyncPairIcon("Selene", "green")}
                                 {SyncPairIcon("Iono_Ev", "green")}
-                                {SyncPairIcon("Roark", "green")}
-                                {SyncPairIcon("Diantha_TL", "green")}
-                                {SyncPairIcon("Shauntal", "green", "border-purple")}
                             </div>
                         </div>
                         <div className="cplus-row tierlist-row">
                             <div className="tier-title">C+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Drasna", "red")}
-                                {SyncPairIcon("Barry", "red")}
-                                {SyncPairIcon("Noland", "red", "border-purple")}
-                                {SyncPairIcon("Lance_NY", "orange")}
-                                {SyncPairIcon("Blue_Ev", "orange")}
-                                {SyncPairIcon("Zinnia_BP", "orange")}
-                                {SyncPairIcon("Ethan", "orange")}
-                                {SyncPairIcon("Volo_TL", "yellow")}
-                                {SyncPairIcon("Steven_S", "yellow")}
-                                {SyncPairIcon("Hau_DC", "yellow")}
-                                {SyncPairIcon("Candice_BP", "yellow")}
-                                {SyncPairIcon("Koga", "green")}
+                                {SyncPairIcon("Roark", "red")}
+                                {SyncPairIcon("Diantha_TL", "red")}
+                                {SyncPairIcon("Shauntal", "red")}
+                                {SyncPairIcon("Drasna", "orange")}
+                                {SyncPairIcon("Barry", "orange")}
+                                {SyncPairIcon("Noland", "orange")}
+                                {SyncPairIcon("Lance_NY", "yellow")}
+                                {SyncPairIcon("Blue_Ev", "yellow")}
+                                {SyncPairIcon("Zinnia_BP", "yellow")}
+                                {SyncPairIcon("Ethan", "yellow")}
+                                {SyncPairIcon("Volo_TL", "green")}
+                                {SyncPairIcon("Steven_S", "green")}
                             </div>
                         </div>
                         <div className="c-row tierlist-row">
                             <div className="tier-title">C</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Elesa_Pal", "red")}
-                                {SyncPairIcon("Kahili", "red", "border-purple")}
+                                {SyncPairIcon("Hau_DC", "red")}
+                                {SyncPairIcon("Candice_BP", "red")}
+                                {SyncPairIcon("Koga", "red")}
+                                {SyncPairIcon("Elesa_Pal", "orange")}
+                                {SyncPairIcon("Kahili", "orange")}
                                 {SyncPairIcon("Sophocles_BP", "orange")}
-                                {SyncPairIcon("Gloria_S", "orange")}
-                                {SyncPairIcon("Siebold", "orange")}
-                                {SyncPairIcon("Bugsy", "orange", "border-purple")}
-                                {SyncPairIcon("Nate", "orange")}
-                                {SyncPairIcon("Roxie", "yellow")}
-                                {SyncPairIcon("Looker", "yellow")}
-                                {SyncPairIcon("Gloria_TL", "green")}
-                                {SyncPairIcon("Bruno", "green")}
+                                {SyncPairIcon("Gloria_S", "yellow")}
+                                {SyncPairIcon("Siebold", "yellow")}
+                                {SyncPairIcon("Bugsy", "yellow")}
+                                {SyncPairIcon("Nate", "yellow")}
+                                {SyncPairIcon("Roxie", "green")}
+                                {SyncPairIcon("Looker", "green")}
                             </div>
                         </div>
                         <div className="cminus-row tierlist-row">
                             <div className="tier-title">C-</div>
                             <div className="tier-content">
+                                {SyncPairIcon("Gloria_TL", "red")}
+                                {SyncPairIcon("Bruno", "red")}
                                 {SyncPairIcon("Lyra_S", "red")}
                                 {SyncPairIcon("Hau", "orange")}
                                 {SyncPairIcon("Calem_TL", "orange")}
@@ -722,7 +720,7 @@ const TierListSpark = () => {
                             <div className="tier-title">D+</div>
                             <div className="tier-content">
                                 {SyncPairIcon("Sycamore_TL", "red")}
-                                {SyncPairIcon("Korrina", "orange", "border-purple")}
+                                {SyncPairIcon("Korrina", "orange")}
                                 {SyncPairIcon("Clair", "orange")}
                                 {SyncPairIcon("Valerie", "orange")}
                                 {SyncPairIcon("Karen_BP", "orange")}
@@ -756,80 +754,80 @@ const TierListSpark = () => {
                                 {SyncPairIcon("Red_SST", "orange")}
                                 {SyncPairIcon("Leaf_NC", "orange")}
                                 {SyncPairIcon("Brendan_NC", "orange")}
-                                {SyncPairIcon("Elesa_SSA", "orange", "border-blue")}
+                                {SyncPairIcon("Elesa_SSA", "orange")}
                                 {SyncPairIcon("Bianca_NC", "yellow")}
-                                {SyncPairIcon("Lear_SS", "green")}
+                                {SyncPairIcon("Lear_SS", "yellow")}
                                 {SyncPairIcon("N_Arc", "green")}
-                                {SyncPairIcon("Serena_NC", "green")}
                                 {SyncPairIcon("Dahlia", "green")}
                             </div>
                         </div>
                         <div className="splus-row tierlist-row">
                             <div className="tier-title">S+</div>
                             <div className="tier-content">
+                                {SyncPairIcon("Ethan_Var", "red")}
+                                {SyncPairIcon("Serena_NC", "red")}
                                 {SyncPairIcon("Oleana", "red")}
                                 {SyncPairIcon("Roxie_SS", "red")}
-                                {SyncPairIcon("Ethan_Var", "orange")}
                                 {SyncPairIcon("Lillie_H", "orange")}
-                                {SyncPairIcon("Wally_SS", "orange", "border-purple")}
+                                {SyncPairIcon("Wally_SS", "orange")}
                                 {SyncPairIcon("Red_Mix", "yellow")}
                                 {SyncPairIcon("Irida", "yellow")}
                                 {SyncPairIcon("Adaman", "yellow")}
-                                {SyncPairIcon("Lyra_SS", "yellow")}
-                                {SyncPairIcon("Geeta", "green")}
-                                {SyncPairIcon("Silver_NC", "green", "border-purple")}
-                                {SyncPairIcon("Lucas_Mix", "green")}
+                                {SyncPairIcon("Geeta", "green", "border-purple")}
+                                {SyncPairIcon("Lyra_SS", "green")}
+                                {SyncPairIcon("Silver_NC", "green")}
+                                {SyncPairIcon("Lillie_Ev", "green")}
                             </div>
                         </div>
                         <div className="s-row tierlist-row">
                             <div className="tier-title">S</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Lillie_Ev", "red")}
-                                {SyncPairIcon("Poppy_NY", "red", "border-purple")}
-                                {SyncPairIcon("Dawn_Mix", "red", "border-blue")}
-                                {SyncPairIcon("Iono_SS", "red", "border-blue")}
-                                {SyncPairIcon("Diantha_SS", "orange", "border-purple")}
+                                {SyncPairIcon("Lucas_Mix", "red")}
+                                {SyncPairIcon("Poppy_NY", "red")}
+                                {SyncPairIcon("Dawn_Mix", "red")}
+                                {SyncPairIcon("Iono_SS", "red")}
+                                {SyncPairIcon("Diantha_SS", "orange")}
                                 {SyncPairIcon("Leaf_Mix", "orange")}
                                 {SyncPairIcon("Clavell", "orange")}
                                 {SyncPairIcon("Hau_SS", "yellow")}
-                                {SyncPairIcon("Benga", "yellow", "border-blue")}
+                                {SyncPairIcon("Benga", "yellow")}
                                 {SyncPairIcon("Lacey", "yellow")}
                                 {SyncPairIcon("Avery", "yellow")}
-                                {SyncPairIcon("Hop_NC", "yellow")}
+                                {SyncPairIcon("Hop_NC", "green")}
                             </div>
                         </div>
                         <div className="sminus-row tierlist-row">
                             <div className="tier-title">S-</div>
                             <div className="tier-content">
                                 {SyncPairIcon("Ingo_SS", "red")}
-                                {SyncPairIcon("Skyla_A", "red")}
                                 {SyncPairIcon("Morty_Aca", "red")}
+                                {SyncPairIcon("Skyla_A", "red")}
                                 {SyncPairIcon("Nate_NC", "orange")}
                                 {SyncPairIcon("Nemona_SS", "orange")}
-                                {SyncPairIcon("Rei", "orange")}
                                 {SyncPairIcon("Leon_Alt", "yellow")}
                                 {SyncPairIcon("Marnie_Var", "yellow")}
-                                {SyncPairIcon("Emmet_SS", "yellow")}
                                 {SyncPairIcon("Bede_Var", "yellow")}
-                                {SyncPairIcon("Hop_Var", "yellow")}
+                                {SyncPairIcon("Emmet_SS", "yellow")}
+                                {SyncPairIcon("Rei", "yellow")}
                                 {SyncPairIcon("Gardenia_S", "green")}
+                                {SyncPairIcon("Hop_Var", "green")}
                                 {SyncPairIcon("Lana_SS", "green")}
                             </div>
                         </div>
                         <div className="aplus-row tierlist-row">
                             <div className="tier-title">A+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Rosa_Aca", "red")}
                                 {SyncPairIcon("N_SS", "red")}
                                 {SyncPairIcon("Roxanne_F", "red")}
                                 {SyncPairIcon("Shauntal_F", "red")}
+                                {SyncPairIcon("Rosa_Aca", "red")}
                                 {SyncPairIcon("Silver_SS", "orange")}
-                                {SyncPairIcon("May_SS", "orange", "border-purple")}
+                                {SyncPairIcon("May_SS", "orange")}
                                 {SyncPairIcon("Larry", "orange")}
                                 {SyncPairIcon("Cynthia_Var", "yellow")}
                                 {SyncPairIcon("Blue_Mix", "yellow")}
                                 {SyncPairIcon("Wallace_NY", "yellow")}
-                                {SyncPairIcon("Selene_SC", "yellow", "border-purple")}
+                                {SyncPairIcon("Selene_SC", "yellow")}
                                 {SyncPairIcon("N_A", "yellow")}
                                 {SyncPairIcon("Cynthia_SSR", "green")}
                             </div>
@@ -845,10 +843,10 @@ const TierListSpark = () => {
                                 {SyncPairIcon("Elesa_Cl", "orange")}
                                 {SyncPairIcon("Akari", "yellow")}
                                 {SyncPairIcon("Lyra_Var", "yellow")}
-                                {SyncPairIcon("May_A", "yellow", "border-purple")}
+                                {SyncPairIcon("May_A", "yellow")}
                                 {SyncPairIcon("Elio_Var", "yellow")}
                                 {SyncPairIcon("Calem_Var", "green")}
-                                {SyncPairIcon("Marnie_Pal", "green", "border-purple")}
+                                {SyncPairIcon("Marnie_Pal", "green")}
                                 {SyncPairIcon("Hilda_Var", "green")}
                             </div>
                         </div>
@@ -858,173 +856,174 @@ const TierListSpark = () => {
                                 {SyncPairIcon("Viola_H", "red")}
                                 {SyncPairIcon("Hilbert_Var", "orange")}
                                 {SyncPairIcon("Selene_Var", "orange")}
-                                {SyncPairIcon("Lucas_Var",  "orange")}
-                                {SyncPairIcon("BrycenMan",  "orange")}
-                                {SyncPairIcon("Kris_Var",  "yellow")}
-                                {SyncPairIcon("Paulo",  "yellow")}
-                                {SyncPairIcon("Noland_Var",  "yellow")}
-                                {SyncPairIcon("Bede",  "green")}
-                                {SyncPairIcon("Grimsley_Kimono_Var",  "green", "border-blue")}
-                                {SyncPairIcon("Marnie_Aca",  "green")}
-                                {SyncPairIcon("Greta",  "green")}
+                                {SyncPairIcon("Lucas_Var", "orange")}
+                                {SyncPairIcon("BrycenMan", "orange")}
+                                {SyncPairIcon("Kris_Var", "yellow")}
+                                {SyncPairIcon("Noland_Var", "yellow")}
+                                {SyncPairIcon("Bede", "yellow")}
+                                {SyncPairIcon("Clive", "yellow", "border-blue")}
+                                {SyncPairIcon("Marnie_Aca", "green")}
+                                {SyncPairIcon("Greta", "green")}
+                                {SyncPairIcon("Tate_S", "green")}
                             </div>
                         </div>
                         <div className="bplus-row tierlist-row">
                             <div className="tier-title">B+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Tate_S",  "red")}
-                                {SyncPairIcon("Thorton_Var",  "red")}
-                                {SyncPairIcon("Ariana",  "orange")}
-                                {SyncPairIcon("Leaf_SS",  "orange", "border-purple")}
-                                {SyncPairIcon("Steven_SS_Spe",  "orange")}
-                                {SyncPairIcon("Nemona",  "orange")}
-                                {SyncPairIcon("Lysandre",  "orange")}
-                                {SyncPairIcon("Bianca",  "yellow")}
-                                {SyncPairIcon("Steven_SS",  "yellow")}
-                                {SyncPairIcon("Lance_Var",  "yellow")}
-                                {SyncPairIcon("Colress",  "green")}
-                                {SyncPairIcon("Kiawe_Var",  "green")}
-                                {SyncPairIcon("Marnie",  "green", "border-purple")}
+                                {SyncPairIcon("Thorton_Var", "red")}
+                                {SyncPairIcon("Ariana", "red")}
+                                {SyncPairIcon("Leaf_SS", "orange")}
+                                {SyncPairIcon("Steven_SS_Spe", "orange")}
+                                {SyncPairIcon("Paulo", "orange")}
+                                {SyncPairIcon("Nemona", "orange")}
+                                {SyncPairIcon("Lysandre", "orange")}
+                                {SyncPairIcon("Bianca", "yellow")}
+                                {SyncPairIcon("Steven_SS", "yellow")}
+                                {SyncPairIcon("Colress", "yellow")}
+                                {SyncPairIcon("Lance_Var", "green")}
+                                {SyncPairIcon("Kiawe_Var", "green")}
+                                {SyncPairIcon("Marnie", "green")}
                             </div>
                         </div>
                         <div className="b-row tierlist-row">
                             <div className="tier-title">B</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Iris_Alt",  "red")}
-                                {SyncPairIcon("Gordie",  "red")}
-                                {SyncPairIcon("Dawn_NY",  "orange")}
-                                {SyncPairIcon("Serena",  "orange")}
-                                {SyncPairIcon("Bianca_DC",  "orange")}
-                                {SyncPairIcon("Plumeria_Var",  "orange")}
-                                {SyncPairIcon("Marnie_Ev",  "yellow")}
-                                {SyncPairIcon("Rosa_SC",  "yellow")}
-                                {SyncPairIcon("Bertha",  "yellow")}
-                                {SyncPairIcon("Lucian",  "yellow")}
-                                {SyncPairIcon("MaskedRoyal",  "yellow")}
-                                {SyncPairIcon("Whitney_H",  "green")}
-                                {SyncPairIcon("Grimsley_Kimono",  "green")}
+                                {SyncPairIcon("Iris_Alt", "red")}
+                                {SyncPairIcon("Gordie", "red")}
+                                {SyncPairIcon("Dawn_NY", "orange")}
+                                {SyncPairIcon("Serena", "orange")}
+                                {SyncPairIcon("Bianca_DC", "orange")}
+                                {SyncPairIcon("Plumeria_Var", "orange")}
+                                {SyncPairIcon("Marnie_Ev", "yellow")}
+                                {SyncPairIcon("Rosa_SC", "yellow")}
+                                {SyncPairIcon("Bertha", "yellow")}
+                                {SyncPairIcon("Lucian", "yellow")}
+                                {SyncPairIcon("MaskedRoyal", "yellow")}
+                                {SyncPairIcon("Steven", "green")}
+                                {SyncPairIcon("Grimsley_Kimono", "green")}
                             </div>
                         </div>
                         <div className="bminus-row tierlist-row">
                             <div className="tier-title">B-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Ghetsis",  "red")}
-                                {SyncPairIcon("Marnie_S",  "red")}
-                                {SyncPairIcon("Steven",  "red", "border-purple")}
-                                {SyncPairIcon("Tierno_DC",  "orange")}
-                                {SyncPairIcon("Nessa_H",  "orange")}
-                                {SyncPairIcon("Ilima",  "orange")}
-                                {SyncPairIcon("Ingo_SC",  "orange")}
-                                {SyncPairIcon("Courtney",  "orange", "border-purple")}
-                                {SyncPairIcon("Archer",  "yellow")}
-                                {SyncPairIcon("N_DC",  "yellow", "border-blue")}
-                                {SyncPairIcon("Serena_Pal",  "yellow")}
-                                {SyncPairIcon("Victor_Ev",  "green")}
+                                {SyncPairIcon("Whitney_H", "red")}
+                                {SyncPairIcon("Ghetsis", "red")}
+                                {SyncPairIcon("Marnie_S", "red")}
+                                {SyncPairIcon("Tierno_DC", "orange")}
+                                {SyncPairIcon("Nessa_H", "orange")}
+                                {SyncPairIcon("Ilima", "orange")}
+                                {SyncPairIcon("Ingo_SC", "orange")}
+                                {SyncPairIcon("Courtney", "orange")}
+                                {SyncPairIcon("Archer", "yellow")}
+                                {SyncPairIcon("N_DC", "yellow")}
+                                {SyncPairIcon("Serena_Pal", "yellow")}
+                                {SyncPairIcon("Victor_Ev", "green")}
                             </div>
                         </div>
                         <div className="cplus-row tierlist-row">
                             <div className="tier-title">C+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Petrel",  "red")}
-                                {SyncPairIcon("Karen",  "red", "border-purple")}
-                                {SyncPairIcon("Serena_TL",  "red")}
-                                {SyncPairIcon("Shauna_TL",  "red")}
-                                {SyncPairIcon("Malva",  "orange")}
-                                {SyncPairIcon("Wally_DC",  "orange")}
-                                {SyncPairIcon("Blue_DC",  "orange")}
-                                {SyncPairIcon("Hugh_DC",  "orange")}
-                                {SyncPairIcon("N_TL",  "yellow")}
-                                {SyncPairIcon("Agatha",  "yellow", "border-purple")}
-                                {SyncPairIcon("Clemont",  "green")}
-                                {SyncPairIcon("Will",  "green")}
-                                {SyncPairIcon("Brendan_TL",  "green")}
+                                {SyncPairIcon("Petrel", "red")}
+                                {SyncPairIcon("Karen", "red")}
+                                {SyncPairIcon("Serena_TL", "red")}
+                                {SyncPairIcon("Shauna_TL", "orange")}
+                                {SyncPairIcon("Malva", "orange")}
+                                {SyncPairIcon("Wally_DC", "orange")}
+                                {SyncPairIcon("Blue_DC", "orange")}
+                                {SyncPairIcon("Hugh_DC", "orange")}
+                                {SyncPairIcon("N_TL", "yellow")}
+                                {SyncPairIcon("Agatha", "yellow")}
+                                {SyncPairIcon("Clemont", "green")}
+                                {SyncPairIcon("Will", "green")}
+                                {SyncPairIcon("Brendan_TL", "green")}
                             </div>
                             </div>
                         <div className="c-row tierlist-row">
                             <div className="tier-title">C</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Volkner",  "red")}
-                                {SyncPairIcon("Hop_DC",  "red")}
-                                {SyncPairIcon("Shauna_DC",  "red")}
-                                {SyncPairIcon("Darach",  "orange")}
-                                {SyncPairIcon("Kukui",  "orange")}
-                                {SyncPairIcon("Blossom",  "orange")}
-                                {SyncPairIcon("Plumeria",  "orange")}
-                                {SyncPairIcon("Skyla_H",  "orange")}
-                                {SyncPairIcon("Whitney",  "orange")}
-                                {SyncPairIcon("Gladion_DC",  "yellow")}
-                                {SyncPairIcon("Oak",  "green")}
-                                {SyncPairIcon("Lisia",  "green", "border-purple")}
+                                {SyncPairIcon("Volkner", "red")}
+                                {SyncPairIcon("Hop_DC", "red")}
+                                {SyncPairIcon("Shauna_DC", "red")}
+                                {SyncPairIcon("Bede_DC", "orange", "border-blue")}
+                                {SyncPairIcon("Darach", "orange")}
+                                {SyncPairIcon("Kukui", "orange", "border-purple")}
+                                {SyncPairIcon("Blossom", "orange")}
+                                {SyncPairIcon("Plumeria", "yellow")}
+                                {SyncPairIcon("Skyla_H", "yellow")}
+                                {SyncPairIcon("Whitney", "yellow")}
+                                {SyncPairIcon("Gladion_DC", "yellow")}
+                                {SyncPairIcon("Oak", "green", "border-purple")}
+                                {SyncPairIcon("Lisia", "green")}
                             </div>
                         </div>
                         <div className="cminus-row tierlist-row">
                             <div className="tier-title">C-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Dawn",  "red")}
-                                {SyncPairIcon("Lacey_TL",  "red")}
-                                {SyncPairIcon("Cheren_DC",  "red")}
-                                {SyncPairIcon("Rose_BP",  "orange")}
-                                {SyncPairIcon("Wikstrom",  "orange")}
-                                {SyncPairIcon("Irida_TL",  "orange")}
-                                {SyncPairIcon("Rosa_TL",  "orange")}
-                                {SyncPairIcon("Cheren_TL",  "yellow")}
-                                {SyncPairIcon("Nanu",  "yellow")}
-                                {SyncPairIcon("Silver_TL",  "yellow")}
-                                {SyncPairIcon("Misty_SS",  "green")}
-                                {SyncPairIcon("Marnie_DC",  "green")}
-                                {SyncPairIcon("Silver_DC",  "green")}
+                                {SyncPairIcon("Dawn", "red")}
+                                {SyncPairIcon("Lacey_TL", "red")}
+                                {SyncPairIcon("Cheren_DC", "red")}
+                                {SyncPairIcon("Rose_BP", "orange")}
+                                {SyncPairIcon("Wikstrom", "orange")}
+                                {SyncPairIcon("Irida_TL", "orange")}
+                                {SyncPairIcon("Rosa_TL", "orange")}
+                                {SyncPairIcon("Cheren_TL", "yellow")}
+                                {SyncPairIcon("Nanu", "yellow")}
+                                {SyncPairIcon("Silver_TL", "yellow")}
+                                {SyncPairIcon("Misty_SS", "green")}
+                                {SyncPairIcon("Marnie_DC", "green")}
+                                {SyncPairIcon("Silver_DC", "green")}
                             </div>
                         </div>
                         <div className="dplus-row tierlist-row">
                             <div className="tier-title">D+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Nemona_DC",  "red")}
-                                {SyncPairIcon("Eve",  "red")}
-                                {SyncPairIcon("May_Sp",  "orange", "border-purple")}
-                                {SyncPairIcon("Falkner_BP",  "orange")}
-                                {SyncPairIcon("Winona",  "orange")}
-                                {SyncPairIcon("Morty_F",  "yellow", "border-purple")}
-                                {SyncPairIcon("Acerola_F",  "yellow")}
-                                {SyncPairIcon("Will_BP",  "yellow")}
-                                {SyncPairIcon("Volkner_TL",  "yellow")}
-                                {SyncPairIcon("Barry_DC",  "green")}
-                                {SyncPairIcon("Brawly",  "green")}
-                                {SyncPairIcon("Marshal",  "green")}
+                                {SyncPairIcon("Nemona_DC", "red")}
+                                {SyncPairIcon("Eve", "red")}
+                                {SyncPairIcon("May_Sp", "orange")}
+                                {SyncPairIcon("Falkner_BP", "orange")}
+                                {SyncPairIcon("Winona", "orange")}
+                                {SyncPairIcon("Morty_F", "yellow")}
+                                {SyncPairIcon("Acerola_F", "yellow")}
+                                {SyncPairIcon("Will_BP", "yellow")}
+                                {SyncPairIcon("Volkner_TL", "yellow")}
+                                {SyncPairIcon("Barry_DC", "green")}
+                                {SyncPairIcon("Brawly", "green")}
+                                {SyncPairIcon("Marshal", "green")}
                             </div>
                         </div>
                         <div className="d-row tierlist-row">
                             <div className="tier-title">D</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Grimsley",  "red")}
-                                {SyncPairIcon("Candice",  "red")}
-                                {SyncPairIcon("Blaine",  "red")}
-                                {SyncPairIcon("Lillie_TL",  "orange")}
-                                {SyncPairIcon("Janine",  "orange")}
-                                {SyncPairIcon("Lance_TL",  "orange")}
-                                {SyncPairIcon("Sophocles",  "orange")}
-                                {SyncPairIcon("Steven_TL",  "yellow")}
-                                {SyncPairIcon("Misty",  "yellow")}
-                                {SyncPairIcon("Brock",  "green")}
-                                {SyncPairIcon("Wallace",  "green")}
-                                {SyncPairIcon("CrasherWake",  "green")}
+                                {SyncPairIcon("Grimsley", "red")}
+                                {SyncPairIcon("Candice", "red")}
+                                {SyncPairIcon("Blaine", "red")}
+                                {SyncPairIcon("Lillie_TL", "orange")}
+                                {SyncPairIcon("Janine", "orange")}
+                                {SyncPairIcon("Lance_TL", "orange")}
+                                {SyncPairIcon("Sophocles", "orange")}
+                                {SyncPairIcon("Steven_TL", "yellow")}
+                                {SyncPairIcon("Misty", "yellow")}
+                                {SyncPairIcon("Brock", "green")}
+                                {SyncPairIcon("Wallace", "green")}
+                                {SyncPairIcon("CrasherWake", "green")}
                             </div>
                         </div>
                         <div className="dminus-row tierlist-row">
                             <div className="tier-title">D-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Erika",  "red")}
-                                {SyncPairIcon("Calem",  "red")}
-                                {SyncPairIcon("LtSurge",  "red")}
-                                {SyncPairIcon("Petey",  "red")}
-                                {SyncPairIcon("Lucy",  "orange")}
-                                {SyncPairIcon("Flannery",  "orange")}
-                                {SyncPairIcon("Grant",  "yellow")}
-                                {SyncPairIcon("Clay",  "yellow")}
-                                {SyncPairIcon("Molayne",  "yellow")}
-                                {SyncPairIcon("Brock_SS",  "yellow")}
-                                {SyncPairIcon("PlayerM_Pikachu",  "green")}
-                                {SyncPairIcon("Norman",  "green")}
-                                {SyncPairIcon("Lorelei",  "green")}
+                                {SyncPairIcon("Erika", "red")}
+                                {SyncPairIcon("Calem", "red")}
+                                {SyncPairIcon("Lucy", "red")}
+                                {SyncPairIcon("LtSurge", "orange")}
+                                {SyncPairIcon("Petey", "orange")}
+                                {SyncPairIcon("Flannery", "orange")}
+                                {SyncPairIcon("Grant", "yellow")}
+                                {SyncPairIcon("Clay", "yellow")}
+                                {SyncPairIcon("Molayne", "yellow")}
+                                {SyncPairIcon("Brock_SS", "yellow")}
+                                {SyncPairIcon("PlayerM_Pikachu", "green")}
+                                {SyncPairIcon("Norman", "green")}
+                                {SyncPairIcon("Lorelei", "green")}
                             </div>
                         </div>
                     </div>
@@ -1037,233 +1036,238 @@ const TierListSpark = () => {
                         <div className="uber-row tierlist-row">
                             <div className="tier-title">U</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Steven_Arc",  "red")}
-                                {SyncPairIcon("Blue_NC",  "red")}
-                                {SyncPairIcon("Giovanni_SSA",  "orange")}
-                                {SyncPairIcon("Rosa_NC",  "orange")}
-                                {SyncPairIcon("Chase",  "yellow")}
-                                {SyncPairIcon("Mina_SS",  "yellow")}
-                                {SyncPairIcon("Morty_SS",  "green")}
-                                {SyncPairIcon("Cynthia_SSA",  "green", "border-purple")}
-                                {SyncPairIcon("Elaine",  "green")}
+                                {SyncPairIcon("Steven_Arc", "red")}
+                                {SyncPairIcon("Blue_NC", "red")}
+                                {SyncPairIcon("Giovanni_SSA", "orange")}
+                                {SyncPairIcon("Rosa_NC", "orange")}
+                                {SyncPairIcon("Chase", "yellow")}
+                                {SyncPairIcon("Mina_SS", "green")}
                             </div>
                         </div>
                         <div className="splus-row tierlist-row">
                             <div className="tier-title">S+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Penny",  "red")}
-                                {SyncPairIcon("Atticus",  "orange")}
-                                {SyncPairIcon("Eri",  "orange")}
-                                {SyncPairIcon("Florian_Aca",  "orange")}
-                                {SyncPairIcon("Kris_SS",  "orange")}
-                                {SyncPairIcon("Milo",  "orange")}
-                                {SyncPairIcon("Acerola_SS",  "orange")}
-                                {SyncPairIcon("Ortega",  "yellow")}
-                                {SyncPairIcon("Iono",  "yellow")}
-                                {SyncPairIcon("Grusha",  "yellow")}
-                                {SyncPairIcon("Bugsy_H",  "green")}
-                                {SyncPairIcon("Kabu",  "green")}
+                                {SyncPairIcon("Larry_SC", "red")}
+                                {SyncPairIcon("Melony_Var", "red")}
+                                {SyncPairIcon("Morty_SS", "red")}
+                                {SyncPairIcon("Atticus", "red")}
+                                {SyncPairIcon("Elaine", "orange")}
+                                {SyncPairIcon("Cynthia_SSA", "orange")}
+                                {SyncPairIcon("Penny", "orange")}
+                                {SyncPairIcon("Eri", "yellow")}
+                                {SyncPairIcon("Florian_Aca", "yellow")}
+                                {SyncPairIcon("Kris_SS", "green")}
+                                {SyncPairIcon("Milo", "green")}
+                                {SyncPairIcon("Acerola_SS", "green")}
+                                {SyncPairIcon("Ortega", "green")}
                             </div>
                         </div>
                         <div className="s-row tierlist-row">
                             <div className="tier-title">S</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Acerola_S",  "red")}
-                                {SyncPairIcon("Red",  "red")}
-                                {SyncPairIcon("Rika",  "orange")}
-                                {SyncPairIcon("Dawn_SS",  "orange")}
-                                {SyncPairIcon("Argenta",  "orange")}
-                                {SyncPairIcon("Bede_NC",  "yellow")}
-                                {SyncPairIcon("Anabel",  "yellow")}
-                                {SyncPairIcon("Bellelba",  "yellow")}
-                                {SyncPairIcon("Calem_NC",  "yellow")}
-                                {SyncPairIcon("Raihan_NY",  "green")}
-                                {SyncPairIcon("Brendan_SS",  "green", "border-purple")}
-                                {SyncPairIcon("Elio_Alt",  "green")}
+                                {SyncPairIcon("Iono", "red")}
+                                {SyncPairIcon("Grusha", "red")}
+                                {SyncPairIcon("Bugsy_H", "red")}
+                                {SyncPairIcon("Kabu", "orange")}
+                                {SyncPairIcon("Acerola_S", "orange")}
+                                {SyncPairIcon("Red", "yellow")}
+                                {SyncPairIcon("Rika", "yellow")}
+                                {SyncPairIcon("Dawn_SS", "yellow")}
+                                {SyncPairIcon("Argenta", "yellow")}
+                                {SyncPairIcon("Bede_NC", "green")}
+                                {SyncPairIcon("Anabel", "green")}
+                                {SyncPairIcon("Bellelba", "green")}
+                                {SyncPairIcon("Calem_NC", "green")}
                             </div>
                         </div>
                         <div className="sminus-row tierlist-row">
                             <div className="tier-title">S-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Mallow_Var",  "red")}
-                                {SyncPairIcon("Falkner_Var",  "orange")}
-                                {SyncPairIcon("Arven",  "orange")}
-                                {SyncPairIcon("Blue_SS",  "yellow", "border-purple")}
-                                {SyncPairIcon("Shauna_SC",  "yellow")}
-                                {SyncPairIcon("Volo",  "yellow")}
-                                {SyncPairIcon("Jasmine_H",  "yellow", "border-purple")}
-                                {SyncPairIcon("Sycamore",  "green")}
-                                {SyncPairIcon("Aaron",  "green")}
-                                {SyncPairIcon("Melony",  "green")}
-                                {SyncPairIcon("Elio",  "green")}
-                                {SyncPairIcon("Steven_SC",  "green")}
+                                {SyncPairIcon("Raihan_NY", "red")}
+                                {SyncPairIcon("Brendan_SS", "red")}
+                                {SyncPairIcon("SamsonOak", "red", "border-blue")}
+                                {SyncPairIcon("Elio_Alt", "orange")}
+                                {SyncPairIcon("Mallow_Var", "orange")}
+                                {SyncPairIcon("Falkner_Var", "orange")}
+                                {SyncPairIcon("Arven", "orange")}
+                                {SyncPairIcon("Blue_SS", "yellow")}
+                                {SyncPairIcon("Shauna_SC", "yellow")}
+                                {SyncPairIcon("Volo", "yellow")}
+                                {SyncPairIcon("Jasmine_H", "yellow")}
+                                {SyncPairIcon("Sycamore", "green")}
+                                {SyncPairIcon("Aaron", "green")}
                             </div>
                         </div>
                         <div className="aplus-row tierlist-row">
                             <div className="tier-title">A+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Ingo",  "red")}
-                                {SyncPairIcon("Sonia",  "red")}
-                                {SyncPairIcon("Victor_Pal",  "orange")}
-                                {SyncPairIcon("Leaf",  "orange")}
-                                {SyncPairIcon("BallGuy",  "orange")}
-                                {SyncPairIcon("Sawyer_Var",  "yellow")}
-                                {SyncPairIcon("Lillie_SC",  "yellow")}
-                                {SyncPairIcon("Kabu_Gym",  "yellow", "border-blue")}
-                                {SyncPairIcon("Burgh_Sp",  "green")}
-                                {SyncPairIcon("Phoebe_F",  "green")}
-                                {SyncPairIcon("Grusha_Gym",  "green")}
-                                {SyncPairIcon("Whitney_Gym",  "green", "border-blue")}
-                                {SyncPairIcon("Winona_Gym",  "green")}
+                                {SyncPairIcon("Melony", "red")}
+                                {SyncPairIcon("Elio", "red")}
+                                {SyncPairIcon("Steven_SC", "red")}
+                                {SyncPairIcon("Ingo", "orange")}
+                                {SyncPairIcon("Sonia", "orange")}
+                                {SyncPairIcon("Victor_Pal", "orange")}
+                                {SyncPairIcon("Leaf", "orange")}
+                                {SyncPairIcon("BallGuy", "orange")}
+                                {SyncPairIcon("Sawyer_Var", "yellow")}
+                                {SyncPairIcon("Lillie_SC", "yellow")}
+                                {SyncPairIcon("Kabu_Gym", "yellow")}
+                                {SyncPairIcon("Burgh_Sp", "green")}
+                                {SyncPairIcon("Phoebe_F", "green")}
                             </div>
                         </div>
                         <div className="a-row tierlist-row">
                             <div className="tier-title">A</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Hop",  "red")}
-                                {SyncPairIcon("Mallow_Pal",  "red")}
-                                {SyncPairIcon("Brock_Gym",  "orange")}
-                                {SyncPairIcon("Clair_NY",  "orange")}
-                                {SyncPairIcon("Jasmine_SC",  "yellow")}
-                                {SyncPairIcon("Proton",  "yellow")}
-                                {SyncPairIcon("Tierno",  "yellow")}
-                                {SyncPairIcon("Oak_Ev",  "yellow")}
-                                {SyncPairIcon("Lorelei_Var",  "yellow")}
-                                {SyncPairIcon("Bea_Pal",  "green")}
-                                {SyncPairIcon("Lyra_SC",  "green")}
-                                {SyncPairIcon("Allister_F",  "green")}
+                                {SyncPairIcon("Gordie_Var", "red", "border-blue")}
+                                {SyncPairIcon("Grusha_Gym", "red")}
+                                {SyncPairIcon("Whitney_Gym", "red")}
+                                {SyncPairIcon("Winona_Gym", "orange")}
+                                {SyncPairIcon("Hop", "orange")}
+                                {SyncPairIcon("Mallow_Pal", "orange")}
+                                {SyncPairIcon("Brock_Gym", "yellow")}
+                                {SyncPairIcon("Clair_NY", "yellow")}
+                                {SyncPairIcon("Tierno", "yellow")}
+                                {SyncPairIcon("Jasmine_SC", "yellow")}
+                                {SyncPairIcon("Proton", "yellow")}
+                                {SyncPairIcon("Oak_Ev", "green")}
+                                {SyncPairIcon("Lorelei_Var", "green")}
                             </div>
                         </div>
                         <div className="aminus-row tierlist-row">
                             <div className="tier-title">A-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Guzma_Var",  "red")}
-                                {SyncPairIcon("Morgan",  "red")}
-                                {SyncPairIcon("Sycamore_H",  "orange")}
-                                {SyncPairIcon("Kiawe",  "orange")}
-                                {SyncPairIcon("Agatha_Var",  "orange")}
-                                {SyncPairIcon("Caitlin_F",  "yellow", "border-purple")}
-                                {SyncPairIcon("Korrina_Gym",  "yellow", "border-blue")}
-                                {SyncPairIcon("Bruno_Var",  "yellow")}
-                                {SyncPairIcon("Falkner",  "yellow")}
-                                {SyncPairIcon("Piers",  "green")}
-                                {SyncPairIcon("Shauna",  "green")}
-                                {SyncPairIcon("Iono_TL",  "green")}
+                                {SyncPairIcon("Bea_Pal", "red")}
+                                {SyncPairIcon("Lyra_SC", "red")}
+                                {SyncPairIcon("Allister_F", "red")}
+                                {SyncPairIcon("Guzma_Var", "orange")}
+                                {SyncPairIcon("Morgan", "orange")}
+                                {SyncPairIcon("Sycamore_H", "orange")}
+                                {SyncPairIcon("Caitlin_F", "orange")}
+                                {SyncPairIcon("Kiawe", "yellow")}
+                                {SyncPairIcon("Agatha_Var", "yellow")}
+                                {SyncPairIcon("Korrina_Gym", "green")}
+                                {SyncPairIcon("Bruno_Var", "green")}
+                                {SyncPairIcon("Iris_TL", "green")}
+                                {SyncPairIcon("Falkner", "green")}
                             </div>
                         </div>
                         <div className="bplus-row tierlist-row">
                             <div className="tier-title">B+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Hilda_S",  "red")}
-                                {SyncPairIcon("Lana_TL",  "red")}
-                                {SyncPairIcon("Lyra",  "red")}
-                                {SyncPairIcon("Tina",  "orange")}
-                                {SyncPairIcon("Kabu_TL",  "orange")}
-                                {SyncPairIcon("Larry_TL",  "orange", "border-blue")}
-                                {SyncPairIcon("Blue_TL",  "orange")}
-                                {SyncPairIcon("Hilbert",  "yellow")}
-                                {SyncPairIcon("Steven_Ev",  "yellow")}
-                                {SyncPairIcon("Arven_TL",  "yellow")}
-                                {SyncPairIcon("PlayerM_Mesprit",  "green")}
-                                {SyncPairIcon("PlayerM_Cobalion",  "green")}
+                                {SyncPairIcon("Piers", "red")}
+                                {SyncPairIcon("Shauna", "red")}
+                                {SyncPairIcon("Iono_TL", "red")}
+                                {SyncPairIcon("Hilda_S", "orange")}
+                                {SyncPairIcon("Lana_TL", "orange")}
+                                {SyncPairIcon("Lyra", "orange")}
+                                {SyncPairIcon("Tina", "yellow")}
+                                {SyncPairIcon("Kabu_TL", "yellow")}
+                                {SyncPairIcon("Larry_TL", "yellow")}
+                                {SyncPairIcon("Blue_TL", "yellow")}
+                                {SyncPairIcon("Hilbert", "green")}
+                                {SyncPairIcon("Steven_Ev", "green")}
+                                {SyncPairIcon("Arven_TL", "green")}
                             </div>
                         </div>
                         <div className="b-row tierlist-row">
                             <div className="tier-title">B</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Gladion_TL",  "red")}
-                                {SyncPairIcon("Sabrina_NY",  "red")}
-                                {SyncPairIcon("Glacia",  "orange")}
-                                {SyncPairIcon("Steven_SS_Def",  "orange")}
-                                {SyncPairIcon("Morty_BP",  "orange")}
-                                {SyncPairIcon("Skyla",  "orange")}
-                                {SyncPairIcon("Barry_BP",  "yellow")}
-                                {SyncPairIcon("Lana",  "yellow")}
-                                {SyncPairIcon("Dawn_TL",  "yellow")}
-                                {SyncPairIcon("Clemont_BP",  "yellow")}
-                                {SyncPairIcon("Cheryl_BP",  "green")}
-                                {SyncPairIcon("Wally_TL",  "green")}
+                                {SyncPairIcon("PlayerM_Mesprit", "red")}
+                                {SyncPairIcon("PlayerM_Cobalion", "red")}
+                                {SyncPairIcon("Gladion_TL", "red")}
+                                {SyncPairIcon("Sabrina_NY", "orange")}
+                                {SyncPairIcon("Glacia", "orange")}
+                                {SyncPairIcon("Steven_SS_Def", "orange")}
+                                {SyncPairIcon("Morty_BP", "orange")}
+                                {SyncPairIcon("Skyla", "orange")}
+                                {SyncPairIcon("Barry_BP", "yellow")}
+                                {SyncPairIcon("Lana", "yellow")}
+                                {SyncPairIcon("Dawn_TL", "green")}
+                                {SyncPairIcon("Clemont_BP", "yellow")}
+                                {SyncPairIcon("Cheryl_BP", "green")}
                             </div>
                         </div>
                         <div className="bminus-row tierlist-row">
                             <div className="tier-title">B-</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Dana",  "red")}
-                                {SyncPairIcon("Evelyn",  "red")}
-                                {SyncPairIcon("Rachel_Var",  "red")}
-                                {SyncPairIcon("Nita",  "orange")}
-                                {SyncPairIcon("Elesa_SS",  "orange")}
-                                {SyncPairIcon("PlayerM_Raikou",  "orange")}
-                                {SyncPairIcon("Sabrina",  "orange", "border-purple")}
-                                {SyncPairIcon("Sawyer",  "yellow")}
-                                {SyncPairIcon("Lenora",  "yellow")}
-                                {SyncPairIcon("Trevor",  "yellow")}
-                                {SyncPairIcon("Cheryl",  "yellow")}
-                                {SyncPairIcon("Olivia_BP",  "green")}
+                                {SyncPairIcon("Wally_TL", "red")}
+                                {SyncPairIcon("Dana", "red")}
+                                {SyncPairIcon("Evelyn", "red")}
+                                {SyncPairIcon("Rachel_Var", "orange")}
+                                {SyncPairIcon("Nita", "orange")}
+                                {SyncPairIcon("Sabrina", "orange")}
+                                {SyncPairIcon("PlayerM_Raikou", "orange")}
+                                {SyncPairIcon("Elesa_SS", "orange")}
+                                {SyncPairIcon("Sawyer", "yellow")}
+                                {SyncPairIcon("Lenora", "yellow")}
+                                {SyncPairIcon("Trevor", "green")}
+                                {SyncPairIcon("Cheryl", "green")}
+                                {SyncPairIcon("Olivia_BP", "green")}
                             </div>
                         </div>
                         <div className="cplus-row tierlist-row">
                             <div className="tier-title">C+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("PlayerM_Alcremie",  "red")}
-                                {SyncPairIcon("Misty_Ev",  "red")}
-                                {SyncPairIcon("Jasmine",  "red")}
-                                {SyncPairIcon("Cynthia_TL",  "orange")}
-                                {SyncPairIcon("Elesa_TL",  "orange")}
-                                {SyncPairIcon("Lillie_NY",  "orange")}
-                                {SyncPairIcon("Teddy",  "orange", "border-blue")}
-                                {SyncPairIcon("Dawn_Pal",  "yellow")}
-                                {SyncPairIcon("PlayerM_Registeel",  "yellow")}
-                                {SyncPairIcon("LtSurge_BP",  "green")}
-                                {SyncPairIcon("Giovanni_TL",  "green")}
-                                {SyncPairIcon("Maylene",  "green")}
+                                {SyncPairIcon("PlayerM_Alcremie", "red")}
+                                {SyncPairIcon("Misty_Ev", "red")}
+                                {SyncPairIcon("Jasmine", "red")}
+                                {SyncPairIcon("Cynthia_TL", "orange")}
+                                {SyncPairIcon("Elesa_TL", "orange")}
+                                {SyncPairIcon("Lillie_NY", "orange")}
+                                {SyncPairIcon("Teddy", "orange")}
+                                {SyncPairIcon("Dawn_Pal", "yellow")}
+                                {SyncPairIcon("PlayerM_Registeel", "yellow")}
+                                {SyncPairIcon("LtSurge_BP", "green")}
+                                {SyncPairIcon("Giovanni_TL", "green")}
+                                {SyncPairIcon("Maylene", "green")}
                             </div>
                         </div>
                         <div className="c-row tierlist-row">
                             <div className="tier-title">C</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Raihan_TL",  "red")}
-                                {SyncPairIcon("Giovanni_Ev",  "red")}
-                                {SyncPairIcon("Bugsy_Ev",  "red")}
-                                {SyncPairIcon("Morty_TL",  "orange")}
-                                {SyncPairIcon("Phoebe",  "orange")}
-                                {SyncPairIcon("Acerola_TL",  "orange")}
-                                {SyncPairIcon("Adaman_TL",  "yellow")}
-                                {SyncPairIcon("PlayerM_Regirock",  "yellow")}
-                                {SyncPairIcon("Leaf_TL",  "yellow")}
-                                {SyncPairIcon("Lillie",  "green")}
-                                {SyncPairIcon("Jasmine_TL",  "green")}
+                                {SyncPairIcon("Raihan_TL", "red")}
+                                {SyncPairIcon("Giovanni_Ev", "red")}
+                                {SyncPairIcon("Bugsy_Ev", "red")}
+                                {SyncPairIcon("Morty_TL", "orange")}
+                                {SyncPairIcon("Phoebe", "orange")}
+                                {SyncPairIcon("Acerola_TL", "orange")}
+                                {SyncPairIcon("Adaman_TL", "yellow")}
+                                {SyncPairIcon("PlayerM_Regirock", "yellow")}
+                                {SyncPairIcon("Leaf_TL", "yellow")}
+                                {SyncPairIcon("Lillie", "green")}
+                                {SyncPairIcon("Jasmine_TL", "green")}
                             </div>
                         </div>
                         <div className="dplus-row tierlist-row">
                             <div className="tier-title">D+</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Roxanne",  "red")}
-                                {SyncPairIcon("Janine_BP",  "red")}
-                                {SyncPairIcon("Rachel",  "red")}
-                                {SyncPairIcon("Rosa_H",  "orange")}
-                                {SyncPairIcon("Marley",  "orange")}
-                                {SyncPairIcon("PlayerM_Torchic",  "orange")}
-                                {SyncPairIcon("Rosa",  "yellow")}
-                                {SyncPairIcon("Acerola",  "yellow")}
-                                {SyncPairIcon("Kali",  "green")}
-                                {SyncPairIcon("Cheren",  "green")}
-                                {SyncPairIcon("Erika_H",  "green")}
+                                {SyncPairIcon("Roxanne", "red")}
+                                {SyncPairIcon("Janine_BP", "red")}
+                                {SyncPairIcon("Rachel", "red")}
+                                {SyncPairIcon("Rosa_H", "orange")}
+                                {SyncPairIcon("Marley", "orange")}
+                                {SyncPairIcon("PlayerM_Torchic", "orange")}
+                                {SyncPairIcon("Rosa", "yellow")}
+                                {SyncPairIcon("Acerola", "yellow")}
+                                {SyncPairIcon("Kali", "green")}
+                                {SyncPairIcon("Cheren", "green")}
+                                {SyncPairIcon("Erika_H", "green")}
                             </div>
                         </div>
                         <div className="d-row tierlist-row">
                             <div className="tier-title">D</div>
                             <div className="tier-content">
-                                {SyncPairIcon("Drake",  "red")}
-                                {SyncPairIcon("Ramos",  "red")}
-                                {SyncPairIcon("Liza",  "orange")}
-                                {SyncPairIcon("Thorton",  "orange")}
-                                {SyncPairIcon("Marlon",  "orange")}
-                                {SyncPairIcon("Viola",  "orange")}
-                                {SyncPairIcon("Erika_BP",  "yellow")}
-                                {SyncPairIcon("Wulfric",  "yellow")}
-                                {SyncPairIcon("Brycen",  "yellow")}
-                                {SyncPairIcon("James",  "green")}
+                                {SyncPairIcon("Drake", "red")}
+                                {SyncPairIcon("Ramos", "red")}
+                                {SyncPairIcon("Liza", "orange")}
+                                {SyncPairIcon("Thorton", "orange")}
+                                {SyncPairIcon("Marlon", "orange")}
+                                {SyncPairIcon("Viola", "orange")}
+                                {SyncPairIcon("Erika_BP", "yellow")}
+                                {SyncPairIcon("Wulfric", "yellow")}
+                                {SyncPairIcon("Brycen", "yellow")}
+                                {SyncPairIcon("James", "green")}
                             </div>
                         </div>
                     </div>
