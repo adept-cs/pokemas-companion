@@ -37557,7 +37557,7 @@
         }
     },
     "Skyla_S": {
-        "filters": "skyla_trainer grass unova gym-leader seasonal-outfit undella-town sprint exr-strike",
+        "filters": "skyla-trainer grass unova gym-leader seasonal-outfit undella-town sprint exr-strike",
         "name": "Skyla (Summer 2025) & Jumpluff",
         "region": "unova",
         "tracker_key": "041",

@@ -208,16 +208,28 @@
         }
     }
 
-    .sync-pair-icon:has(div.border-red) {
+    .sync-pair-icon div.border-red {
         border: 3px solid red;
     }
 
-    .sync-pair-icon:has(div.border-blue) {
+    .sync-pair-icon div.border-blue {
         border: 3px solid blue;
     }
 
-    .sync-pair-icon:has(div.border-purple) {
+    .sync-pair-icon div.border-purple {
         border: 3px solid purple;
+    }
+
+    .sync-pair-icon div.border-red:has(.not-found) {
+        border: 3px solid rgba(255, 0, 0, 0.2) !important;
+    }
+
+    .sync-pair-icon div.border-blue:has(.not-found) {
+        border: 3px solid rgba(0, 0, 255, 0.2) !important;
+    }
+
+    .sync-pair-icon div.border-purple:has(.not-found) {
+        border: 3px solid rgba(128, 0, 128, 0.2) !important;
     }
     
     .sync-pair-filters {
