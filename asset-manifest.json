@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokemas-companion/static/css/main.95a86195.css",
-    "main.js": "/pokemas-companion/static/js/main.4088991c.js",
+    "main.css": "/pokemas-companion/static/css/main.56e45ccc.css",
+    "main.js": "/pokemas-companion/static/js/main.5840bbc5.js",
     "static/js/488.a81f143b.chunk.js": "/pokemas-companion/static/js/488.a81f143b.chunk.js",
     "index.html": "/pokemas-companion/index.html",
-    "main.95a86195.css.map": "/pokemas-companion/static/css/main.95a86195.css.map",
-    "main.4088991c.js.map": "/pokemas-companion/static/js/main.4088991c.js.map",
+    "main.56e45ccc.css.map": "/pokemas-companion/static/css/main.56e45ccc.css.map",
+    "main.5840bbc5.js.map": "/pokemas-companion/static/js/main.5840bbc5.js.map",
     "488.a81f143b.chunk.js.map": "/pokemas-companion/static/js/488.a81f143b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95a86195.css",
-    "static/js/main.4088991c.js"
+    "static/css/main.56e45ccc.css",
+    "static/js/main.5840bbc5.js"
   ]
 }
