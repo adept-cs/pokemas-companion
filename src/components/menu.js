@@ -8,6 +8,7 @@ const Menu = () => {
             <Link to="tierlist/wag">WAG's Tier List Companion</Link>
             {/*<Link to="legendary-arena">Legendary Arena Matchups</Link> */}
             <Link to="rally">Battle Rally Companion (In Development)</Link>
+            <Link to="tower">Pasio Tower</Link>
         </div>
     );
 };

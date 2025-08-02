@@ -44,6 +44,15 @@ const Home = () => {
 
                     </div>
                 </div>
+                <div className="homepage-resource">
+                    <div className="resource-overview">
+                        <h3><Link to="tower">Pasio Tower Viewer</Link></h3>
+                        <p>Summarizes all Pasio Towers.</p>
+                    </div>
+                    <div className="resource-thumbnail">
+                        
+                    </div>
+                </div>
             </div>
             <div className="homepage-footer">
                 <p>If you have feedback for this companion page, notice a bug with a feature on it, or if a resource is sufficiently outdated, please ping me @adeptcs in the r/PokemonMasters Discord server.

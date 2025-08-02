@@ -6,7 +6,7 @@ const SyncPairIcon = (key, color, borderColor = "") => {
     return (
         <div className="sync-pair-icon">
             <div className={`${color} ${borderColor}`}>
-                <img src={`${process.env.PUBLIC_URL}/images/pair/${pairInfo["region"]}/${key}.png`} className={`sync-pair ${pairInfo["filters"]} ${borderColor}`} title={pairInfo["name"]} alt={pairInfo["name"]} />
+                <img src={`${process.env.PUBLIC_URL}/images/pair/${pairInfo["region"]}/${key}.png`} className={`sync-pair ${pairInfo["filters"]} ${borderColor} ${pairInfo["damage_types"]}`} title={pairInfo["name"]} alt={pairInfo["name"]} />
             </div>
         </div>
     );

@@ -27,12 +27,41 @@
     text-align: center;
     
     button {
+        margin: 0 auto;
         width: 75%;
+    }
+
+    button:has(img) {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        .collapse-header {
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        img {
+            border-radius: 50%;
+            box-shadow: 1px 2px 2px 1px #181a1b;
+            margin: 3px 15px 3px auto;
+            max-width: 10%;
+            padding: 10px;
+        
+            @media (prefers-color-scheme: dark) {
+                box-shadow: 1px 1px 1px 1px #e8e6e3;
+            }
+        }
     }
 
     div {
         text-align: left;
     }
+}
+
+.collapsible.no-margin {
+    margin: 0;
 }
 
 .menu-nav {
@@ -617,4 +646,200 @@
         }
 
     }
+}
+
+.tower-page {
+    .tower-floor {
+
+        margin: 0 auto;
+        width: 80%;
+
+        .collapsible {
+            text-align: center;
+        }
+
+        .floor-info {
+            background-color: rgba(127, 127, 127, 0.3);
+            border-radius: 0.8em;
+            margin: 0 auto;
+            width: 75%;
+    
+            .stage-info {
+                display: flex;
+                justify-content: space-between;
+        
+                .left-target-full, .center-target-full, .right-target-full {
+                    width: 100%;
+
+                    &.inactive {
+                        display: none;
+                    }
+
+                    .target-title {
+                        h4 {
+                            text-align: center;
+                        }
+                        
+                        p {
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-around;
+                            height: 32px;
+                            margin: 0 15% 10px;
+
+                            .type-weakness {
+                                max-width: 32px;
+                            }
+                        }
+                    }
+
+                    .stats-table {
+                        border-spacing: 0;
+                        margin: 0 auto;
+                        text-align: center;
+                        width: 60%;
+                        
+                        th {
+                            border: 1px solid #181a1b;
+    
+                            @media (prefers-color-scheme: dark) {
+                                border: 1px solid #e8e6e3;
+                            }
+                        }
+
+                        .stat-icon {
+                            max-width: 25px;
+                        }
+
+                        .hp-row {
+                            background-color: #bbe4ca;
+
+                            @media (prefers-color-scheme: dark) {
+                                background-color: #1f4d37;
+                            }
+                        }
+
+                        .attack-row {
+                            background-color: #e0e0c6;
+
+                            @media (prefers-color-scheme: dark) {
+                                background-color: #32321b;
+                            }
+                        }
+
+                        .defense-row {
+                            background-color: #e2d3b3;
+
+                            @media (prefers-color-scheme: dark) {
+                                background-color: #3e3218;
+                            }
+                        }
+
+                        .spatk-row {
+                            background-color: #c6e4e9;
+
+                            @media (prefers-color-scheme: dark) {
+                                background-color: #1b4147;
+                            }
+                        }
+
+                        .spdef-row {
+                            background-color: #b3cae5;
+
+                            @media (prefers-color-scheme: dark) {
+                                background-color: #1d3654;
+                            }
+                        }
+
+                        .speed-row {
+                            background-color: #cec5dd;
+
+                            @media (prefers-color-scheme: dark) {
+                                background-color: #323638;
+                            }
+                        }
+
+                        .accuracy-row {
+                            background-color: #f7beb4;
+
+                            @media (prefers-color-scheme: dark) {
+                                background-color: #5b160a;
+                            }
+                        }
+
+                        .evasiveness-row {
+                            background-color: #f5d4f5;
+
+                            @media (prefers-color-scheme: dark) {
+                                background-color: #431043;
+                            }
+                        }
+                        
+                    }
+
+                    .target-moves > .moves-title, .target-passives > .passives-title, .stage-parameters > .passives-title {
+                        background-color: rgba(127, 127, 127, 0.35);
+                        border-radius: 0.8em;
+                        padding: 6px 0;
+                        text-align: center;
+                    }
+
+                    .stage-parameters {
+                        text-align: center;
+                    }
+
+                    .passive {
+                        align-items: center;
+                        background-color: #28d5ef;
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        background-position: center center;
+                        border-radius: 1.7em;
+                        display: flex;
+                        justify-content: center;
+                        padding: 10px;
+                        max-width: 100%;
+                        
+                        :first-child {
+                            font-weight: bold;
+                            text-shadow: -1px 0 #181a1b, 0 1px #181a1b, 1px 0 #181a1b, 0 -1px #181a1b;
+                            color: #e8e6e3;
+                            text-align: center;
+                        }
+                    }
+
+                    .passive:not(:last-child) {
+                        margin-bottom: 5px;
+                    }
+                }
+            }
+        
+            .swap-button-row {
+                display: flex;
+                justify-content: space-around;
+        
+                > button {
+                    width: 20%;
+                    background: none;
+                    border: none;
+                    border-radius: 50%;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    background-position: center center;
+                    aspect-ratio: 1 / 1;
+                    margin: 0 5%;
+                }
+        
+                > button:not(.placeholder) {
+                    box-shadow: 0 3px 3px 0 #181a1b;
+        
+                    @media (prefers-color-scheme: dark) {
+                        box-shadow: 2px 2px 2px 2px #e8e6e3;
+                    }
+                }
+            }
+        }
+    }
+    
+    
 }

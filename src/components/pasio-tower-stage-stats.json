@@ -1,0 +1,422 @@
+{
+    "1": {
+        "center": {
+            "HP": 1825,
+            "Attacks": 600,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 760,
+            "Attacks": 500,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "2": {
+        "center": {
+            "HP": 3308,
+            "Attacks": 710,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 1378,
+            "Attacks": 592,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "3": {
+        "center": {
+            "HP": 4791,
+            "Attacks": 820,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 1996,
+            "Attacks": 684,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "4": {
+        "center": {
+            "HP": 6274,
+            "Attacks": 931,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 2614,
+            "Attacks": 776,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "5": {
+        "center": {
+            "HP": 9240,
+            "Attacks": 1152,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 3850,
+            "Attacks": 960,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "6": {
+        "center": {
+            "HP": 18680,
+            "Attacks": 1262,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 8078,
+            "Attacks": 1037,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "7": {
+        "center": {
+            "HP": 28120,
+            "Attacks": 1372,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 12307,
+            "Attacks": 1114,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "8": {
+        "center": {
+            "HP": 37561,
+            "Attacks": 1482,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 16536,
+            "Attacks": 1191,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "9": {
+        "center": {
+            "HP": 47001,
+            "Attacks": 1592,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 20765,
+            "Attacks": 1268,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "10": {
+        "center": {
+            "HP": 81589,
+            "Attacks": 2000,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 36380,
+            "Attacks": 1564,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "11": {
+        "center": {
+            "HP": 100966,
+            "Attacks": 2069,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 46161,
+            "Attacks": 1634,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "12": {
+        "center": {
+            "HP": 120073,
+            "Attacks": 2138,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 55942,
+            "Attacks": 1715,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "13": {
+        "center": {
+            "HP": 139180,
+            "Attacks": 2207,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 65723,
+            "Attacks": 1796,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "14": {
+        "center": {
+            "HP": 158287,
+            "Attacks": 2276,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 75504,
+            "Attacks": 1877,
+            "Defenses": 83,
+            "Speed": 204
+        }
+    },
+    "15": {
+        "center": {
+            "HP": 177394,
+            "Attacks": 2346,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 85285,
+            "Attacks": 1958,
+            "Defenses": 83,
+            "Speed": 205
+        }
+    },
+    "16": {
+        "center": {
+            "HP": 196501,
+            "Attacks": 2415,
+            "Defenses": 83,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 95066,
+            "Attacks": 2039,
+            "Defenses": 83,
+            "Speed": 205
+        }
+    },
+    "17": {
+        "center": {
+            "HP": 215608,
+            "Attacks": 2484,
+            "Defenses": 84,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 104847,
+            "Attacks": 2120,
+            "Defenses": 84,
+            "Speed": 205
+        }
+    },
+    "18": {
+        "center": {
+            "HP": 234715,
+            "Attacks": 2553,
+            "Defenses": 84,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 114628,
+            "Attacks": 2201,
+            "Defenses": 84,
+            "Speed": 205
+        }
+    },
+    "19": {
+        "center": {
+            "HP": 253822,
+            "Attacks": 2622,
+            "Defenses": 84,
+            "Speed": 67
+        },
+        "sides": {
+            "HP": 124409,
+            "Attacks": 2282,
+            "Defenses": 84,
+            "Speed": 205
+        }
+    },
+    "20": {
+        "center": {
+            "HP": 464000,
+            "Attacks": 3384,
+            "Defenses": 86,
+            "Speed": 68
+        },
+        "sides": {
+            "HP": 232000,
+            "Attacks": 3172,
+            "Defenses": 86,
+            "Speed": 208
+        }
+    },
+    "21": {
+        "center": {
+            "HP": 538700,
+            "Attacks": 3484,
+            "Defenses": 86,
+            "Speed": 68
+        },
+        "sides": {
+            "HP": 267125,
+            "Attacks": 3256,
+            "Defenses": 86,
+            "Speed": 208
+        }
+    },
+    "22": {
+        "center": {
+            "HP": 613400,
+            "Attacks": 3585,
+            "Defenses": 86,
+            "Speed": 68
+        },
+        "sides": {
+            "HP": 302250,
+            "Attacks": 3340,
+            "Defenses": 86,
+            "Speed": 209
+        }
+    },
+    "23": {
+        "center": {
+            "HP": 688100,
+            "Attacks": 3686,
+            "Defenses": 87,
+            "Speed": 68
+        },
+        "sides": {
+            "HP": 337375,
+            "Attacks": 3425,
+            "Defenses": 87,
+            "Speed": 209
+        }
+    },
+    "24": {
+        "center": {
+            "HP": 762800,
+            "Attacks": 3787,
+            "Defenses": 87,
+            "Speed": 68
+        },
+        "sides": {
+            "HP": 372500,
+            "Attacks": 3509,
+            "Defenses": 87,
+            "Speed": 210
+        }
+    },
+    "25": {
+        "center": {
+            "HP": 837500,
+            "Attacks": 3888,
+            "Defenses": 88,
+            "Speed": 69
+        },
+        "sides": {
+            "HP": 407625,
+            "Attacks": 3594,
+            "Defenses": 88,
+            "Speed": 211
+        }
+    },
+    "26": {
+        "center": {
+            "HP": 912200,
+            "Attacks": 3988,
+            "Defenses": 88,
+            "Speed": 69
+        },
+        "sides": {
+            "HP": 442750,
+            "Attacks": 3678,
+            "Defenses": 88,
+            "Speed": 211
+        }
+    },
+    "27": {
+        "center": {
+            "HP": 986900,
+            "Attacks": 4089,
+            "Defenses": 89,
+            "Speed": 69
+        },
+        "sides": {
+            "HP": 477875,
+            "Attacks": 3762,
+            "Defenses": 89,
+            "Speed": 212
+        }
+    },
+    "28": {
+        "center": {
+            "HP": 1061600,
+            "Attacks": 4190,
+            "Defenses": 89,
+            "Speed": 69
+        },
+        "sides": {
+            "HP": 513000,
+            "Attacks": 3847,
+            "Defenses": 89,
+            "Speed": 212
+        }
+    },
+    "29": {
+        "center": {
+            "HP": 1136300,
+            "Attacks": 4291,
+            "Defenses": 90,
+            "Speed": 69
+        },
+        "sides": {
+            "HP": 548125,
+            "Attacks": 3931,
+            "Defenses": 90,
+            "Speed": 213
+        }
+    },
+    "30": {
+        "center": {
+            "HP": 1958000,
+            "Attacks": 5400,
+            "Defenses": 95,
+            "Speed": 72
+        },
+        "sides": {
+            "HP": 934500,
+            "Attacks": 4860,
+            "Defenses": 95,
+            "Speed": 220
+        }
+    }
+}

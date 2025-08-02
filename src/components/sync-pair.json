@@ -4,6 +4,7 @@
         "name": "Aaron & Vespiquen",
         "region": "sinnoh",
         "tracker_key": "146",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "✓++",
@@ -82,6 +83,7 @@
         "name": "Acerola & Palossand",
         "region": "alola",
         "tracker_key": "063",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -160,6 +162,7 @@
         "name": "Acerola (Fall 2020 & Mimikyu",
         "region": "alola",
         "tracker_key": "063",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -238,6 +241,7 @@
         "name": "Acerola (Summer 2024 & Jellicent",
         "region": "alola",
         "tracker_key": "063",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "✓++",
@@ -316,6 +320,7 @@
         "name": "Sygna Suit Acerola & Tapu Bulu",
         "region": "alola",
         "tracker_key": "063",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -395,6 +400,7 @@
         "name": "Acerola & Banette",
         "region": "alola",
         "tracker_key": "063",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -473,6 +479,7 @@
         "name": "Adaman & Leafeon",
         "region": "hisui",
         "tracker_key": "166",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -551,6 +558,7 @@
         "name": "Adaman (Special Costume) & Ursaluna",
         "region": "hisui",
         "tracker_key": "166",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -630,6 +638,7 @@
         "name": "Adaman & Vaporeon",
         "region": "hisui",
         "tracker_key": "166",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -709,6 +718,7 @@
         "name": "Agatha & Gengar",
         "region": "kanto",
         "tracker_key": "009",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -787,6 +797,7 @@
         "name": "Agatha & Arbok",
         "region": "kanto",
         "tracker_key": "009",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -865,6 +876,7 @@
         "name": "Akari & Hisuian Samurott",
         "region": "hisui",
         "tracker_key": "183",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -943,6 +955,7 @@
         "name": "Alder & Volcarona",
         "region": "unova",
         "tracker_key": "108",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1021,6 +1034,7 @@
         "name": "Arc Suit Alder & Volcarona",
         "region": "unova",
         "tracker_key": "108",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1099,6 +1113,7 @@
         "name": "Allister & Gengar",
         "region": "galar",
         "tracker_key": "142",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1177,6 +1192,7 @@
         "name": "Allister (Fall 2022 & Gourgeist",
         "region": "galar",
         "tracker_key": "142",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1255,6 +1271,7 @@
         "name": "Anabel & Snorlax",
         "region": "alola",
         "tracker_key": "163",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1333,6 +1350,7 @@
         "name": "Archer & Houndoom",
         "region": "johto",
         "tracker_key": "177",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1411,6 +1429,7 @@
         "name": "Archie & Kyogre",
         "region": "hoenn",
         "tracker_key": "128",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1489,6 +1508,7 @@
         "name": "Argenta & Skarmory",
         "region": "sinnoh",
         "tracker_key": "182",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1567,6 +1587,7 @@
         "name": "Ariana & Arbok",
         "region": "johto",
         "tracker_key": "178",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1645,6 +1666,7 @@
         "name": "Arven & Mabosstiff",
         "region": "paldea",
         "tracker_key": "210",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1724,6 +1746,7 @@
         "name": "Arven & Nacli",
         "region": "paldea",
         "tracker_key": "210",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1802,6 +1825,7 @@
         "name": "Ash & Pikachu",
         "region": "kanto",
         "tracker_key": "152",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1880,6 +1904,7 @@
         "name": "Atticus & Revavroom",
         "region": "paldea",
         "tracker_key": "223",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -1958,6 +1983,7 @@
         "name": "Avery & Galarian Slowking",
         "region": "galar",
         "tracker_key": "208",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2036,6 +2062,7 @@
         "name": "Ball Guy & Amoonguss",
         "region": "galar",
         "tracker_key": "165",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2115,6 +2142,7 @@
         "name": "Barry & Empoleon",
         "region": "sinnoh",
         "tracker_key": "029",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2194,6 +2222,7 @@
         "name": "Barry & Roserade",
         "region": "sinnoh",
         "tracker_key": "029",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2272,6 +2301,7 @@
         "name": "Barry & Floatzel",
         "region": "sinnoh",
         "tracker_key": "029",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2350,6 +2380,7 @@
         "name": "Barry (Special Costume) & Heracross",
         "region": "sinnoh",
         "tracker_key": "029",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2428,6 +2459,7 @@
         "name": "Bea & Sirfetch'd",
         "region": "galar",
         "tracker_key": "126",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2506,6 +2538,7 @@
         "name": "Bea (Palentine's 2022 & Vanilluxe",
         "region": "galar",
         "tracker_key": "126",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2584,6 +2617,7 @@
         "name": "Bede & Hatterene",
         "region": "galar",
         "tracker_key": "149",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2662,6 +2696,7 @@
         "name": "Bede & Mawile",
         "region": "galar",
         "tracker_key": "149",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2740,6 +2775,7 @@
         "name": "Bede (Champion & Galarian Articuno",
         "region": "galar",
         "tracker_key": "149",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2818,6 +2854,7 @@
         "name": "Sygna Suit Bede & Iron Valiant",
         "region": "galar",
         "tracker_key": "149",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2896,6 +2933,7 @@
         "name": "Bede & Inteleon",
         "region": "galar",
         "tracker_key": "149",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -2974,6 +3012,7 @@
         "name": "Bellelba & Swoobat",
         "region": "unova",
         "tracker_key": "203",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3052,6 +3091,7 @@
         "name": "Benga & Volcarona",
         "region": "unova",
         "tracker_key": "230",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3130,6 +3170,7 @@
         "name": "Bertha & Hippowdon",
         "region": "sinnoh",
         "tracker_key": "147",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3208,6 +3249,7 @@
         "name": "Bianca & Musharna",
         "region": "unova",
         "tracker_key": "110",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3286,6 +3328,7 @@
         "name": "Bianca & Chandelure",
         "region": "unova",
         "tracker_key": "110",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3364,6 +3407,7 @@
         "name": "Bianca (Champion) & Virizion",
         "region": "unova",
         "tracker_key": "110",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3443,6 +3487,7 @@
         "name": "Blaine & Rapidash",
         "region": "kanto",
         "tracker_key": "006",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3522,6 +3567,7 @@
         "name": "Blossom (Furisode Girl) & Kirlia",
         "region": "kalos",
         "tracker_key": "221",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3600,6 +3646,7 @@
         "name": "Blue & Pidgeot",
         "region": "kanto",
         "tracker_key": "065",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3678,6 +3725,7 @@
         "name": "Blue (Classic) & Aerodactyl",
         "region": "kanto",
         "tracker_key": "065",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3756,6 +3804,7 @@
         "name": "Blue & Alakazam",
         "region": "kanto",
         "tracker_key": "065",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3835,6 +3884,7 @@
         "name": "Blue & Arcanine",
         "region": "kanto",
         "tracker_key": "065",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3913,6 +3963,7 @@
         "name": "Blue (Classic) & Charizard",
         "region": "kanto",
         "tracker_key": "065",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -3991,6 +4042,7 @@
         "name": "Blue (Champion & Zapdos",
         "region": "kanto",
         "tracker_key": "065",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "✓++",
@@ -4069,6 +4121,7 @@
         "name": "Sygna Suit Blue & Blastoise",
         "region": "kanto",
         "tracker_key": "065",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4148,6 +4201,7 @@
         "name": "Blue & Exeggutor",
         "region": "kanto",
         "tracker_key": "065",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4227,6 +4281,7 @@
         "name": "Brawly & Hariyama",
         "region": "hoenn",
         "tracker_key": "020",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4305,6 +4360,86 @@
         "name": "Brendan & Sceptile",
         "region": "hoenn",
         "tracker_key": "018",
+        "damage_types": "physical special",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Brendan_Aca": {
+        "filters": "brendan-trainer water hoenn main-character space-cadet tech exr-strike event",
+        "name": "Brendan (Academy) & Marshtomp",
+        "region": "hoenn",
+        "tracker_key": "018",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4383,6 +4518,7 @@
         "name": "Brendan (Champion) & Primal Groudon★",
         "region": "hoenn",
         "tracker_key": "018",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4461,6 +4597,7 @@
         "name": "Sygna Suit Brendan & Latios",
         "region": "hoenn",
         "tracker_key": "018",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4540,6 +4677,7 @@
         "name": "Brendan & Swellow",
         "region": "hoenn",
         "tracker_key": "018",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4619,6 +4757,7 @@
         "name": "Brock & Onix",
         "region": "kanto",
         "tracker_key": "002",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4697,6 +4836,7 @@
         "name": "Brock & Kabutops",
         "region": "kanto",
         "tracker_key": "002",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4776,6 +4916,7 @@
         "name": "Sygna Suit Brock & Tyranitar",
         "region": "kanto",
         "tracker_key": "002",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4855,6 +4996,7 @@
         "name": "Bruno & Machamp",
         "region": "kanto",
         "tracker_key": "008",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -4933,6 +5075,7 @@
         "name": "Bruno & Onix",
         "region": "kanto",
         "tracker_key": "008",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5012,6 +5155,7 @@
         "name": "Brycen & Cryogonal",
         "region": "unova",
         "tracker_key": "042",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5090,6 +5234,7 @@
         "name": "Brycen-Man & Zoroark",
         "region": "unova",
         "tracker_key": "202",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5169,6 +5314,7 @@
         "name": "Bugsy & Beedrill",
         "region": "johto",
         "tracker_key": "011",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5248,6 +5394,7 @@
         "name": "Bugsy & Scyther",
         "region": "johto",
         "tracker_key": "011",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5326,6 +5473,7 @@
         "name": "Bugsy (Holiday 2024 & Kricketune",
         "region": "johto",
         "tracker_key": "011",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5404,6 +5552,7 @@
         "name": "Burgh & Leavanny",
         "region": "unova",
         "tracker_key": "095",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5482,6 +5631,7 @@
         "name": "Burgh (Spring 2021 & Togepi",
         "region": "unova",
         "tracker_key": "095",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5560,6 +5710,7 @@
         "name": "Caitlin & Reuniclus",
         "region": "unova",
         "tracker_key": "070",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5635,9 +5786,10 @@
     },
     "Caitlin_F": {
         "filters": "caitlin-trainer dark unova seasonal-outfit seasonal-scout undella-town unova-adventurer support exr-none",
-        "name": "Caitlin (Fall 2021 & Sableye",
+        "name": "Caitlin (Fall 2021) & Sableye",
         "region": "unova",
         "tracker_key": "070",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5716,6 +5868,7 @@
         "name": "Calem & Meowstic",
         "region": "kalos",
         "tracker_key": "071",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5794,6 +5947,7 @@
         "name": "Calem (Champion & Greninja★",
         "region": "kalos",
         "tracker_key": "071",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5873,6 +6027,7 @@
         "name": "Calem & Fennekin",
         "region": "kalos",
         "tracker_key": "071",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -5951,6 +6106,7 @@
         "name": "Calem & Sylveon",
         "region": "kalos",
         "tracker_key": "071",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6030,6 +6186,7 @@
         "name": "Candice & Abomasnow",
         "region": "sinnoh",
         "tracker_key": "034",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6109,6 +6266,7 @@
         "name": "Candice & Froslass",
         "region": "sinnoh",
         "tracker_key": "034",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6187,6 +6345,86 @@
         "name": "Candice (Palentine's 2024) & Galarian Darmanitan",
         "region": "sinnoh",
         "tracker_key": "034",
+        "damage_types": "physical",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Carmine": {
+        "filters": "carmine-trainer grass paldea rival battle-partner support exr-field pokefair",
+        "name": "Carmine & Sinistcha (Tera Grass)",
+        "region": "paldea",
+        "tracker_key": "233",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6265,6 +6503,7 @@
         "name": "Chase & Pikachu",
         "region": "kanto",
         "tracker_key": "193",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6343,6 +6582,7 @@
         "name": "Cheren & Stoutland",
         "region": "unova",
         "tracker_key": "064",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6421,6 +6661,7 @@
         "name": "Cheren & Liepard",
         "region": "unova",
         "tracker_key": "064",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6499,6 +6740,7 @@
         "name": "Cheren (Champion) & Tornadus Incarnate Forme",
         "region": "unova",
         "tracker_key": "064",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6578,6 +6820,7 @@
         "name": "Cheren & Purrloin",
         "region": "unova",
         "tracker_key": "064",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6657,6 +6900,7 @@
         "name": "Cheryl & Blissey",
         "region": "sinnoh",
         "tracker_key": "037",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6736,6 +6980,7 @@
         "name": "Cheryl & Wailord",
         "region": "sinnoh",
         "tracker_key": "037",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6814,6 +7059,7 @@
         "name": "Chuck & Poliwrath",
         "region": "johto",
         "tracker_key": "213",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6893,6 +7139,7 @@
         "name": "Clair & Kingdra",
         "region": "johto",
         "tracker_key": "014",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -6971,6 +7218,7 @@
         "name": "Clair (New Year's 2024 & Drampa",
         "region": "johto",
         "tracker_key": "014",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7049,6 +7297,7 @@
         "name": "Clavell & Quaquaval",
         "region": "paldea",
         "tracker_key": "216",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7127,6 +7376,7 @@
         "name": "Clavell (Alt.) & Sprigatito",
         "region": "paldea",
         "tracker_key": "216",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7206,6 +7456,7 @@
         "name": "Clay & Seismitoad",
         "region": "unova",
         "tracker_key": "040",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7284,6 +7535,7 @@
         "name": "Clemont & Heliolisk",
         "region": "kalos",
         "tracker_key": "089",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7363,6 +7615,7 @@
         "name": "Clemont & Magneton",
         "region": "kalos",
         "tracker_key": "089",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7441,6 +7694,7 @@
         "name": "Clive & Amoonguss",
         "region": "paldea",
         "tracker_key": "231",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7519,6 +7773,7 @@
         "name": "Colress & Klinklang",
         "region": "unova",
         "tracker_key": "160",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7597,6 +7852,7 @@
         "name": "Courtney & Camerupt",
         "region": "hoenn",
         "tracker_key": "151",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7676,6 +7932,7 @@
         "name": "Crasher Wake & Floatzel",
         "region": "sinnoh",
         "tracker_key": "033",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7754,6 +8011,7 @@
         "name": "Cynthia & Garchomp",
         "region": "sinnoh",
         "tracker_key": "078",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7832,6 +8090,7 @@
         "name": "Arc Suit Cynthia & Garchomp",
         "region": "sinnoh",
         "tracker_key": "078",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7910,6 +8169,7 @@
         "name": "Cynthia (Summer 2025) & Milotic",
         "region": "sinnoh",
         "tracker_key": "078",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -7988,6 +8248,7 @@
         "name": "Sygna Suit Cynthia & Kommo-o",
         "region": "sinnoh",
         "tracker_key": "078",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8066,6 +8327,7 @@
         "name": "Sygna Suit Cynthia (Aura & Lucario",
         "region": "sinnoh",
         "tracker_key": "078",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8144,6 +8406,7 @@
         "name": "Sygna Suit Cynthia (Renegade) & Giratina Altered Forme",
         "region": "sinnoh",
         "tracker_key": "078",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8223,6 +8486,7 @@
         "name": "Cynthia & Gastrodon",
         "region": "sinnoh",
         "tracker_key": "078",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8301,6 +8565,7 @@
         "name": "Cynthia & Spiritomb",
         "region": "sinnoh",
         "tracker_key": "078",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8379,6 +8644,7 @@
         "name": "Cyrus & Palkia",
         "region": "sinnoh",
         "tracker_key": "100",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8457,6 +8723,7 @@
         "name": "Sygna Suit Cyrus & Darkrai",
         "region": "sinnoh",
         "tracker_key": "100",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8535,6 +8802,7 @@
         "name": "Dahlia & Ludicolo",
         "region": "sinnoh",
         "tracker_key": "198",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8613,6 +8881,7 @@
         "name": "Dana & Regice",
         "region": "kalos",
         "tracker_key": "174",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8691,6 +8960,7 @@
         "name": "Darach & Staraptor",
         "region": "sinnoh",
         "tracker_key": "143",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8769,6 +9039,7 @@
         "name": "Dawn & Torterra",
         "region": "sinnoh",
         "tracker_key": "094",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8847,6 +9118,7 @@
         "name": "Dawn & Empoleon",
         "region": "sinnoh",
         "tracker_key": "094",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -8925,6 +9197,7 @@
         "name": "Dawn (New Year's 2023) & Oricorio",
         "region": "sinnoh",
         "tracker_key": "094",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9003,6 +9276,7 @@
         "name": "Dawn (Palentine's 2021 & Alcremie",
         "region": "sinnoh",
         "tracker_key": "094",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9081,6 +9355,7 @@
         "name": "Sygna Suit Dawn & Cresselia",
         "region": "sinnoh",
         "tracker_key": "094",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9160,6 +9435,7 @@
         "name": "Dawn & Wormadam Plant Cloak",
         "region": "sinnoh",
         "tracker_key": "094",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9238,6 +9514,7 @@
         "name": "Dexio & Espeon",
         "region": "kalos",
         "tracker_key": "219",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9316,6 +9593,7 @@
         "name": "Diantha & Gardevoir",
         "region": "kalos",
         "tracker_key": "120",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9394,6 +9672,7 @@
         "name": "Diantha (Special Costume) & Keldeo Resolute Form",
         "region": "kalos",
         "tracker_key": "120",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9472,6 +9751,7 @@
         "name": "Sygna Suit Diantha & Diancie★",
         "region": "kalos",
         "tracker_key": "120",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9551,6 +9831,7 @@
         "name": "Diantha & Tyrantrum",
         "region": "kalos",
         "tracker_key": "120",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9630,6 +9911,7 @@
         "name": "Drake & Salamence",
         "region": "hoenn",
         "tracker_key": "027",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9708,6 +9990,7 @@
         "name": "Drasna & Dragalge",
         "region": "kalos",
         "tracker_key": "172",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9786,6 +10069,7 @@
         "name": "Elaine & Eevee",
         "region": "kanto",
         "tracker_key": "188",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9864,6 +10148,7 @@
         "name": "Elesa & Zebstrika",
         "region": "unova",
         "tracker_key": "069",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -9942,6 +10227,7 @@
         "name": "Elesa (Classic) & Emolga",
         "region": "unova",
         "tracker_key": "069",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10020,6 +10306,7 @@
         "name": "Elesa (Palentine's 2023) & Togetic",
         "region": "unova",
         "tracker_key": "069",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10098,6 +10385,7 @@
         "name": "Sygna Suit Elesa & Rotom",
         "region": "unova",
         "tracker_key": "069",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10176,6 +10464,7 @@
         "name": "Sygna Suit Elesa (Alt.) & Thundurus Therian Forme",
         "region": "unova",
         "tracker_key": "069",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10255,6 +10544,7 @@
         "name": "Elesa & Joltik",
         "region": "unova",
         "tracker_key": "069",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10333,6 +10623,7 @@
         "name": "Elio & Primarina",
         "region": "alola",
         "tracker_key": "122",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10411,6 +10702,7 @@
         "name": "Elio (Alt. & Stakataka",
         "region": "alola",
         "tracker_key": "122",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10489,6 +10781,7 @@
         "name": "Elio (Champion) & Necrozma Dusk Mane★",
         "region": "alola",
         "tracker_key": "122",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10567,6 +10860,7 @@
         "name": "Elio & Espeon",
         "region": "alola",
         "tracker_key": "122",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10645,6 +10939,7 @@
         "name": "Emma & Crobat",
         "region": "kalos",
         "tracker_key": "164",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10723,6 +11018,7 @@
         "name": "Emmet & Archeops",
         "region": "unova",
         "tracker_key": "134",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10801,6 +11097,7 @@
         "name": "Emmet (Special Costume) & Escavalier",
         "region": "unova",
         "tracker_key": "134",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10879,6 +11176,7 @@
         "name": "Sygna Suit Emmet & Eelektross",
         "region": "unova",
         "tracker_key": "134",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -10957,6 +11255,7 @@
         "name": "Eri & Annihilape",
         "region": "paldea",
         "tracker_key": "217",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11036,6 +11335,7 @@
         "name": "Erika & Vileplume",
         "region": "kanto",
         "tracker_key": "005",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11115,6 +11415,7 @@
         "name": "Erika & Tangela",
         "region": "kanto",
         "tracker_key": "005",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11193,6 +11494,7 @@
         "name": "Erika (Holiday 2020 & Comfey",
         "region": "kanto",
         "tracker_key": "005",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11271,6 +11573,7 @@
         "name": "Erika (Palentine's 2025) & Lurantis",
         "region": "kanto",
         "tracker_key": "005",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11349,6 +11652,7 @@
         "name": "Sygna Suit Erika & Leafeon",
         "region": "kanto",
         "tracker_key": "005",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11427,6 +11731,7 @@
         "name": "Ethan & Typhlosion",
         "region": "johto",
         "tracker_key": "075",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11505,6 +11810,7 @@
         "name": "Arc Suit Ethan & Lugia",
         "region": "johto",
         "tracker_key": "075",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11583,6 +11889,7 @@
         "name": "Sygna Suit Ethan & Lugia",
         "region": "johto",
         "tracker_key": "075",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11661,6 +11968,7 @@
         "name": "Ethan & Ho-Oh",
         "region": "johto",
         "tracker_key": "075",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11739,6 +12047,7 @@
         "name": "Eusine & Suicune★",
         "region": "johto",
         "tracker_key": "168",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11818,6 +12127,7 @@
         "name": "Eve (Poké Kid & Eevee",
         "region": "galar",
         "tracker_key": "189",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11896,6 +12206,7 @@
         "name": "Evelyn & Entei",
         "region": "kalos",
         "tracker_key": "135",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -11974,6 +12285,7 @@
         "name": "Falkner & Swellow",
         "region": "johto",
         "tracker_key": "139",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12053,6 +12365,7 @@
         "name": "Falkner & Pidgeot",
         "region": "johto",
         "tracker_key": "139",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12131,6 +12444,7 @@
         "name": "Falkner & Noctowl",
         "region": "johto",
         "tracker_key": "139",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12209,6 +12523,86 @@
         "name": "Fantina & Mismagius",
         "region": "sinnoh",
         "tracker_key": "086",
+        "damage_types": "special",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Fantina_Gym": {
+        "filters": "fantina-trainer ghost sinnoh gym-leader artistic contest-lover support exr-field gym-scout",
+        "name": "Fantina & Dusknoir",
+        "region": "sinnoh",
+        "tracker_key": "086",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12288,6 +12682,7 @@
         "name": "Flannery & Torkoal",
         "region": "hoenn",
         "tracker_key": "021",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12367,6 +12762,7 @@
         "name": "Flint & Infernape",
         "region": "sinnoh",
         "tracker_key": "035",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12445,6 +12841,7 @@
         "name": "Florian & Miraidon",
         "region": "paldea",
         "tracker_key": "225",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12523,6 +12920,7 @@
         "name": "Florian & Lechonk",
         "region": "paldea",
         "tracker_key": "225",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12602,6 +13000,7 @@
         "name": "Gardenia & Roserade",
         "region": "sinnoh",
         "tracker_key": "031",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12680,6 +13079,7 @@
         "name": "Gardenia (Summer 2024) & Dhelmise",
         "region": "sinnoh",
         "tracker_key": "031",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12758,6 +13158,7 @@
         "name": "Geeta & Glimmora",
         "region": "paldea",
         "tracker_key": "196",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12836,6 +13237,7 @@
         "name": "Ghetsis & Kyurem",
         "region": "unova",
         "tracker_key": "124",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12914,6 +13316,7 @@
         "name": "Giacomo & Kingambit",
         "region": "paldea",
         "tracker_key": "215",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -12992,6 +13395,7 @@
         "name": "Giovanni & Mewtwo",
         "region": "kanto",
         "tracker_key": "074",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13071,6 +13475,7 @@
         "name": "Giovanni & Persian",
         "region": "kanto",
         "tracker_key": "074",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13149,6 +13554,7 @@
         "name": "Sygna Suit Giovanni & Nidoking",
         "region": "johto",
         "tracker_key": "074",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13227,6 +13633,7 @@
         "name": "Sygna Suit Giovanni (Alt. & Guzzlord",
         "region": "johto",
         "tracker_key": "074",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13306,6 +13713,7 @@
         "name": "Giovanni & Nidorino",
         "region": "kanto",
         "tracker_key": "074",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13384,6 +13792,7 @@
         "name": "Giovanni & Rhydon",
         "region": "kanto",
         "tracker_key": "074",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13462,6 +13871,7 @@
         "name": "Glacia & Glalie",
         "region": "hoenn",
         "tracker_key": "072",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13540,6 +13950,86 @@
         "name": "Gladion & Silvally",
         "region": "alola",
         "tracker_key": "102",
+        "damage_types": "physical",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Gladion_Aca": {
+        "filters": "gladion-trainer normal alola rival special-costume strike exr-tech",
+        "name": "Gladion (Academy) & Porygon-Z",
+        "region": "alola",
+        "tracker_key": "102",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13618,6 +14108,7 @@
         "name": "Gladion & Weavile",
         "region": "alola",
         "tracker_key": "102",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13696,6 +14187,7 @@
         "name": "Sygna Suit Gladion & Magearna",
         "region": "alola",
         "tracker_key": "102",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13775,6 +14267,7 @@
         "name": "Gladion & Golbat",
         "region": "alola",
         "tracker_key": "102",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13853,6 +14346,7 @@
         "name": "Gloria & Zacian",
         "region": "galar",
         "tracker_key": "111",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -13931,6 +14425,7 @@
         "name": "Gloria (Alt. 2) & Cinderace",
         "region": "galar",
         "tracker_key": "111",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14009,6 +14504,7 @@
         "name": "Gloria (Dojo Uniform) & Urshifu Rapid Strike",
         "region": "galar",
         "tracker_key": "111",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14087,6 +14583,7 @@
         "name": "Gloria (Summer 2021) & Inteleon",
         "region": "galar",
         "tracker_key": "111",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14166,6 +14663,7 @@
         "name": "Gloria & Thwackey",
         "region": "galar",
         "tracker_key": "111",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14244,6 +14742,7 @@
         "name": "Gordie & Coalossal",
         "region": "galar",
         "tracker_key": "155",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14322,6 +14821,7 @@
         "name": "Gordie & Barbaracle",
         "region": "galar",
         "tracker_key": "155",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14401,6 +14901,7 @@
         "name": "Grant & Aurorus",
         "region": "kalos",
         "tracker_key": "048",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14479,6 +14980,7 @@
         "name": "Greta & Breloom",
         "region": "hoenn",
         "tracker_key": "209",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14557,6 +15059,7 @@
         "name": "Grimsley & Liepard",
         "region": "unova",
         "tracker_key": "073",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14635,6 +15138,7 @@
         "name": "Grimsley (Kimono) & Bisharp",
         "region": "unova",
         "tracker_key": "073",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14713,6 +15217,7 @@
         "name": "Grimsley (Kimono) & Absol",
         "region": "alola",
         "tracker_key": "073",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14791,6 +15296,7 @@
         "name": "Sygna Suit Grimsley & Sharpedo",
         "region": "unova",
         "tracker_key": "073",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14869,6 +15375,7 @@
         "name": "Grusha & Cetitan",
         "region": "paldea",
         "tracker_key": "192",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -14947,6 +15454,7 @@
         "name": "Grusha & Beartic",
         "region": "paldea",
         "tracker_key": "192",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15025,6 +15533,7 @@
         "name": "Guzma & Golisopod",
         "region": "alola",
         "tracker_key": "088",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15103,6 +15612,7 @@
         "name": "Guzma (Special Costume) & Buzzwole",
         "region": "alola",
         "tracker_key": "088",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15181,6 +15691,7 @@
         "name": "Guzma & Ariados",
         "region": "alola",
         "tracker_key": "088",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15259,6 +15770,7 @@
         "name": "Hala & Crabominable",
         "region": "alola",
         "tracker_key": "131",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15338,6 +15850,7 @@
         "name": "Hapu & Mudsdale",
         "region": "alola",
         "tracker_key": "058",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15417,6 +15930,7 @@
         "name": "Hau & Alolan Raichu",
         "region": "alola",
         "tracker_key": "054",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15495,6 +16009,7 @@
         "name": "Hau & Crabominable",
         "region": "alola",
         "tracker_key": "054",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15573,6 +16088,7 @@
         "name": "Sygna Suit Hau & Tapu Koko",
         "region": "alola",
         "tracker_key": "054",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15652,6 +16168,7 @@
         "name": "Helena (Hex Maniac) & Haunter",
         "region": "kalos",
         "tracker_key": "158",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15730,6 +16247,7 @@
         "name": "Hilbert & Samurott",
         "region": "unova",
         "tracker_key": "067",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15808,6 +16326,7 @@
         "name": "Hilbert (Fall 2020) & Mightyena",
         "region": "unova",
         "tracker_key": "067",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15886,6 +16405,7 @@
         "name": "Sygna Suit Hilbert & Genesect",
         "region": "unova",
         "tracker_key": "067",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -15964,6 +16484,7 @@
         "name": "Hilbert & Glaceon",
         "region": "unova",
         "tracker_key": "067",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16042,6 +16563,7 @@
         "name": "Hilda & Emboar",
         "region": "unova",
         "tracker_key": "068",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16120,6 +16642,7 @@
         "name": "Hilda (Summer 2022 & Grapploct★",
         "region": "unova",
         "tracker_key": "068",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16198,6 +16721,7 @@
         "name": "Hilda (Special Costume) & Diancie",
         "region": "unova",
         "tracker_key": "068",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16276,6 +16800,7 @@
         "name": "Sygna Suit Hilda & Victini",
         "region": "unova",
         "tracker_key": "068",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16354,6 +16879,7 @@
         "name": "Hilda & Leafeon",
         "region": "unova",
         "tracker_key": "068",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16432,6 +16958,7 @@
         "name": "Hop & Zamazenta",
         "region": "galar",
         "tracker_key": "141",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16510,6 +17037,7 @@
         "name": "Hop & Pincurchin",
         "region": "galar",
         "tracker_key": "141",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16588,6 +17116,7 @@
         "name": "Hop (Champion) & Galarian Zapdos",
         "region": "galar",
         "tracker_key": "141",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16666,6 +17195,7 @@
         "name": "Hop & Rillaboom",
         "region": "galar",
         "tracker_key": "141",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16744,6 +17274,7 @@
         "name": "Hop & Zacian",
         "region": "galar",
         "tracker_key": "141",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16822,6 +17353,7 @@
         "name": "Hugh & Bouffalant",
         "region": "unova",
         "tracker_key": "159",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16900,6 +17432,7 @@
         "name": "Hugh & Unfezant",
         "region": "unova",
         "tracker_key": "159",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -16978,6 +17511,7 @@
         "name": "Ilima & Gumshoos",
         "region": "alola",
         "tracker_key": "228",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17056,6 +17590,7 @@
         "name": "Ingo & Excadrill",
         "region": "unova",
         "tracker_key": "133",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17134,6 +17669,7 @@
         "name": "Ingo (Special Costume & Accelgor",
         "region": "unova",
         "tracker_key": "133",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17212,6 +17748,7 @@
         "name": "Sygna Suit Ingo & Chandelure",
         "region": "unova",
         "tracker_key": "133",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17290,6 +17827,7 @@
         "name": "Iono & Bellibolt",
         "region": "paldea",
         "tracker_key": "191",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17368,6 +17906,7 @@
         "name": "Iono & Kilowattrel",
         "region": "paldea",
         "tracker_key": "191",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17446,6 +17985,7 @@
         "name": "Iono (Fall 2024) & Flutter Mane",
         "region": "paldea",
         "tracker_key": "191",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17524,6 +18064,7 @@
         "name": "Sygna Suit Iono & Raging Bolt",
         "region": "paldea",
         "tracker_key": "191",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17603,6 +18144,7 @@
         "name": "Iono & Wattrel",
         "region": "paldea",
         "tracker_key": "191",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17681,6 +18223,7 @@
         "name": "Irida & Glaceon",
         "region": "hisui",
         "tracker_key": "167",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17759,6 +18302,7 @@
         "name": "Irida (Special Costume) & Hisuian Zoroark",
         "region": "hisui",
         "tracker_key": "167",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17838,6 +18382,7 @@
         "name": "Irida & Flareon",
         "region": "hisui",
         "tracker_key": "167",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17917,6 +18462,86 @@
         "name": "Iris & Haxorus",
         "region": "unova",
         "tracker_key": "043",
+        "damage_types": "physical",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Iris_Aca": {
+        "filters": "iris-trainer ice unova special-costume undella-town support exr-field",
+        "name": "Iris (Academy) & Lapras",
+        "region": "unova",
+        "tracker_key": "043",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -17995,6 +18620,7 @@
         "name": "Iris (Alt.) & Hydreigon",
         "region": "unova",
         "tracker_key": "043",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18073,6 +18699,7 @@
         "name": "Iris (Fall 2022) & Naganadel",
         "region": "unova",
         "tracker_key": "043",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18152,6 +18779,7 @@
         "name": "Iris & Druddigon",
         "region": "unova",
         "tracker_key": "043",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18230,6 +18858,7 @@
         "name": "Jacq & Farigiraf",
         "region": "paldea",
         "tracker_key": "200",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18309,6 +18938,7 @@
         "name": "James & Weezing",
         "region": "kanto",
         "tracker_key": "104",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18388,6 +19018,7 @@
         "name": "Janine & Ariados",
         "region": "kanto",
         "tracker_key": "015",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18467,6 +19098,7 @@
         "name": "Janine & Crobat",
         "region": "kanto",
         "tracker_key": "015",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18545,6 +19177,7 @@
         "name": "Jasmine & Steelix",
         "region": "johto",
         "tracker_key": "093",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18623,6 +19256,7 @@
         "name": "Jasmine (Holiday 2022 & Ampharos",
         "region": "johto",
         "tracker_key": "093",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18701,6 +19335,7 @@
         "name": "Jasmine (Special Costume & Celesteela",
         "region": "johto",
         "tracker_key": "093",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18780,6 +19415,7 @@
         "name": "Jasmine & Magnemite",
         "region": "johto",
         "tracker_key": "093",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18859,6 +19495,7 @@
         "name": "Jessie & Arbok",
         "region": "kanto",
         "tracker_key": "097",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -18937,6 +19574,7 @@
         "name": "Juliana & Koraidon",
         "region": "paldea",
         "tracker_key": "224",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19015,6 +19653,7 @@
         "name": "Kabu & Centiskorch",
         "region": "galar",
         "tracker_key": "206",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19093,6 +19732,7 @@
         "name": "Kabu & Ninetales",
         "region": "galar",
         "tracker_key": "206",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19172,6 +19812,7 @@
         "name": "Kabu & Torkoal",
         "region": "galar",
         "tracker_key": "206",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19251,6 +19892,7 @@
         "name": "Kahili & Toucannon",
         "region": "alola",
         "tracker_key": "059",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19330,6 +19972,7 @@
         "name": "Kali & Azumarill",
         "region": "kalos",
         "tracker_key": "161",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19408,6 +20051,7 @@
         "name": "Karen & Houndoom",
         "region": "johto",
         "tracker_key": "017",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19487,6 +20131,7 @@
         "name": "Karen & Umbreon",
         "region": "johto",
         "tracker_key": "017",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19566,6 +20211,7 @@
         "name": "Katherine & Slurpuff",
         "region": "kalos",
         "tracker_key": "190",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19644,6 +20290,7 @@
         "name": "Kiawe & Alolan Marowak",
         "region": "alola",
         "tracker_key": "130",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19722,6 +20369,86 @@
         "name": "Kiawe & Arcanine",
         "region": "alola",
         "tracker_key": "130",
+        "damage_types": "special",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Kieran": {
+        "filters": "kieran-trainer fighting paldea rival champion field exr-tech master-fair",
+        "name": "Kieran & Hydrapple (Tera Fighting)",
+        "region": "paldea",
+        "tracker_key": "244",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19800,6 +20527,7 @@
         "name": "Klara & Galarian Slowbro",
         "region": "galar",
         "tracker_key": "207",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19879,6 +20607,7 @@
         "name": "Koga & Crobat",
         "region": "kanto",
         "tracker_key": "062",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -19958,6 +20687,7 @@
         "name": "Korrina & Lucario",
         "region": "kalos",
         "tracker_key": "049",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20036,6 +20766,7 @@
         "name": "Korrina & Hawlucha",
         "region": "kalos",
         "tracker_key": "049",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20114,6 +20845,7 @@
         "name": "Sygna Suit Korrina & Marshadow",
         "region": "kalos",
         "tracker_key": "049",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20192,6 +20924,7 @@
         "name": "Kris & Feraligatr",
         "region": "johto",
         "tracker_key": "010",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20270,6 +21003,7 @@
         "name": "Sygna Suit Kris & Suicune",
         "region": "johto",
         "tracker_key": "010",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20348,6 +21082,7 @@
         "name": "Kris & Jolteon",
         "region": "johto",
         "tracker_key": "010",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20426,6 +21161,7 @@
         "name": "Professor Kukui & Lycanroc Dawn",
         "region": "alola",
         "tracker_key": "079",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20504,6 +21240,7 @@
         "name": "Lacey & Granbull",
         "region": "paldea",
         "tracker_key": "227",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20583,6 +21320,7 @@
         "name": "Lacey & Alcremie",
         "region": "paldea",
         "tracker_key": "227",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20661,6 +21399,86 @@
         "name": "Lana & Araquanid",
         "region": "alola",
         "tracker_key": "129",
+        "damage_types": "physical special",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Lana_Gym": {
+        "filters": "lana-trainer water alola trial-giver free-spirit nature-lover support exr-field gym-scout",
+        "name": "Lana & Cloyster",
+        "region": "alola",
+        "tracker_key": "129",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20739,6 +21557,7 @@
         "name": "Sygna Suit Lana & Tapu Lele",
         "region": "alola",
         "tracker_key": "129",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20818,6 +21637,7 @@
         "name": "Lana & Lanturn",
         "region": "alola",
         "tracker_key": "129",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20896,6 +21716,7 @@
         "name": "Lance & Dragonite",
         "region": "kanto",
         "tracker_key": "077",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -20974,6 +21795,7 @@
         "name": "Arc Suit Lance & Dragonite",
         "region": "kanto",
         "tracker_key": "077",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21052,6 +21874,7 @@
         "name": "Lance (New Year's 2021) & Gyarados",
         "region": "kanto",
         "tracker_key": "077",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21131,6 +21954,7 @@
         "name": "Lance & Kingdra",
         "region": "kanto",
         "tracker_key": "077",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21209,6 +22033,7 @@
         "name": "Lance & Dragonair",
         "region": "kanto",
         "tracker_key": "077",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21287,6 +22112,7 @@
         "name": "Larry & Dudunsparce",
         "region": "paldea",
         "tracker_key": "205",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21365,6 +22191,7 @@
         "name": "Larry (Special Costume) & Flamigo",
         "region": "paldea",
         "tracker_key": "205",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21444,6 +22271,7 @@
         "name": "Larry & Oinkologne",
         "region": "paldea",
         "tracker_key": "205",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21522,6 +22350,7 @@
         "name": "Leaf & Eevee",
         "region": "kanto",
         "tracker_key": "076",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21600,6 +22429,7 @@
         "name": "Leaf & Blastoise",
         "region": "kanto",
         "tracker_key": "076",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21678,6 +22508,7 @@
         "name": "Leaf (Champion) & Moltres",
         "region": "kanto",
         "tracker_key": "076",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21756,6 +22587,7 @@
         "name": "Sygna Suit Leaf & Venusaur",
         "region": "kanto",
         "tracker_key": "076",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21835,6 +22667,7 @@
         "name": "Leaf & Clefable",
         "region": "kanto",
         "tracker_key": "076",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21913,6 +22746,7 @@
         "name": "Lear & Hoopa (Confined)",
         "region": "pasio",
         "tracker_key": "136",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -21991,6 +22825,7 @@
         "name": "Sygna Suit Lear & Gholdengo",
         "region": "pasio",
         "tracker_key": "136",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22070,6 +22905,7 @@
         "name": "Lear & Krookodile",
         "region": "pasio",
         "tracker_key": "136",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22148,6 +22984,7 @@
         "name": "Lenora & Watchog",
         "region": "unova",
         "tracker_key": "185",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22226,6 +23063,7 @@
         "name": "Leon & Charizard",
         "region": "galar",
         "tracker_key": "118",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22304,6 +23142,7 @@
         "name": "Leon (Alt.) & Dragapult",
         "region": "galar",
         "tracker_key": "118",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22382,6 +23221,7 @@
         "name": "Arc Suit Leon & Charizard",
         "region": "galar",
         "tracker_key": "118",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22460,6 +23300,7 @@
         "name": "Leon (Holiday 2021) & Calyrex Ice Rider",
         "region": "galar",
         "tracker_key": "118",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22538,6 +23379,7 @@
         "name": "Sygna Suit Leon & Eternatus",
         "region": "galar",
         "tracker_key": "118",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22612,10 +23454,12 @@
         }
     },
     "Leon_TL": {
+        "base_star": 4,
         "filters": "leon-trainer ground galar champion battle-facility-foe free-spirit support exr-none lodge-pair lodge-gacha",
         "name": "Leon & Seismitoad",
         "region": "galar",
         "tracker_key": "118",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22694,6 +23538,7 @@
         "name": "Lillie & Clefairy",
         "region": "alola",
         "tracker_key": "103",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22772,6 +23617,7 @@
         "name": "Lillie (Anniversary 2021) & Lunala",
         "region": "alola",
         "tracker_key": "103",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22850,6 +23696,7 @@
         "name": "Lillie (Anniversary 2024) & Solgaleo",
         "region": "alola",
         "tracker_key": "103",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -22928,6 +23775,7 @@
         "name": "Lillie (Holiday 2024) & Primarina★",
         "region": "alola",
         "tracker_key": "103",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23006,6 +23854,7 @@
         "name": "Lillie (New Year's 2021 & Ribombee",
         "region": "alola",
         "tracker_key": "103",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23084,6 +23933,7 @@
         "name": "Lillie (Special Costume & Polteageist",
         "region": "alola",
         "tracker_key": "103",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23163,6 +24013,7 @@
         "name": "Lillie & Comfey",
         "region": "alola",
         "tracker_key": "103",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23241,6 +24092,7 @@
         "name": "Lisia & Altaria",
         "region": "hoenn",
         "tracker_key": "107",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23319,6 +24171,7 @@
         "name": "Lisia (New Year's 2023) & Galarian Rapidash★",
         "region": "hoenn",
         "tracker_key": "107",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23398,6 +24251,7 @@
         "name": "Liza & Lunatone",
         "region": "hoenn",
         "tracker_key": "025",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23476,6 +24330,7 @@
         "name": "Liza (Summer 2023) & Celesteela",
         "region": "hoenn",
         "tracker_key": "025",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23554,6 +24409,7 @@
         "name": "Looker & Croagunk",
         "region": "sinnoh",
         "tracker_key": "150",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23633,6 +24489,7 @@
         "name": "Lorelei & Lapras",
         "region": "kanto",
         "tracker_key": "007",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23711,6 +24568,7 @@
         "name": "Lorelei & Cloyster",
         "region": "kanto",
         "tracker_key": "007",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23790,6 +24648,7 @@
         "name": "Lt. Surge & Electrode",
         "region": "kanto",
         "tracker_key": "004",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23869,6 +24728,7 @@
         "name": "Lt. Surge & Raichu",
         "region": "kanto",
         "tracker_key": "004",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -23947,6 +24807,7 @@
         "name": "Lucas & Dialga",
         "region": "sinnoh",
         "tracker_key": "145",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24025,6 +24886,7 @@
         "name": "Lucas & Torterra",
         "region": "sinnoh",
         "tracker_key": "145",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24103,6 +24965,7 @@
         "name": "Lucas & Flareon",
         "region": "sinnoh",
         "tracker_key": "145",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24181,6 +25044,7 @@
         "name": "Lucian & Girafarig",
         "region": "sinnoh",
         "tracker_key": "148",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24260,6 +25124,7 @@
         "name": "Lucy & Seviper",
         "region": "hoenn",
         "tracker_key": "098",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24334,10 +25199,11 @@
         }
     },
     "Lusamine": {
-        "filters": "lusamine-trainer bug alola villain grown-woman alola-adventurer strike exr-none spotlight ticket",
+        "filters": "lusamine-trainer bug alola villain grown-woman alola-adventurer strike exr-none spotlight ticket has-lodge lodge-free",
         "name": "Lusamine & Pheromosa",
         "region": "alola",
         "tracker_key": "101",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24417,6 +25283,7 @@
         "name": "Lusamine & Lilligant",
         "region": "alola",
         "tracker_key": "101",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24493,6 +25360,86 @@
     "Lusamine_SS": {
         "filters": "lusamine-trainer psychic alola villain sygna-suit grown-woman strike exr-support master-fair",
         "name": "Sygna Suit Lusamine & Dusk Mane Necrozma",
+        "region": "alola",
+        "tracker_key": "101",
+        "damage_types": "special",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Lusamine_TL": {
+        "base_star": 4,
+        "filters": "lusamine-trainer water alola villain grown-woman alola-adventurer support exr-none lodge-pair",
+        "name": "Lusamine & Milotic",
         "region": "alola",
         "tracker_key": "101",
         "z_arenas": {
@@ -24573,6 +25520,7 @@
         "name": "Lyra & Meganium",
         "region": "johto",
         "tracker_key": "066",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24651,6 +25599,7 @@
         "name": "Lyra (Summer 2020) & Jigglypuff",
         "region": "johto",
         "tracker_key": "066",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24729,6 +25678,7 @@
         "name": "Lyra (Special Costume & Phanpy",
         "region": "johto",
         "tracker_key": "066",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24807,6 +25757,7 @@
         "name": "Sygna Suit Lyra & Celebi",
         "region": "johto",
         "tracker_key": "066",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24885,6 +25836,7 @@
         "name": "Lyra & Vaporeon",
         "region": "johto",
         "tracker_key": "066",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -24963,6 +25915,7 @@
         "name": "Lysandre & Yveltal",
         "region": "kalos",
         "tracker_key": "115",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25041,6 +25994,7 @@
         "name": "Sygna Suit Lysandre & Volcanion",
         "region": "kalos",
         "tracker_key": "115",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25119,6 +26073,7 @@
         "name": "Mallow & Tsareena",
         "region": "alola",
         "tracker_key": "114",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25197,6 +26152,7 @@
         "name": "Mallow (Palentine's 2023 & Appletun",
         "region": "alola",
         "tracker_key": "114",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25275,6 +26231,7 @@
         "name": "Mallow & Shiinotic",
         "region": "alola",
         "tracker_key": "114",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25353,6 +26310,7 @@
         "name": "Malva & Talonflame",
         "region": "kalos",
         "tracker_key": "212",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25432,6 +26390,7 @@
         "name": "Marley & Arcanine",
         "region": "sinnoh",
         "tracker_key": "038",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25510,6 +26469,7 @@
         "name": "Marley (Palentine's 2025) & Shaymin Land Forme",
         "region": "sinnoh",
         "tracker_key": "038",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25589,6 +26549,7 @@
         "name": "Marlon & Carracosta",
         "region": "unova",
         "tracker_key": "045",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25667,6 +26628,7 @@
         "name": "Marnie & Morpeko",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25745,6 +26707,7 @@
         "name": "Marnie (Academy) & Cyclizar",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25823,6 +26786,7 @@
         "name": "Marnie & Scrafty",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25901,6 +26865,7 @@
         "name": "Marnie & Liepard",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -25979,6 +26944,7 @@
         "name": "Marnie (Champion) & Galarian Moltres",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26057,6 +27023,7 @@
         "name": "Marnie (Palentine's 2022) & Mawile",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26135,6 +27102,7 @@
         "name": "Marnie (Summer 2021 & Grimmsnarl",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26214,6 +27182,7 @@
         "name": "Marnie & Toxicroak",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26292,6 +27261,7 @@
         "name": "Marnie & Cinderace",
         "region": "galar",
         "tracker_key": "119",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26371,6 +27341,7 @@
         "name": "Marshal & Conkeldurr",
         "region": "unova",
         "tracker_key": "047",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26449,6 +27420,7 @@
         "name": "The Masked Royal & Incineroar",
         "region": "alola",
         "tracker_key": "132",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26527,6 +27499,7 @@
         "name": "Maxie & Groudon",
         "region": "hoenn",
         "tracker_key": "127",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26605,6 +27578,7 @@
         "name": "May & Swampert",
         "region": "hoenn",
         "tracker_key": "113",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26683,6 +27657,7 @@
         "name": "May (Anniversary 2022) & Latias",
         "region": "hoenn",
         "tracker_key": "113",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26761,6 +27736,7 @@
         "name": "May (Champion) & Primal Kyogre★",
         "region": "hoenn",
         "tracker_key": "113",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26839,6 +27815,7 @@
         "name": "Sygna Suit May & Blaziken",
         "region": "hoenn",
         "tracker_key": "113",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26917,6 +27894,7 @@
         "name": "May (Spring 2021 & Lopunny",
         "region": "hoenn",
         "tracker_key": "113",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -26996,6 +27974,7 @@
         "name": "May & Wailmer",
         "region": "hoenn",
         "tracker_key": "113",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27075,6 +28054,7 @@
         "name": "Maylene & Medicham",
         "region": "sinnoh",
         "tracker_key": "032",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27153,6 +28133,7 @@
         "name": "Mela & Armarouge",
         "region": "paldea",
         "tracker_key": "222",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27231,6 +28212,7 @@
         "name": "Melony & Lapras",
         "region": "galar",
         "tracker_key": "156",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27309,6 +28291,7 @@
         "name": "Melony & Frosmoth",
         "region": "galar",
         "tracker_key": "156",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27387,6 +28370,7 @@
         "name": "Milo & Eldegoss",
         "region": "galar",
         "tracker_key": "220",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27466,6 +28450,7 @@
         "name": "Mina & Granbull",
         "region": "alola",
         "tracker_key": "056",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27544,6 +28529,7 @@
         "name": "Sygna Suit Mina & Tapu Fini",
         "region": "alola",
         "tracker_key": "056",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27623,6 +28609,7 @@
         "name": "Misty & Starmie",
         "region": "kanto",
         "tracker_key": "003",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27699,9 +28686,10 @@
     "Misty_Ev": {
         "base_star": 4,
         "filters": "misty-trainer water kanto gym-leader passionate-spirit support exr-none event",
-        "name": "Misty (Swimsuit & Psyduck",
+        "name": "Misty (Swimsuit) & Psyduck",
         "region": "kanto",
         "tracker_key": "003",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27780,6 +28768,7 @@
         "name": "Sygna Suit Misty & Vaporeon",
         "region": "kanto",
         "tracker_key": "003",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27859,6 +28848,7 @@
         "name": "Molayne & Alolan Dugtrio",
         "region": "alola",
         "tracker_key": "106",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -27937,6 +28927,7 @@
         "name": "Morgan & Virizion",
         "region": "kalos",
         "tracker_key": "211",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28015,6 +29006,7 @@
         "name": "Morty & Drifblim",
         "region": "johto",
         "tracker_key": "099",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28093,6 +29085,7 @@
         "name": "Morty (Academy) & Hisuian Typhlosion",
         "region": "johto",
         "tracker_key": "099",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28172,6 +29165,7 @@
         "name": "Morty & Mismagius",
         "region": "johto",
         "tracker_key": "099",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28247,9 +29241,10 @@
     },
     "Morty_F": {
         "filters": "morty-trainer ghost johto seasonal-outfit seasonal-scout cape supernatural tech exr-none",
-        "name": "Morty (Fall 2021 & Banette",
+        "name": "Morty (Fall 2021) & Banette",
         "region": "johto",
         "tracker_key": "099",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28328,6 +29323,7 @@
         "name": "Sygna Suit Morty & Ho-Oh★",
         "region": "johto",
         "tracker_key": "099",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28407,6 +29403,7 @@
         "name": "Morty & Gastly",
         "region": "johto",
         "tracker_key": "099",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28485,6 +29482,7 @@
         "name": "N & Zekrom",
         "region": "unova",
         "tracker_key": "112",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28563,6 +29561,7 @@
         "name": "N (Anniversary 2021) & Reshiram",
         "region": "unova",
         "tracker_key": "112",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28641,6 +29640,7 @@
         "name": "Arc Suit N & Zoroark",
         "region": "unova",
         "tracker_key": "112",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28719,6 +29719,7 @@
         "name": "N & Archeops",
         "region": "unova",
         "tracker_key": "112",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28797,6 +29798,7 @@
         "name": "N (Summer 2022) & Zoroark",
         "region": "unova",
         "tracker_key": "112",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28875,6 +29877,7 @@
         "name": "Sygna Suit N & Black Kyurem",
         "region": "unova",
         "tracker_key": "112",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -28954,6 +29957,7 @@
         "name": "N & Sigilyph",
         "region": "unova",
         "tracker_key": "112",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29033,6 +30037,7 @@
         "name": "Nanu & Alolan Persian",
         "region": "alola",
         "tracker_key": "061",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29112,6 +30117,7 @@
         "name": "Naomi & Sandslash",
         "region": "alola",
         "tracker_key": "154",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29190,6 +30196,7 @@
         "name": "Nate & Braviary",
         "region": "unova",
         "tracker_key": "109",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29268,6 +30275,7 @@
         "name": "Nate (Champion) & Haxorus★",
         "region": "unova",
         "tracker_key": "109",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29346,6 +30354,7 @@
         "name": "Nemona & Pawmot",
         "region": "paldea",
         "tracker_key": "173",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29424,6 +30433,7 @@
         "name": "Nemona & Lycanroc Midday",
         "region": "paldea",
         "tracker_key": "173",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29502,6 +30512,7 @@
         "name": "Sygna Suit Nemona & Scream Tail",
         "region": "paldea",
         "tracker_key": "173",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29580,6 +30591,7 @@
         "name": "Nessa & Drednaw",
         "region": "galar",
         "tracker_key": "125",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29658,6 +30670,7 @@
         "name": "Nessa (Holiday 2021) & Eiscue",
         "region": "galar",
         "tracker_key": "125",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29736,6 +30749,7 @@
         "name": "Nita & Landorus Incarnate Forme",
         "region": "kalos",
         "tracker_key": "153",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29815,6 +30829,7 @@
         "name": "Noland & Pinsir",
         "region": "hoenn",
         "tracker_key": "028",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29893,6 +30908,7 @@
         "name": "Noland & Ninjask",
         "region": "hoenn",
         "tracker_key": "028",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -29972,6 +30988,7 @@
         "name": "Norman & Slaking",
         "region": "hoenn",
         "tracker_key": "022",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30051,6 +31068,7 @@
         "name": "Professor Oak & Mew",
         "region": "kanto",
         "tracker_key": "082",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30129,6 +31147,7 @@
         "name": "Professor Oak & Nidorino",
         "region": "kanto",
         "tracker_key": "082",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30207,6 +31226,7 @@
         "name": "Oleana & Garbodor",
         "region": "galar",
         "tracker_key": "170",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30285,6 +31305,7 @@
         "name": "Olivia & Lycanroc",
         "region": "alola",
         "tracker_key": "057",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30364,6 +31385,7 @@
         "name": "Olivia & Carbink",
         "region": "alola",
         "tracker_key": "057",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30442,6 +31464,7 @@
         "name": "Olympia & Sigilyph",
         "region": "kalos",
         "tracker_key": "171",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30520,6 +31543,7 @@
         "name": "Ortega & Dachsbun",
         "region": "paldea",
         "tracker_key": "226",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30598,6 +31622,7 @@
         "name": "Palmer & Regigigas",
         "region": "sinnoh",
         "tracker_key": "181",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30676,6 +31701,7 @@
         "name": "Paulo & Lycanroc Dusk",
         "region": "pasio",
         "tracker_key": "175",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30754,6 +31780,7 @@
         "name": "Penny & Sylveon",
         "region": "paldea",
         "tracker_key": "187",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30833,6 +31860,7 @@
         "name": "Petey (Poké Kid & Pikachu",
         "region": "galar",
         "tracker_key": "194",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30911,6 +31939,7 @@
         "name": "Petrel & Weezing",
         "region": "johto",
         "tracker_key": "179",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -30989,6 +32018,7 @@
         "name": "Phoebe & Dusknoir",
         "region": "hoenn",
         "tracker_key": "026",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31064,9 +32094,10 @@
     },
     "Phoebe_F": {
         "filters": "phoebe-trainer ghost hoenn elite-four seasonal-outfit seasonal-scout supernatural support exr-tech",
-        "name": "Phoebe (Fall 2023 & Cofagrigus",
+        "name": "Phoebe (Fall 2023) & Cofagrigus",
         "region": "hoenn",
         "tracker_key": "026",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31145,6 +32176,7 @@
         "name": "Piers & Obstagoon",
         "region": "galar",
         "tracker_key": "117",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31223,6 +32255,7 @@
         "name": "Sygna Suit Piers & Toxtricity (Low Key Form)",
         "region": "galar",
         "tracker_key": "117",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31302,6 +32335,7 @@
         "name": "Player & Alcremie",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31380,6 +32414,7 @@
         "name": "Player & Cobalion",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31458,6 +32493,7 @@
         "name": "Player & Mesprit",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31537,6 +32573,7 @@
         "name": "Player & Pikachu",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31615,6 +32652,7 @@
         "name": "Player & Raikou",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31693,6 +32731,7 @@
         "name": "Player & Regirock",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31771,6 +32810,7 @@
         "name": "Player & Registeel",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31849,6 +32889,7 @@
         "name": "Player & Solgaleo",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -31928,6 +32969,7 @@
         "name": "Player & Torchic",
         "region": "pasio",
         "tracker_key": "001",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32006,6 +33048,7 @@
         "name": "Plumeria & Salazzle",
         "region": "alola",
         "tracker_key": "087",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32084,6 +33127,7 @@
         "name": "Plumeria & Gengar",
         "region": "alola",
         "tracker_key": "087",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32162,6 +33206,7 @@
         "name": "Poppy & Tinkaton",
         "region": "paldea",
         "tracker_key": "204",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32240,6 +33285,7 @@
         "name": "Poppy (New Year's 2025) & Steelix★",
         "region": "paldea",
         "tracker_key": "204",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32318,6 +33364,7 @@
         "name": "Proton & Golbat",
         "region": "johto",
         "tracker_key": "180",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32397,6 +33444,7 @@
         "name": "Pryce & Dewgong",
         "region": "johto",
         "tracker_key": "013",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32476,6 +33524,7 @@
         "name": "Rachel & Umbreon",
         "region": "pasio",
         "tracker_key": "137",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32554,6 +33603,7 @@
         "name": "Rachel & Gimmighoul",
         "region": "pasio",
         "tracker_key": "137",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32632,6 +33682,7 @@
         "name": "Raihan & Duraludon",
         "region": "galar",
         "tracker_key": "123",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32710,6 +33761,7 @@
         "name": "Raihan (Anniversary 2022) & Flygon",
         "region": "galar",
         "tracker_key": "123",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32788,6 +33840,7 @@
         "name": "Raihan (New Year's 2025 & Sandaconda",
         "region": "galar",
         "tracker_key": "123",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32867,6 +33920,7 @@
         "name": "Raihan & Gigalith",
         "region": "galar",
         "tracker_key": "123",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -32946,6 +34000,7 @@
         "name": "Ramos & Victreebel",
         "region": "kalos",
         "tracker_key": "050",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33024,6 +34079,7 @@
         "name": "Red & Snorlax",
         "region": "kanto",
         "tracker_key": "084",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33102,6 +34158,7 @@
         "name": "Red & Venusaur",
         "region": "kanto",
         "tracker_key": "084",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33180,6 +34237,7 @@
         "name": "Red (Champion) & Articuno",
         "region": "kanto",
         "tracker_key": "084",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33258,6 +34316,7 @@
         "name": "Sygna Suit Red & Charizard",
         "region": "kanto",
         "tracker_key": "084",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33336,6 +34395,7 @@
         "name": "Sygna Suit Red (Thunderbolt) & Pikachu",
         "region": "kanto",
         "tracker_key": "084",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33414,6 +34474,7 @@
         "name": "Rei & Hisuian Decidueye",
         "region": "hisui",
         "tracker_key": "184",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33492,6 +34553,7 @@
         "name": "Rei (Academy) & Hisuian Braviary",
         "region": "hisui",
         "tracker_key": "184",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33570,6 +34632,7 @@
         "name": "Rika & Clodsire",
         "region": "paldea",
         "tracker_key": "201",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33649,6 +34712,7 @@
         "name": "Rika & Whiscash",
         "region": "paldea",
         "tracker_key": "201",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33727,6 +34791,7 @@
         "name": "Riley & Lucario",
         "region": "sinnoh",
         "tracker_key": "195",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33806,6 +34871,7 @@
         "name": "Roark & Rampardos",
         "region": "sinnoh",
         "tracker_key": "030",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33884,6 +34950,7 @@
         "name": "Rosa & Serperior",
         "region": "unova",
         "tracker_key": "039",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -33962,6 +35029,7 @@
         "name": "Rosa (Academy) & Deerling Spring Form",
         "region": "unova",
         "tracker_key": "039",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34040,6 +35108,7 @@
         "name": "Rosa (Holiday 2019 & Delibird",
         "region": "unova",
         "tracker_key": "039",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34118,6 +35187,7 @@
         "name": "Rosa (Champion & Meloetta",
         "region": "unova",
         "tracker_key": "039",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34196,6 +35266,7 @@
         "name": "Rosa (Special Costume) & Shaymin Sky Forme",
         "region": "unova",
         "tracker_key": "039",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34275,6 +35346,7 @@
         "name": "Rosa & Dewott",
         "region": "unova",
         "tracker_key": "039",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34353,6 +35425,7 @@
         "name": "Rose & Copperajah",
         "region": "galar",
         "tracker_key": "169",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34432,6 +35505,7 @@
         "name": "Rose & Perrserker",
         "region": "galar",
         "tracker_key": "169",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34511,6 +35585,7 @@
         "name": "Roxanne & Probopass",
         "region": "hoenn",
         "tracker_key": "019",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34589,6 +35664,7 @@
         "name": "Roxanne (Fall 2023) & Runerigus",
         "region": "hoenn",
         "tracker_key": "019",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34668,6 +35744,86 @@
         "name": "Roxie & Scolipede",
         "region": "unova",
         "tracker_key": "044",
+        "damage_types": "physical",
+        "z_arenas": {
+            "azelf": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cobalion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "cresselia": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "entei": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latias": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "latios": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "moltres": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "raikou": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "regirock": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "registeel": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tapubulu": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "terrakion": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "tornadus": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            },
+            "uxie": {
+                "matchup": "",
+                "soloInvestment": "",
+                "soloLink": ""
+            }
+        }
+    },
+    "Roxie_Gym": {
+        "filters": "roxie-trainer poison unova gym-leader artistic undella-town",
+        "name": "Roxie & Garbodor",
+        "region": "unova",
+        "tracker_key": "044",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34746,6 +35902,7 @@
         "name": "Sygna Suit Roxie & Toxtricity (Amped Forme)",
         "region": "unova",
         "tracker_key": "044",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34824,6 +35981,7 @@
         "name": "Ryuki & Turtonator",
         "region": "alola",
         "tracker_key": "186",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34902,6 +36060,7 @@
         "name": "Sabrina & Alakazam",
         "region": "kanto",
         "tracker_key": "085",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -34980,6 +36139,7 @@
         "name": "Sabrina (New Year's 2022 & Chingling",
         "region": "kanto",
         "tracker_key": "085",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35058,6 +36218,7 @@
         "name": "Samson Oak & Alolan Exeggutor",
         "region": "alola",
         "tracker_key": "232",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35137,6 +36298,7 @@
         "name": "Sawyer & Honchkrow",
         "region": "pasio",
         "tracker_key": "138",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35215,6 +36377,7 @@
         "name": "Sawyer & Gimmighoul",
         "region": "pasio",
         "tracker_key": "138",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35293,6 +36456,7 @@
         "name": "Selene & Decidueye",
         "region": "alola",
         "tracker_key": "121",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35371,6 +36535,7 @@
         "name": "Selene (Alt.) & Nihilego",
         "region": "alola",
         "tracker_key": "121",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35449,6 +36614,7 @@
         "name": "Selene (Champion) & Necrozma Dawn Wings★",
         "region": "alola",
         "tracker_key": "121",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35527,6 +36693,7 @@
         "name": "Selene (Special Costume) & Scizor",
         "region": "alola",
         "tracker_key": "121",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35605,6 +36772,7 @@
         "name": "Selene & Umbreon",
         "region": "alola",
         "tracker_key": "121",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35683,6 +36851,7 @@
         "name": "Serena & Delphox",
         "region": "kalos",
         "tracker_key": "096",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35761,6 +36930,7 @@
         "name": "Serena (Champion) & Greninja",
         "region": "kalos",
         "tracker_key": "096",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35839,6 +37009,7 @@
         "name": "Serena (Palentine's 2021 & Whimsicott",
         "region": "kalos",
         "tracker_key": "096",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35917,6 +37088,7 @@
         "name": "Sygna Suit Serena & Zygarde (50% Forme)",
         "region": "kalos",
         "tracker_key": "096",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -35996,6 +37168,7 @@
         "name": "Serena & Fletchling",
         "region": "kalos",
         "tracker_key": "096",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36074,6 +37247,7 @@
         "name": "Shauna & Chesnaught",
         "region": "kalos",
         "tracker_key": "162",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36152,6 +37326,7 @@
         "name": "Shauna & Sylveon",
         "region": "kalos",
         "tracker_key": "162",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36227,9 +37402,10 @@
     },
     "Shauna_SC": {
         "filters": "shauna-trainer steel kalos special-costume pigtails support exr-none",
-        "name": "Shauna (Special Costume & Klefki",
+        "name": "Shauna (Special Costume) & Klefki",
         "region": "kalos",
         "tracker_key": "162",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36309,6 +37485,7 @@
         "name": "Shauna & Delcatty",
         "region": "kalos",
         "tracker_key": "162",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36388,6 +37565,7 @@
         "name": "Shauntal & Chandelure",
         "region": "unova",
         "tracker_key": "046",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36466,6 +37644,7 @@
         "name": "Shauntal (Fall 2024) & Froslass",
         "region": "unova",
         "tracker_key": "046",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36544,6 +37723,7 @@
         "name": "Sidney & Absol",
         "region": "hoenn",
         "tracker_key": "140",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36623,6 +37803,7 @@
         "name": "Siebold & Clawitzer",
         "region": "kalos",
         "tracker_key": "052",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36701,6 +37882,7 @@
         "name": "Siebold (Holiday 2019) & Octillery",
         "region": "kalos",
         "tracker_key": "052",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36779,6 +37961,7 @@
         "name": "Silver & Ho-Oh",
         "region": "johto",
         "tracker_key": "091",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36857,6 +38040,7 @@
         "name": "Arc Suit Silver & Ho-Oh",
         "region": "johto",
         "tracker_key": "091",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -36935,6 +38119,7 @@
         "name": "Silver & Crobat",
         "region": "johto",
         "tracker_key": "091",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37013,6 +38198,7 @@
         "name": "Silver (Champion) & Tyranitar★",
         "region": "johto",
         "tracker_key": "091",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37091,6 +38277,7 @@
         "name": "Sygna Suit Silver & Sneasel",
         "region": "johto",
         "tracker_key": "091",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37170,6 +38357,7 @@
         "name": "Silver & Feraligatr",
         "region": "johto",
         "tracker_key": "091",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37248,6 +38436,7 @@
         "name": "Sina & Glaceon",
         "region": "kalos",
         "tracker_key": "218",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37327,6 +38516,7 @@
         "name": "Skyla & Swanna",
         "region": "unova",
         "tracker_key": "041",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37405,6 +38595,7 @@
         "name": "Skyla (Anniversary 2022) & Tornadus (Therian Forme)",
         "region": "unova",
         "tracker_key": "041",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37480,9 +38671,10 @@
     },
     "Skyla_H": {
         "filters": "skyla-trainer flying unova seasonal-outfit seasonal-scout undella-town tech exr-none",
-        "name": "Skyla (Holiday 2020 & Togekiss",
+        "name": "Skyla (Holiday 2020) & Togekiss",
         "region": "unova",
         "tracker_key": "041",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37561,6 +38753,7 @@
         "name": "Skyla (Summer 2025) & Jumpluff",
         "region": "unova",
         "tracker_key": "041",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37640,6 +38833,7 @@
         "name": "Skyla & Unfezant",
         "region": "unova",
         "tracker_key": "041",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37718,6 +38912,7 @@
         "name": "Sonia & Yamper",
         "region": "galar",
         "tracker_key": "144",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37796,6 +38991,7 @@
         "name": "Sonia (Special Costume) & Tsareena★",
         "region": "galar",
         "tracker_key": "144",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37875,6 +39071,7 @@
         "name": "Sophocles & Togedemaru",
         "region": "alola",
         "tracker_key": "055",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -37954,6 +39151,7 @@
         "name": "Sophocles & Alolan Golem",
         "region": "alola",
         "tracker_key": "055",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38032,6 +39230,7 @@
         "name": "Steven & Metagross",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38110,6 +39309,7 @@
         "name": "Steven (Anniversary 2021) & Rayquaza★",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38188,6 +39388,7 @@
         "name": "Arc Suit Steven & Metagross",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38266,6 +39467,7 @@
         "name": "Steven & Skarmory",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38344,6 +39546,7 @@
         "name": "Steven (Summer 2020) & Alolan Sandslash",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38419,9 +39622,10 @@
     },
     "Steven_SC": {
         "filters": "steven-trainer normal hoenn special-costume rock-lover space-cadet tech exr-none shiny",
-        "name": "Steven (Special Costume & Stoutland★",
+        "name": "Steven (Special Costume) & Stoutland★",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38500,6 +39704,7 @@
         "name": "Sygna Suit Steven & Deoxys (Normal Forme)",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38578,6 +39783,7 @@
         "name": "Sygna Suit Steven & Deoxys (Attack Forme)",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38656,6 +39862,7 @@
         "name": "Sygna Suit Steven & Deoxys (Defense Forme",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38734,6 +39941,7 @@
         "name": "Sygna Suit Steven & Deoxys (Speed Forme)",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38813,6 +40021,7 @@
         "name": "Steven & Cradily",
         "region": "hoenn",
         "tracker_key": "081",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38891,6 +40100,7 @@
         "name": "Professor Sycamore & Xerneas",
         "region": "kalos",
         "tracker_key": "116",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -38966,9 +40176,10 @@
     },
     "Sycamore_H": {
         "filters": "sycamore-trainer grass kalos seasonal-outfit seasonal-scout knowledgeable researcher support exr-strike",
-        "name": "Professor Sycamore (Holiday 2023 & Gogoat",
+        "name": "Professor Sycamore (Holiday 2023) & Gogoat",
         "region": "kalos",
         "tracker_key": "116",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39048,6 +40259,7 @@
         "name": "Professor Sycamore & Bulbasaur",
         "region": "kalos",
         "tracker_key": "116",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39127,6 +40339,7 @@
         "name": "Tate & Solrock",
         "region": "hoenn",
         "tracker_key": "024",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39205,6 +40418,7 @@
         "name": "Tate (Summer 2023) & Jirachi",
         "region": "hoenn",
         "tracker_key": "024",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39281,9 +40495,10 @@
     "Teddy": {
         "base_star": 3,
         "filters": "teddy-trainer bug sinnoh nature-lover support exr-none event shiny",
-        "name": "Teddy (Hiker & Rellor★",
+        "name": "Teddy (Hiker) & Rellor★",
         "region": "sinnoh",
         "tracker_key": "229",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39363,6 +40578,7 @@
         "name": "Thorton & Bronzong",
         "region": "sinnoh",
         "tracker_key": "036",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39441,6 +40657,7 @@
         "name": "Thorton & Magnezone",
         "region": "sinnoh",
         "tracker_key": "036",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39519,6 +40736,7 @@
         "name": "Tierno & Crawdaunt",
         "region": "kalos",
         "tracker_key": "197",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39597,6 +40815,7 @@
         "name": "Tierno & Talonflame",
         "region": "kalos",
         "tracker_key": "197",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39676,6 +40895,7 @@
         "name": "Tina & Flareon",
         "region": "pasio",
         "tracker_key": "176",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39754,6 +40974,7 @@
         "name": "Trevor & Florges",
         "region": "kalos",
         "tracker_key": "214",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39833,6 +41054,7 @@
         "name": "Valerie & Sylveon",
         "region": "kalos",
         "tracker_key": "083",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39912,6 +41134,7 @@
         "name": "Valerie & Mawile",
         "region": "kalos",
         "tracker_key": "083",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -39990,6 +41213,7 @@
         "name": "Victor & Rillaboom",
         "region": "galar",
         "tracker_key": "157",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40068,6 +41292,7 @@
         "name": "Victor & Spectrier",
         "region": "galar",
         "tracker_key": "157",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40146,6 +41371,7 @@
         "name": "Victor (Palentine's 2024 & Greedent",
         "region": "galar",
         "tracker_key": "157",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40225,6 +41451,7 @@
         "name": "Viola & Masquerain",
         "region": "kalos",
         "tracker_key": "060",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40303,6 +41530,7 @@
         "name": "Viola (Holiday 2023) & Vivillon",
         "region": "kalos",
         "tracker_key": "060",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40381,6 +41609,7 @@
         "name": "Volkner & Luxray",
         "region": "sinnoh",
         "tracker_key": "105",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40459,6 +41688,7 @@
         "name": "Volkner (New Year's 2022) & Electivire",
         "region": "sinnoh",
         "tracker_key": "105",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40538,6 +41768,7 @@
         "name": "Volkner & Raichu",
         "region": "sinnoh",
         "tracker_key": "105",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40616,6 +41847,7 @@
         "name": "Volo & Togepi",
         "region": "hisui",
         "tracker_key": "199",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40695,6 +41927,7 @@
         "name": "Volo & Gible",
         "region": "hisui",
         "tracker_key": "199",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40773,6 +42006,7 @@
         "name": "Wallace & Milotic",
         "region": "hoenn",
         "tracker_key": "090",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40851,6 +42085,7 @@
         "name": "Wallace (New Year's 2024) & Blacephalon",
         "region": "hoenn",
         "tracker_key": "090",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -40929,6 +42164,7 @@
         "name": "Wally & Gallade",
         "region": "hoenn",
         "tracker_key": "092",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41007,6 +42243,7 @@
         "name": "Wally & Altaria",
         "region": "hoenn",
         "tracker_key": "092",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41085,6 +42322,7 @@
         "name": "Sygna Suit Wally & Gardevoir★",
         "region": "hoenn",
         "tracker_key": "092",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41164,6 +42402,7 @@
         "name": "Wally & Delcatty",
         "region": "hoenn",
         "tracker_key": "092",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41243,6 +42482,7 @@
         "name": "Whitney & Miltank",
         "region": "johto",
         "tracker_key": "012",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41321,6 +42561,7 @@
         "name": "Whitney & Wigglytuff",
         "region": "johto",
         "tracker_key": "012",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41396,9 +42637,10 @@
     },
     "Whitney_H": {
         "filters": "whitney-trainer normal johto gym-leader seasonal-outfit seasonal-scout pokeathlete tech exr-none",
-        "name": "Whitney (Holiday 2022 & Sawsbuck",
+        "name": "Whitney (Holiday 2022) & Sawsbuck",
         "region": "johto",
         "tracker_key": "012",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41478,6 +42720,7 @@
         "name": "Wikstrom & Aegislash",
         "region": "kalos",
         "tracker_key": "053",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41557,6 +42800,7 @@
         "name": "Will & Xatu",
         "region": "johto",
         "tracker_key": "016",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41636,6 +42880,7 @@
         "name": "Will & Slowbro",
         "region": "johto",
         "tracker_key": "016",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41715,6 +42960,7 @@
         "name": "Winona & Pelipper",
         "region": "hoenn",
         "tracker_key": "023",
+        "damage_types": "special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41793,6 +43039,7 @@
         "name": "Winona & Altaria",
         "region": "hoenn",
         "tracker_key": "023",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41872,6 +43119,7 @@
         "name": "Wulfric & Avalugg",
         "region": "kalos",
         "tracker_key": "051",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -41950,6 +43198,7 @@
         "name": "Zinnia & Rayquaza",
         "region": "hoenn",
         "tracker_key": "080",
+        "damage_types": "physical special",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -42029,6 +43278,7 @@
         "name": "Zinnia & Salamence",
         "region": "hoenn",
         "tracker_key": "080",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
@@ -42107,6 +43357,7 @@
         "name": "Zinnia (Special Costume) & Thievul",
         "region": "hoenn",
         "tracker_key": "080",
+        "damage_types": "physical",
         "z_arenas": {
             "azelf": {
                 "matchup": "",
