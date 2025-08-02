@@ -215,6 +215,10 @@ const TierListWAG = () => {
         exrSelector.current.clearValue();
         $('input').prop('checked', false);
 
+        selectedAcquisitionMethods = {};
+        selectedChangelogFilters = {};
+        selectedDamageTypes = {};
+
         $('.not-found').removeClass('not-found');
     }
     
