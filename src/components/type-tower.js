@@ -255,7 +255,7 @@ const TypeTower = (type) => {
     }
 
     function getWeaknessImages(imgString) {
-        return imgString.split(" ").map((type) => (<img src={getImageUrl(type)} className="type-weakness" alt={type} />));
+        return (imgString.charAt(0).toLowerCase() + imgString.slice(1)).split(" ").map((type) => (<img src={getImageUrl(type)} className="type-weakness" alt={type} />));
     }
 
     function getImageUrl(file) {
@@ -285,7 +285,6 @@ const TypeTower = (type) => {
             }
             return translation;
         }
-        console.log(passive);
         return passive;
     }
 
