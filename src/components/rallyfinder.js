@@ -24,12 +24,8 @@ const RallyFinder = () => {
                     If you see a stage that isn't covered and you can get a screenshot of it, please reach out to me @adeptcs on Discord so that we can cover these more extensively.
                 </p>
                 <p>
-                    The following stage screenshots were provided by other users:
+                    Many stage images are from my own Battle Rally runs, but several were provided by other Discord users: @sages, @aurochsaway, @tonystark0189, and @espeon_196.
                 </p>
-                <ul>
-                    <li key="sages-credit">Battle Challenge (from The Light Devourer), Battle Challenge (from Galar's Poké Ball Enthusiast): @sages</li>
-                    <li key="aurochs-credit">Battle Challenge (from Sub-zero - My Past, My Future): @aurochsaway</li>
-                </ul>
                 <h3>Jump to Section</h3>
                 <Link to="#normal-stages">Areas 1-9</Link><br />
                 <Link to="#ultimate-battle-stages">Area 10 (Ultimate Battles)</Link>

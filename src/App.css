@@ -149,7 +149,7 @@
             width: 95%;
             
             > * {
-                width: 7%;
+                width: calc(98%/15);
                 border: 1px solid gray;
 
                 @media (prefers-color-scheme: dark) {
@@ -218,6 +218,10 @@
       
         .green {
             background: lightgreen;
+        }
+
+        .blue {
+            background: lightblue;
         }
       
         .black {
