@@ -157,9 +157,16 @@
         "tracker_key": "178"
     },
     "Arven": {
-        "damage_types": "physical special",
+        "damage_types": "physical",
         "filters": "arven-trainer dark paldea rival cook knowledgeable support exr-tech pokefair has-lodge",
         "name": "Arven & Mabosstiff",
+        "region": "paldea",
+        "tracker_key": "210"
+    },
+    "Arven_H": {
+        "damage_types": "special",
+        "filters": "arven-trainer fire paldea rival seasonal-outfit cook tech exr-support",
+        "name": "Arven (Holiday 2025) & Scovillain",
         "region": "paldea",
         "tracker_key": "210"
     },
@@ -628,6 +635,13 @@
         "damage_types": "physical special",
         "filters": "carmine-trainer grass paldea rival battle-partner support exr-field pokefair has-lodge",
         "name": "Carmine & Sinistcha (Tera Grass)",
+        "region": "paldea",
+        "tracker_key": "233"
+    },
+    "Carmine_SS": {
+        "damage_types": "special",
+        "filters": "carmine-trainer poison paldea rival sygna-suit strike exr-sprint ex-master-fair",
+        "name": "Sygna Suit Carmine & Pecharunt",
         "region": "paldea",
         "tracker_key": "233"
     },
@@ -1584,6 +1598,13 @@
         "region": "unova",
         "tracker_key": "067"
     },
+    "Hilbert_NC": {
+        "damage_types": "special",
+        "filters": "hilbert-trainer ice unova main-character champion cape field exr-strike ex-master-fair",
+        "name": "Hilbert (Champion) & Kyurem White",
+        "region": "unova",
+        "tracker_key": "067"
+    },
     "Hilbert_F": {
         "damage_types": "physical",
         "filters": "hilbert-trainer dark unova seasonal-outfit seasonal-scout sweet-tooth strike exr-none",
@@ -1614,8 +1635,23 @@
     },
     "Hilda": {
         "damage_types": "physical",
-        "filters": "hilda-trainer fire unova main-character unova-adventurer passionate-spirit strike exr-none spotlight ticket",
+        "filters": "hilda-trainer fire unova main-character unova-adventurer passionate-spirit strike exr-none spotlight ticket has-lodge",
         "name": "Hilda & Emboar",
+        "region": "unova",
+        "tracker_key": "068"
+    },
+    "Hilda_NC": {
+        "damage_types": "physical",
+        "filters": "hilda-trainer psychic unova main-character champion cape strike exr-sprint ex-master-fair",
+        "name": "Hilda (Champion) & Iron Leaves",
+        "region": "unova",
+        "tracker_key": "068"
+    },
+    "Hilda_TL": {
+        "base_star": 4,
+        "damage_types": "physical",
+        "filters": "hilda-trainer fighting unova main-character unova-adventurer passionate-spirit support exr-none lodge-pair lodge-free",
+        "name": "Hilda & Mienfoo",
         "region": "unova",
         "tracker_key": "068"
     },
@@ -2167,6 +2203,13 @@
         "damage_types": "special",
         "filters": "lance-trainer dragon kanto champion cape tech exr-none variety",
         "name": "Lance & Dragonair",
+        "region": "kanto",
+        "tracker_key": "077"
+    },
+    "Lance_Var2": {
+        "damage_types": "physical",
+        "filters": "lance-trainer flying kanto champion cape strike exr-field variety",
+        "name": "Lance & Charizard",
         "region": "kanto",
         "tracker_key": "077"
     },

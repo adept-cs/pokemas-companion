@@ -54,7 +54,7 @@ const TierListWAG = () => {
             {value: 'jacq-trainer', label: 'Jacq'},{value: 'james-trainer', label: 'James'},{value: 'janine-trainer', label: 'Janine'},{value: 'jasmine-trainer', label: 'Jasmine'},{value: 'jessie-trainer', label: 'Jessie'},{value: 'juliana-trainer', label: 'Juliana'},
             {value: 'kabu-trainer', label: 'Kabu'},{value: 'kahili-trainer', label: 'Kahili'},{value: 'kali-trainer', label: 'Kali'},{value: 'karen-trainer', label: 'Karen'},{value: 'katherine-trainer', label: 'Katherine'},{value: 'kiawe-trainer', label: 'Kiawe'},{value: 'kieran-trainer', label: 'Kieran'},{value: 'klara-trainer', label: 'Klara'},{value: 'koga-trainer', label: 'Koga'},{value: 'korrina-trainer', label: 'Korrina'},{value: 'kris-trainer', label: 'Kris'},{value: 'kukui-trainer', label: 'Professor Kukui'},
             {value: 'lacey-trainer', label: 'Lacey'},{value: 'lana-trainer', label: 'Lana'},{value: 'lance-trainer', label: 'Lance'},{value: 'larry-trainer', label: 'Larry'},{value: 'leaf-trainer', label: 'Leaf'},{value: 'lear-trainer', label: 'Lear'},{value: 'lenora-trainer', label: 'Lenora'},{value: 'leon-trainer', label: 'Leon'},{value: 'lillie-trainer', label: 'Lillie'},{value: 'lisia-trainer', label: 'Lisia'},{value: 'liza-trainer', label: 'Liza'},{value: 'looker-trainer', label: 'Looker'},{value: 'lorelei-trainer', label: 'Lorelei'},{value: 'ltsurge-trainer', label: 'Lt. Surge'},{value: 'lucas-trainer', label: 'Lucas'},{value: 'lucian-trainer', label: 'Lucian'},{value: 'lucy-trainer', label: 'Lucy'},{value: 'lusamine-trainer', label: 'Lusamine'},{value: 'lyra-trainer', label: 'Lyra'},{value: 'lysandre-trainer', label: 'Lysandre'},
-            {value: 'mai-trainer', label: 'Mai'},{value: 'mallow-trainer', label: 'Mallow'},{value: 'malva-trainer', label: 'Malva'},{value: 'marley-trainer', label: 'Marley'},{value: 'marlon-trainer', label: 'Marlon'},{value: 'marnie-trainer', label: 'Marnie'},{value: 'marshal-trainer', label: 'Marshal'},{value: 'maxie-trainer', label: 'Maxie'},{value: 'may-trainer', label: 'May'},{value: 'maylene-trainer', label: 'Maylene'},{value: 'mela-trainer', label: 'Mela'},{value: 'melony-trainer', label: 'Melony'},{value: 'milo-trainer', label: 'Milo'},{value: 'mina-trainer', label: 'Mina'},{value: 'misty-trainer', label: 'Misty'},{value: 'molayne-trainer', label: 'Molayne'},{value: 'morgan-trainer', label: 'Morgan'},{value: 'morty-trainer', label: 'Morty'},
+            {value: 'mai-trainer', label: 'Mai'},{value: 'mallow-trainer', label: 'Mallow'},{value: 'malva-trainer', label: 'Malva'},{value: 'marley-trainer', label: 'Marley'},{value: 'marlon-trainer', label: 'Marlon'},{value: 'marnie-trainer', label: 'Marnie'},{value: 'marshal-trainer', label: 'Marshal'},{value: 'maxie-trainer', label: 'Maxie'},{value: 'may-trainer', label: 'May'},{value: 'maylene-trainer', label: 'Maylene'},{value: 'mela-trainer', label: 'Mela'},{value: 'melony-trainer', label: 'Melony'},{value: 'milo-trainer', label: 'Milo'},{value: 'mina-trainer', label: 'Mina'},{value: 'miriam-trainer', label: 'Miriam'},{value: 'misty-trainer', label: 'Misty'},{value: 'molayne-trainer', label: 'Molayne'},{value: 'morgan-trainer', label: 'Morgan'},{value: 'morty-trainer', label: 'Morty'},
             {value: 'n-trainer', label: 'N'},{value: 'nanu-trainer', label: 'Nanu'},{value: 'naomi-trainer', label: 'Naomi'},{value: 'nate-trainer', label: 'Nate'},{value: 'nemona-trainer', label: 'Nemona'},{value: 'nessa-trainer', label: 'Nessa'},{value: 'nita-trainer', label: 'Nita'},{value: 'noland-trainer', label: 'Noland'},{value: 'norman-trainer', label: 'Norman'},
             {value: 'oak-trainer', label: 'Professor Oak'},{value: 'oleana-trainer', label: 'Oleana'},{value: 'olivia-trainer', label: 'Olivia'},{value: 'olympia-trainer', label: 'Olympia'},{value: 'ortega-trainer', label: 'Ortega'},
             {value: 'palmer-trainer', label: 'Palmer'},{value: 'paulo-trainer', label: 'Paulo'},{value: 'penny-trainer', label: 'Penny'},{value: 'perrin-trainer', label: 'Perrin'},{value: 'petey-trainer', label: 'Petey'},{value: 'petrel-trainer', label: 'Petrel'},{value: 'phoebe-trainer', label: 'Phoebe'},{value: 'piers-trainer', label: 'Piers'},{value: 'player-trainer', label: 'Player'},{value: 'plumeria-trainer', label: 'Plumeria'},{value: 'poppy-trainer', label: 'Poppy'},{value: 'proton-trainer', label: 'Proton'},{value: 'pryce-trainer', label: 'Pryce'},
@@ -241,6 +241,9 @@ const TierListWAG = () => {
                         <ul>
                             <li>
                                 This tierlist is context-agnostic, but does weight gamemodes non-uniformly. Rankings focus highly on performance in Ultimate Battles and Champion Stadium, with Legendary Gauntlet, Damage Challenge, and Battle Rally as secondary considerations in that order.
+                            </li>
+                            <li>
+                                Novelty is valued; sync pairs are rewarded for the things they do uniquely instead of just how efficiently they are as a take on an existing archetype.
                             </li>
                             <li>
                                 Sync pairs are judged somewhat based on the move levels required to function optimally. If a sync pair has a greater reliance on its 3/5, 4/5, or 5/5 sync grid tiles, it's demerited appropriately. Those with stronger kits with less reliance on move levels are the ones in the top rankings.
@@ -460,11 +463,11 @@ const TierListWAG = () => {
                         <br />
                         <div className="other-section">
                             <div className="filter-option">
-                                <input type="checkbox" id="new-changes" onChange={() => toggleChangelog("new-pair")}/>
+                                <input type="checkbox" id="new-changes" onChange={() => toggleChangelog("")}/>
                                 <label htmlFor="new-changes">New sync pairs since the last update</label>
                             </div>
                             <div className="filter-option">
-                                <input type="checkbox" id="grid-changes" onChange={() => toggleChangelog("buffed-pair")}/>
+                                <input type="checkbox" id="grid-changes" onChange={() => toggleChangelog("")}/>
                                 <label htmlFor="grid-changes">Sync pairs receiving a grid expansion, EX/EX Role, or other buff since the last update</label>
                             </div>
                         </div>
@@ -480,14 +483,23 @@ const TierListWAG = () => {
                     <div className="header-row">
                         <h3>Strike</h3>
                         <div className="strike-grid">
-                            <div className="masterball-row tierlist-row">
+                            <div className="shiny-row tierlist-row">
                                 <div className="tier-title">
-                                    <img src={`${process.env.PUBLIC_URL}/images/misc/master-ball.png`} alt="Master Ball"></img>
+                                    <img src={`${process.env.PUBLIC_URL}/images/misc/shiny.png`} alt="Master Ball"></img>
                                 </div>
                                 <div className="tier-content">
                                     {SyncPairIcon("Red_A")}
                                     {SyncPairIcon("Cynthia_Arc", "")}
                                     {SyncPairIcon("Elio_NC", "")}
+                                </div>
+                            </div>
+                            <div className="masterball-row tierlist-row">
+                                <div className="tier-title">
+                                    <img src={`${process.env.PUBLIC_URL}/images/misc/master-ball.png`} alt="Master Ball"></img>
+                                </div>
+                                <div className="tier-content">
+                                    {SyncPairIcon("Blue_Arc", "")}
+                                    {SyncPairIcon("Carmine_SS", "new-pair")}
                                 </div>
                             </div>
                             <div className="ultra3-row tierlist-row">
@@ -496,7 +508,7 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Florian", "")}
+                                    {SyncPairIcon("Hilda_NC", "new-pair")}
                                 </div>
                             </div>
                             <div className="ultra2-row tierlist-row">
@@ -505,8 +517,10 @@ const TierListWAG = () => {
                                     2
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Red_NC", "")}
+                                    {SyncPairIcon("Florian", "")}
                                     {SyncPairIcon("Bianca_NC", "")}
+                                    {SyncPairIcon("Red_NC", "")}
+                                    {SyncPairIcon("Lance_Var2", "new-pair")}
                                 </div>
                             </div>
                             <div className="ultra1-row tierlist-row">
@@ -515,6 +529,7 @@ const TierListWAG = () => {
                                     1
                                 </div>
                                 <div className="tier-content">
+                                    {SyncPairIcon("Marnie_NC", "")}
                                     {SyncPairIcon("Ash", "")}
                                 </div>
                             </div>
@@ -524,11 +539,11 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Marnie_NC", "")}
-                                    {SyncPairIcon("Giacomo", "")}
-                                    {SyncPairIcon("Gladion_SS", "")}
+                                    {SyncPairIcon("Kabu_Aca", "")}
                                     {SyncPairIcon("Gladion_Aca", "")}
-                                    {SyncPairIcon("Juliana", "")}
+                                    {SyncPairIcon("Selene_Alt", "")}
+                                    {SyncPairIcon("Barry_SC", "")}
+                                    {SyncPairIcon("Silver_NC", "")}
                                 </div>
                             </div>
                             <div className="great2-row tierlist-row">
@@ -537,14 +552,15 @@ const TierListWAG = () => {
                                     2
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Selene_Alt", "")}
-                                    {SyncPairIcon("Barry_SC", "")}
+                                    {SyncPairIcon("Gladion_SS", "")}
+                                    {SyncPairIcon("Juliana", "")}
+                                    {SyncPairIcon("Giacomo", "")}
                                     {SyncPairIcon("Nate_NC", "")}
-                                    {SyncPairIcon("Silver_NC", "")}
                                     {SyncPairIcon("Hilda_SS", "")}
                                     {SyncPairIcon("Poppy", "")}
                                     {SyncPairIcon("Irida_SC", "")}
                                     {SyncPairIcon("Lysandre_SS", "")}
+                                    {SyncPairIcon("Red_SS", "buffed-pair")}
                                 </div>
                             </div>
                             <div className="great1-row tierlist-row">
@@ -553,18 +569,17 @@ const TierListWAG = () => {
                                     1
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Eusine", "")}
-                                    {SyncPairIcon("Rose", "")}
-                                    {SyncPairIcon("Candice_Pal", "")}
                                     {SyncPairIcon("Emma", "")}
                                     {SyncPairIcon("Serena_SS", "")}
-                                    {SyncPairIcon("Lance", "")}
-                                    {SyncPairIcon("Red_SS", "")}
-                                    {SyncPairIcon("Gloria", "")}
-                                    {SyncPairIcon("Piers_SS", "")}
+                                    {SyncPairIcon("Candice_Pal", "")}
                                     {SyncPairIcon("Nemona_SS", "")}
                                     {SyncPairIcon("Palmer", "")}
                                     {SyncPairIcon("Lana_SS", "")}
+                                    {SyncPairIcon("Rose", "")}
+                                    {SyncPairIcon("Eusine", "")}
+                                    {SyncPairIcon("Lance", "")}
+                                    {SyncPairIcon("Gloria", "")}
+                                    {SyncPairIcon("Piers_SS", "")}
                                 </div>
                             </div>
                             <div className="poke3-row tierlist-row">
@@ -574,17 +589,19 @@ const TierListWAG = () => {
                                 </div>
                                 <div className="tier-content">
                                     {SyncPairIcon("Liza_S", "")}
+                                    {SyncPairIcon("Steven_A", "")}
+                                    {SyncPairIcon("Ethan_SS", "")}
                                     {SyncPairIcon("Adaman_SC", "")}
                                     {SyncPairIcon("Cynthia", "")}
                                     {SyncPairIcon("Nemona_Ev", "")}
-                                    {SyncPairIcon("Ethan_SS", "")}
-                                    {SyncPairIcon("Cynthia_SS", "")}
                                     {SyncPairIcon("Blue", "")}
                                     {SyncPairIcon("Karen", "")}
                                     {SyncPairIcon("Grimsley_SS", "")}
+                                    {SyncPairIcon("Penny_TL", "")}
+                                    {SyncPairIcon("Skyla_TL", "")}
+                                    {SyncPairIcon("Cynthia_SS", "")}
                                     {SyncPairIcon("Blue_Cl", "")}
-                                    {SyncPairIcon("Steven_A", "")}
-                                    {SyncPairIcon("Chili", "new-pair")}
+                                    {SyncPairIcon("Chili", "")}
                                     {SyncPairIcon("Iono_F", "")}
                                     {SyncPairIcon("Diantha", "")}
                                     {SyncPairIcon("Raihan", "")}
@@ -599,9 +616,8 @@ const TierListWAG = () => {
                                 <div className="tier-content">
                                     {SyncPairIcon("Lisia_NY", "")}
                                     {SyncPairIcon("Sonia_SC", "")}
-                                    {SyncPairIcon("Skyla_TL", "")}
                                     {SyncPairIcon("Emmet_SC", "")}
-                                    {SyncPairIcon("Hugh", "buffed-pair")}
+                                    {SyncPairIcon("Hugh", "")}
                                     {SyncPairIcon("Steven", "")}
                                     {SyncPairIcon("Bea", "")}
                                     {SyncPairIcon("Morty", "")}
@@ -640,6 +656,7 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Archie", "")}
                                     {SyncPairIcon("Maxie", "")}
                                     {SyncPairIcon("Leon", "")}
+                                    {SyncPairIcon("Roxie", "")}
                                     {SyncPairIcon("Petrel", "")}
                                     {SyncPairIcon("Guzma_SC", "")}
                                     {SyncPairIcon("Iono_Ev", "")}
@@ -673,7 +690,6 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Bugsy", "")}
                                     {SyncPairIcon("Noland", "")}
                                     {SyncPairIcon("PlayerM_Pikachu", "")}
-                                    {SyncPairIcon("Roxie", "")}
                                     {SyncPairIcon("Bruno", "")}
                                     {SyncPairIcon("Gloria_S", "")}
                                 </div>
@@ -747,9 +763,9 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Leon_Arc", "")}
-                                    {SyncPairIcon("Red_SST", "")}
-                                    {SyncPairIcon("Dahlia", "")}
+                                    {SyncPairIcon("Lance_Arc", "")}
+                                    {SyncPairIcon("N_Arc", "")}
+                                    {SyncPairIcon("Roxie_SS", "")}
                                 </div>
                             </div>
                             <div className="ultra2-row tierlist-row">
@@ -758,11 +774,10 @@ const TierListWAG = () => {
                                     2
                                 </div>
                                 <div className="tier-content">
+                                    {SyncPairIcon("Red_SST", "")}
+                                    {SyncPairIcon("Leon_Arc", "")}
+                                    {SyncPairIcon("Dahlia", "")}
                                     {SyncPairIcon("Cheren_NC", "")}
-                                    {SyncPairIcon("Roxie_SS", "")}
-                                    {SyncPairIcon("Leaf_NC", "")}
-                                    {SyncPairIcon("Lance_Arc", "")}
-                                    {SyncPairIcon("N_Arc", "")}
                                 </div>
                             </div>
                             <div className="ultra1-row tierlist-row">
@@ -771,13 +786,14 @@ const TierListWAG = () => {
                                     1
                                 </div>
                                 <div className="tier-content">
+                                    {SyncPairIcon("Leaf_NC", "")}
                                     {SyncPairIcon("Serena_NC", "")}
+                                    {SyncPairIcon("Lyra_SS", "")}
                                     {SyncPairIcon("Erika_Pal", "")}
                                     {SyncPairIcon("Wally_SS", "")}
                                     {SyncPairIcon("Brendan_Aca", "")}
-                                    {SyncPairIcon("Klara", "")}
-                                    {SyncPairIcon("Lear", "")}
-                                    {SyncPairIcon("Steven_SS", "")}
+                                    {SyncPairIcon("Irida", "")}
+                                    {SyncPairIcon("Adaman", "")}
                                 </div>
                             </div>
                             <div className="great3-row tierlist-row">
@@ -786,13 +802,12 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Lyra_SS", "")}
+                                    {SyncPairIcon("Klara", "")}
+                                    {SyncPairIcon("Lear", "")}
                                     {SyncPairIcon("Cynthia_SSR", "")}
+                                    {SyncPairIcon("Steven_SS", "")}
                                     {SyncPairIcon("Hau_SS", "")}
-                                    {SyncPairIcon("Adaman", "")}
-                                    {SyncPairIcon("Irida", "")}
                                     {SyncPairIcon("Skyla_A", "")}
-                                    {SyncPairIcon("Oleana", "")}
                                     {SyncPairIcon("N_SS", "")}
                                 </div>
                             </div>
@@ -802,20 +817,18 @@ const TierListWAG = () => {
                                     2
                                 </div>
                                 <div className="tier-content">
+                                    {SyncPairIcon("Oleana", "")}
                                     {SyncPairIcon("Diantha_SS", "")}
-                                    {SyncPairIcon("Hop_NC", "buffed-pair")}
+                                    {SyncPairIcon("Hop_NC", "")}
                                     {SyncPairIcon("Gloria_Alt", "")}
                                     {SyncPairIcon("Roxanne_F", "")}
                                     {SyncPairIcon("Morty_Aca", "")}
                                     {SyncPairIcon("Florian_Aca", "")}
+                                    {SyncPairIcon("Chase_Var", "")}
                                     {SyncPairIcon("Cyrus_SS", "")}
                                     {SyncPairIcon("Hilbert_SS", "")}
                                     {SyncPairIcon("Leon_Alt", "")}
-                                    {SyncPairIcon("Jacq", "")}
                                     {SyncPairIcon("Zinnia_SC", "")}
-                                    {SyncPairIcon("BrycenMan", "")}
-                                    {SyncPairIcon("N_A", "")}
-                                    {SyncPairIcon("Shauntal_F", "")}
                                 </div>
                             </div>
                             <div className="great1-row tierlist-row">
@@ -824,17 +837,25 @@ const TierListWAG = () => {
                                     1
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("May_A", "")}
-                                    {SyncPairIcon("Silver_SS", "")}
+                                    {SyncPairIcon("N_A", "")}
                                     {SyncPairIcon("Gloria_Dojo", "")}
+                                    {SyncPairIcon("Jacq", "")}
+                                    {SyncPairIcon("Hilbert_Var", "")}
+                                    {SyncPairIcon("Lyra_Var", "")}
+                                    {SyncPairIcon("Calem_Var", "")}
+                                    {SyncPairIcon("Elio_Var", "")}
+                                    {SyncPairIcon("Selene_Var", "")}
+                                    {SyncPairIcon("Kris_Var", "")}
+                                    {SyncPairIcon("Hilda_Var", "")}
+                                    {SyncPairIcon("Lucas_Var", "")}
+                                    {SyncPairIcon("Silver_SS", "")}
+                                    {SyncPairIcon("Arven_H", "new-pair")}
+                                    {SyncPairIcon("Shauntal_F", "")}
+                                    {SyncPairIcon("BrycenMan", "")}
+                                    {SyncPairIcon("May_A", "")}
                                     {SyncPairIcon("May_SS", "")}
                                     {SyncPairIcon("Florian_Ev", "")}
                                     {SyncPairIcon("Steven_SC", "")}
-                                    {SyncPairIcon("Marnie_Pal", "")}
-                                    {SyncPairIcon("Elesa_Cl", "")}
-                                    {SyncPairIcon("Dexio", "")}
-                                    {SyncPairIcon("Lucas", "")}
-                                    {SyncPairIcon("Raihan_A", "")}
                                     {SyncPairIcon("Ariana", "")}
                                 </div>
                             </div>
@@ -844,25 +865,19 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Lyra_Var", "")}
-                                    {SyncPairIcon("Elio_Var", "")}
-                                    {SyncPairIcon("Selene_Var", "")}
-                                    {SyncPairIcon("Hilbert_Var", "")}
-                                    {SyncPairIcon("Calem_Var", "")}
-                                    {SyncPairIcon("Kris_Var", "")}
-                                    {SyncPairIcon("Hilda_Var", "")}
-                                    {SyncPairIcon("Lucas_Var", "")}
+                                    {SyncPairIcon("Marnie_Pal", "")}
+                                    {SyncPairIcon("Dexio", "")}
                                     {SyncPairIcon("Leaf_SS", "")}
-                                    {SyncPairIcon("Bede", "")}
-                                    {SyncPairIcon("Gordie", "")}
-                                    {SyncPairIcon("Bianca", "")}
+                                    {SyncPairIcon("Elesa_Cl", "")}
+                                    {SyncPairIcon("Lucas", "")}
+                                    {SyncPairIcon("Raihan_A", "")}
                                     {SyncPairIcon("Tate_S", "")}
-                                    {SyncPairIcon("Iris_Alt", "")}
-                                    {SyncPairIcon("Gladion", "")}
                                     {SyncPairIcon("Colress", "")}
+                                    {SyncPairIcon("Gladion", "")}
+                                    {SyncPairIcon("Bianca", "")}
                                     {SyncPairIcon("Korrina_SS", "")}
                                     {SyncPairIcon("Diantha_SC", "")}
-                                    {SyncPairIcon("Clive", "")}
+                                    {SyncPairIcon("Gordie", "")}
                                 </div>
                             </div>
                             <div className="poke2-row tierlist-row">
@@ -871,16 +886,20 @@ const TierListWAG = () => {
                                     2
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Whitney_H", "")}
+                                    {SyncPairIcon("Bede", "")}
                                     {SyncPairIcon("Ingo_SC", "")}
                                     {SyncPairIcon("Courtney", "")}
                                     {SyncPairIcon("Iris_F", "")}
                                     {SyncPairIcon("Ryuki", "")}
                                     {SyncPairIcon("Volkner", "")}
+                                    {SyncPairIcon("May", "")}
+                                    {SyncPairIcon("Whitney_H", "")}
+                                    {SyncPairIcon("Iris_Alt", "")}
+                                    {SyncPairIcon("MaskedRoyal", "buffed-pair")}
+                                    {SyncPairIcon("Clive", "")}
                                     {SyncPairIcon("Dawn_NY", "")}
                                     {SyncPairIcon("Rosa_SC", "")}
                                     {SyncPairIcon("Bertha", "")}
-                                    {SyncPairIcon("May", "")}
                                     {SyncPairIcon("Kiawe_Var", "")}
                                     {SyncPairIcon("Brendan_TL", "")}
                                     {SyncPairIcon("Marnie_Ev", "")}
@@ -896,7 +915,6 @@ const TierListWAG = () => {
                                 <div className="tier-content">
                                     {SyncPairIcon("Lucian", "")}
                                     {SyncPairIcon("Lance_Var", "")}
-                                    {SyncPairIcon("MaskedRoyal", "")}
                                     {SyncPairIcon("Ghetsis", "")}
                                     {SyncPairIcon("Shauna_TL", "")}
                                     {SyncPairIcon("Serena_TL", "")}
@@ -970,9 +988,9 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Silver_TL", "")}
                                     {SyncPairIcon("Brawly", "")}
                                     {SyncPairIcon("Siebold_H", "")}
+                                    {SyncPairIcon("Wallace", "")}
                                     {SyncPairIcon("Eve", "")}
                                     {SyncPairIcon("Falkner_BP", "")}
-                                    {SyncPairIcon("Wallace", "")}
                                     {SyncPairIcon("Marnie_TL", "")}
                                     {SyncPairIcon("Erika", "")}
                                     {SyncPairIcon("Petey", "")}
@@ -1030,9 +1048,10 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Giovanni_SSA", "")}
                                     {SyncPairIcon("Rosa_NC", "")}
                                     {SyncPairIcon("Carmine", "")}
+                                    {SyncPairIcon("Larry_SC", "")}
+                                    {SyncPairIcon("Atticus", "")}
                                 </div>
                             </div>
                             <div className="ultra2-row tierlist-row">
@@ -1041,12 +1060,11 @@ const TierListWAG = () => {
                                     2
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Larry_SC", "")}
-                                    {SyncPairIcon("Atticus", "")}
-                                    {SyncPairIcon("Chase", "")}
-                                    {SyncPairIcon("Mina_SS", "")}
-                                    {SyncPairIcon("Cynthia_SSA", "buffed-pair")}
+                                    {SyncPairIcon("Jasmine_Aca", "")}
+                                    {SyncPairIcon("Giovanni_SSA", "")}
+                                    {SyncPairIcon("Lacey_F", "")}
                                     {SyncPairIcon("Bugsy_H", "")}
+                                    {SyncPairIcon("Chase", "")}
                                 </div>
                             </div>
                             <div className="ultra1-row tierlist-row">
@@ -1056,11 +1074,14 @@ const TierListWAG = () => {
                                 </div>
                                 <div className="tier-content">
                                     {SyncPairIcon("Kris_SS", "")}
+                                    {SyncPairIcon("Cynthia_SSA", "")}
+                                    {SyncPairIcon("Mai", "")}
+                                    {SyncPairIcon("Eri", "")}
+                                    {SyncPairIcon("Iris_Aca", "")}
+                                    {SyncPairIcon("Mina_SS", "")}
                                     {SyncPairIcon("Melony_Var", "")}
-                                    {SyncPairIcon("Mai", "new-pair")}
                                     {SyncPairIcon("Cynthia_S", "")}
                                     {SyncPairIcon("Morty_SS", "")}
-                                    {SyncPairIcon("Iris_Aca", "")}
                                     {SyncPairIcon("Rika", "")}
                                 </div>
                             </div>
@@ -1070,16 +1091,18 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Eri", "")}
-                                    {SyncPairIcon("Bede_NC", "")}
-                                    {SyncPairIcon("Lacey_F", "new-pair")}
-                                    {SyncPairIcon("Penny", "")}
                                     {SyncPairIcon("Grusha", "")}
+                                    {SyncPairIcon("Penny", "")}
                                     {SyncPairIcon("Elaine", "")}
+                                    {SyncPairIcon("Bede_NC", "")}
+                                    {SyncPairIcon("Hugh_Aca", "")}
                                     {SyncPairIcon("Elio_Alt", "")}
                                     {SyncPairIcon("Acerola_SS", "")}
                                     {SyncPairIcon("Milo", "")}
-                                    {SyncPairIcon("Ortega", "")}
+                                    {SyncPairIcon("Fantina_Gym", "")}
+                                    {SyncPairIcon("Roxie_Gym", "")}
+                                    {SyncPairIcon("Winona_Gym", "")}
+                                    {SyncPairIcon("Grusha_Gym", "")}
                                 </div>
                             </div>
                             <div className="great2-row tierlist-row">
@@ -1090,23 +1113,19 @@ const TierListWAG = () => {
                                 <div className="tier-content">
                                     {SyncPairIcon("Acerola_S", "")}
                                     {SyncPairIcon("Brendan_SS", "")}
+                                    {SyncPairIcon("Ortega", "")}
+                                    {SyncPairIcon("Miriam", "")}
                                     {SyncPairIcon("Sycamore", "")}
-                                    {SyncPairIcon("Fantina_Gym", "")}
-                                    {SyncPairIcon("Roxie_Gym", "")}
-                                    {SyncPairIcon("Winona_Gym", "")}
                                     {SyncPairIcon("Iono", "")}
                                     {SyncPairIcon("Raihan_NY", "")}
                                     {SyncPairIcon("Red", "")}
                                     {SyncPairIcon("Jasmine_H", "")}
-                                    {SyncPairIcon("Bellelba", "")}
                                     {SyncPairIcon("Falkner_Var", "")}
+                                    {SyncPairIcon("Bellelba", "")}
                                     {SyncPairIcon("Calem_NC", "")}
                                     {SyncPairIcon("Arven", "")}
-                                    {SyncPairIcon("Grusha_Gym", "")}
                                     {SyncPairIcon("Victor_Pal", "")}
                                     {SyncPairIcon("Kabu", "")}
-                                    {SyncPairIcon("Melony", "")}
-                                    {SyncPairIcon("Lana", "")}
                                 </div>
                             </div>
                             <div className="great1-row tierlist-row">
@@ -1123,6 +1142,7 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Oak_Ev", "")}
                                     {SyncPairIcon("SamsonOak", "")}
                                     {SyncPairIcon("Whitney_Gym", "")}
+                                    {SyncPairIcon("Melony", "")}
                                     {SyncPairIcon("Elio", "")}
                                     {SyncPairIcon("Kabu_Gym", "")}
                                     {SyncPairIcon("Sycamore_H", "")}
@@ -1141,6 +1161,8 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Lyra_SC", "")}
                                     {SyncPairIcon("Juliana_Ev", "")}
                                     {SyncPairIcon("Korrina_Gym", "")}
+                                    {SyncPairIcon("Falkner", "")}
+                                    {SyncPairIcon("Lana", "")}
                                     {SyncPairIcon("Mallow_Var", "")}
                                     {SyncPairIcon("Guzma_Var", "")}
                                     {SyncPairIcon("BallGuy", "")}
@@ -1152,10 +1174,11 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Cilan", "new-pair")}
+                                    {SyncPairIcon("Cilan", "")}
                                     {SyncPairIcon("Tierno", "")}
                                     {SyncPairIcon("Shauna", "")}
                                     {SyncPairIcon("Morgan", "")}
+                                    {SyncPairIcon("Hilda_TL", "new-pair")}
                                     {SyncPairIcon("Bea_Pal", "")}
                                     {SyncPairIcon("Lorelei_Var", "")}
                                     {SyncPairIcon("Proton", "")}
@@ -1186,7 +1209,6 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Morty_BP", "")}
                                     {SyncPairIcon("Bruno_Var", "")}
                                     {SyncPairIcon("Flint_BP", "")}
-                                    {SyncPairIcon("Falkner", "")}
                                     {SyncPairIcon("Piers", "")}
                                     {SyncPairIcon("Dawn_TL", "")}
                                     {SyncPairIcon("Carmine_TL", "")}
@@ -1201,7 +1223,7 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Iono_TL", "")}
                                     {SyncPairIcon("Tina", "")}
                                     {SyncPairIcon("Steven_Ev", "")}
-                                    {SyncPairIcon("Piers_TL", "new-pair")}
+                                    {SyncPairIcon("Piers_TL", "")}
                                     {SyncPairIcon("Lyra", "")}
                                 </div>
                             </div>
@@ -1303,8 +1325,8 @@ const TierListWAG = () => {
                                     <img src={`${process.env.PUBLIC_URL}/images/misc/master-ball.png`} alt="Master Ball"></img>
                                 </div>
                                 <div className="tier-content">
+                                    {SyncPairIcon("Alder_Arc", "")}
                                     {SyncPairIcon("Selene_NC", "")}
-                                    {SyncPairIcon("Lear_SS", "buffed-pair")}
                                 </div>
                             </div>
                             <div className="ultra3-row tierlist-row">
@@ -1313,7 +1335,7 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Alder_Arc", "")}
+                                    {SyncPairIcon("Lear_SS", "")}
                                 </div>
                             </div>
                             <div className="ultra2-row tierlist-row">
@@ -1323,7 +1345,6 @@ const TierListWAG = () => {
                                 </div>
                                 <div className="tier-content">
                                     {SyncPairIcon("Ethan_Var", "")}
-                                    {SyncPairIcon("Lillie_H", "")}
                                 </div>
                             </div>
                             <div className="ultra1-row tierlist-row">
@@ -1332,6 +1353,7 @@ const TierListWAG = () => {
                                     1
                                 </div>
                                 <div className="tier-content">
+                                    {SyncPairIcon("Lillie_H", "")}
                                     {SyncPairIcon("Cynthia_Var", "")}
                                     {SyncPairIcon("Hop_Var2", "")}
                                 </div>
@@ -1342,10 +1364,11 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Ingo_SS", "")}
                                     {SyncPairIcon("Bede_SS", "")}
+                                    {SyncPairIcon("Ingo_SS", "")}
                                     {SyncPairIcon("Lillie_Ev", "")}
                                     {SyncPairIcon("Larry", "")}
+                                    {SyncPairIcon("Marley_Pal", "")}
                                 </div>
                             </div>
                             <div className="great2-row tierlist-row">
@@ -1355,8 +1378,7 @@ const TierListWAG = () => {
                                 </div>
                                 <div className="tier-content">
                                     {SyncPairIcon("Arezu", "")}
-                                    {SyncPairIcon("Marley_Pal", "")}
-                                    {SyncPairIcon("Cress", "new-pair")}
+                                    {SyncPairIcon("Cress", "")}
                                     {SyncPairIcon("Clavell", "")}
                                     {SyncPairIcon("Skyla_S", "")}
                                     {SyncPairIcon("Mela", "")}
@@ -1371,6 +1393,7 @@ const TierListWAG = () => {
                                 <div className="tier-content">
                                     {SyncPairIcon("Rei_Aca", "")}
                                     {SyncPairIcon("Sina", "")}
+                                    {SyncPairIcon("Noland_Var", "")}
                                 </div>
                             </div>
                             <div className="poke3-row tierlist-row">
@@ -1383,7 +1406,6 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Marnie_Aca", "")}
                                     {SyncPairIcon("Nemona", "")}
                                     {SyncPairIcon("Grimsley_Kimono_Var", "")}
-                                    {SyncPairIcon("Noland_Var", "")}
                                     {SyncPairIcon("Greta", "")}
                                 </div>
                             </div>
@@ -1455,6 +1477,7 @@ const TierListWAG = () => {
                                 <img src={`${process.env.PUBLIC_URL}/images/misc/shiny.png`} alt="Shiny" className="tier-title"></img>
                                 <div className="tier-content">
                                     {SyncPairIcon("Volo_Alt", "")}
+                                    {SyncPairIcon("Irida_A", "")}
                                     {SyncPairIcon("Ethan_Arc", "")}
                                 </div>
                             </div>
@@ -1463,8 +1486,6 @@ const TierListWAG = () => {
                                     <img src={`${process.env.PUBLIC_URL}/images/misc/master-ball.png`} alt="Master Ball"></img>
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Irida_A", "")}
-                                    {SyncPairIcon("May_NC", "")}
                                 </div>
                             </div>
                             <div className="ultra3-row tierlist-row">
@@ -1473,11 +1494,9 @@ const TierListWAG = () => {
                                     3
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Kieran", "")}
-                                    {SyncPairIcon("Elesa_SSA", "")}
-                                    {SyncPairIcon("Brendan_NC", "")}
-                                    {SyncPairIcon("N_Var", "")}
-                                    {SyncPairIcon("Perrin", "new-pair")}
+                                    {SyncPairIcon("May_NC", "")}
+                                    {SyncPairIcon("Perrin", "")}
+                                    {SyncPairIcon("Hilbert_NC", "new-pair")}
                                 </div>
                             </div>
                             <div className="ultra2-row tierlist-row">
@@ -1486,6 +1505,10 @@ const TierListWAG = () => {
                                     2
                                 </div>
                                 <div className="tier-content">
+                                    {SyncPairIcon("N_Var", "")}
+                                    {SyncPairIcon("Kieran", "")}
+                                    {SyncPairIcon("Elesa_SSA", "")}
+                                    {SyncPairIcon("Brendan_NC", "")}
                                     {SyncPairIcon("Hilbert_Var2", "")}
                                     {SyncPairIcon("Hilda_Var2", "")}
                                 </div>
@@ -1511,9 +1534,6 @@ const TierListWAG = () => {
                                     {SyncPairIcon("Poppy_NY", "")}
                                     {SyncPairIcon("Gardenia_S", "")}
                                     {SyncPairIcon("Marnie_Var", "")}
-                                    {SyncPairIcon("Lucas_Mix", "")}
-                                    {SyncPairIcon("Barry_Mix", "")}
-                                    {SyncPairIcon("Red_Mix", "")}
                                     {SyncPairIcon("Avery", "")}
                                 </div>
                             </div>
@@ -1523,10 +1543,15 @@ const TierListWAG = () => {
                                     2
                                 </div>
                                 <div className="tier-content">
+                                    {SyncPairIcon("Lucas_Mix", "")}
+                                    {SyncPairIcon("Red_Mix", "")}
                                     {SyncPairIcon("Leaf_Mix", "")}
-                                    {SyncPairIcon("Bede_Var", "")}
+                                    {SyncPairIcon("Akari", "")}
                                     {SyncPairIcon("Dawn_Mix", "")}
+                                    {SyncPairIcon("Selene_SC", "")}
+                                    {SyncPairIcon("Bede_Var", "")}
                                     {SyncPairIcon("Emmet_SS", "")}
+                                    {SyncPairIcon("Barry_Mix", "")}
                                     {SyncPairIcon("Hop_Var", "")}
                                 </div>
                             </div>
@@ -1536,10 +1561,9 @@ const TierListWAG = () => {
                                     1
                                 </div>
                                 <div className="tier-content">
-                                    {SyncPairIcon("Selene_SC", "")}
-                                    {SyncPairIcon("Akari", "")}
                                     {SyncPairIcon("Blue_Mix", "")}
                                     {SyncPairIcon("Wallace_NY", "")}
+                                    {SyncPairIcon("Viola_H", "")}
                                 </div>
                             </div>
                             <div className="poke3-row tierlist-row">
@@ -1550,7 +1574,6 @@ const TierListWAG = () => {
                                 <div className="tier-content">
                                     {SyncPairIcon("Rosa_Aca", "")}
                                     {SyncPairIcon("Volo", "")}
-                                    {SyncPairIcon("Viola_H", "")}
                                 </div>
                             </div>
                             <div className="poke2-row tierlist-row">
