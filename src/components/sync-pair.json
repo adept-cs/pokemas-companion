@@ -23,7 +23,7 @@
     "Acerola_S": {
         "damage_types": "special",
         "filters": "acerola-trainer ghost alola trial-giver seasonal-outfit seasonal-scout free-spirit support exr-tech",
-        "name": "Acerola (Summer 2024 & Jellicent",
+        "name": "Acerola (Summer 2024) & Jellicent",
         "region": "alola",
         "tracker_key": "063"
     },
@@ -46,6 +46,13 @@
         "damage_types": "physical",
         "filters": "adaman-trainer grass sinnoh hisui nature-lover knowledgeable tech exr-sprint master-fair has-lodge",
         "name": "Adaman & Leafeon",
+        "region": "hisui",
+        "tracker_key": "166"
+    },
+    "Adaman_Pal": {
+        "damage_types": "physical",
+        "filters": "adaman-trainer fairy sinnoh hisui seasonal-outfit huisui-adventurer strike exr-field",
+        "name": "Adaman (Palentine's 2026) & Sylveon★",
         "region": "hisui",
         "tracker_key": "166"
     },
@@ -110,7 +117,7 @@
     "Allister_F": {
         "damage_types": "special",
         "filters": "allister-trainer ghost galar seasonal-outfit seasonal-scout masked cape support exr-none",
-        "name": "Allister (Fall 2022 & Gourgeist",
+        "name": "Allister (Fall 2022) & Gourgeist",
         "region": "galar",
         "tracker_key": "142"
     },
@@ -158,8 +165,15 @@
     },
     "Arven": {
         "damage_types": "physical",
-        "filters": "arven-trainer dark paldea rival cook knowledgeable support exr-tech pokefair has-lodge",
+        "filters": "arven-trainer dark paldea rival cook knowledgeable support exr-tech pokefair has-lodge event",
         "name": "Arven & Mabosstiff",
+        "region": "paldea",
+        "tracker_key": "210"
+    },
+    "Arven_Aca": {
+        "damage_types": "physical",
+        "filters": "arven-trainer normal paldea rival cook knowledgeable strike exr-tech event",
+        "name": "Arven & Skwovet",
         "region": "paldea",
         "tracker_key": "210"
     },
@@ -173,7 +187,7 @@
     "Arven_TL": {
         "base_star": 4,
         "damage_types": "physical",
-        "filters": "arven-trainer rock paldea rival cook knowledgeable support exr-none lodge-pair lodge-gacha",
+        "filters": "arven-trainer rock paldea rival cook knowledgeable support exr-none lodge-pair lodge-gacha lodge-free",
         "name": "Arven & Nacli",
         "region": "paldea",
         "tracker_key": "210"
@@ -201,8 +215,23 @@
     },
     "BallGuy": {
         "damage_types": "special",
-        "filters": "ballguy-trainer poison galar support exr-none variety",
+        "filters": "ballguy-trainer poison galar support exr-none variety has-lodge",
         "name": "Ball Guy & Amoonguss",
+        "region": "galar",
+        "tracker_key": "165"
+    },
+    "BallGuy_SS": {
+        "damage_types": "special physical",
+        "filters": "ballguy-trainer grass galar sygna-suit field exr-sprint ex-fair",
+        "name": "Sygna Suit Ball Guy & Hisuian Electrode",
+        "region": "galar",
+        "tracker_key": "165"
+    },
+    "BallGuy_TL": {
+        "base_star": 4,
+        "damage_types": "special",
+        "filters": "ballguy-trainer electric galar tech exr-none lodge-pair lodge-gacha",
+        "name": "Ball Guy & Voltorb",
         "region": "galar",
         "tracker_key": "165"
     },
@@ -261,7 +290,7 @@
     "Bea_Pal": {
         "damage_types": "physical",
         "filters": "bea-trainer ice galar seasonal-outfit seasonal-scout scarf sweet-tooth support exr-none",
-        "name": "Bea (Palentine's 2022 & Vanilluxe",
+        "name": "Bea (Palentine's 2022) & Vanilluxe",
         "region": "galar",
         "tracker_key": "126"
     },
@@ -269,6 +298,13 @@
         "damage_types": "special",
         "filters": "bede-trainer fairy galar rival galar-adventurer tech exr-field pokefair",
         "name": "Bede & Hatterene",
+        "region": "galar",
+        "tracker_key": "149"
+    },
+    "Bede_Alt": {
+        "damage_types": "special",
+        "filters": "bede-trainer fairy galar rival galar-adventurer passionate-spirit support exr-sprint ex-fair",
+        "name": "Bede (Alt.) & Galarian Rapidash",
         "region": "galar",
         "tracker_key": "149"
     },
@@ -281,8 +317,8 @@
     },
     "Bede_NC": {
         "damage_types": "special",
-        "filters": "bed-trainer psychic galar champion scarf galar-adventurer support exr-sprint master-fair",
-        "name": "Bede (Champion & Galarian Articuno",
+        "filters": "bede-trainer psychic galar champion scarf galar-adventurer support exr-sprint master-fair",
+        "name": "Bede (Champion) & Galarian Articuno",
         "region": "galar",
         "tracker_key": "149"
     },
@@ -403,8 +439,8 @@
     },
     "Blue_NC": {
         "damage_types": "special",
-        "filters": "blue-trainer electric kanto rival champion pallet-town support exr-strike master-fair",
-        "name": "Blue (Champion & Zapdos",
+        "filters": "blue-trainer electric kanto rival champion pallet-town support exr-strike master-fair event",
+        "name": "Blue (Champion) & Zapdos",
         "region": "kanto",
         "tracker_key": "065"
     },
@@ -423,6 +459,13 @@
         "region": "kanto",
         "tracker_key": "065"
     },
+    "Brassius": {
+        "damage_types": "physical",
+        "filters": "brassius-trainer grass paldea gym-leader artistic free-spirit tech exr-sprint ex-fair",
+        "name": "Brassius & Sudowoodo (Tera Grass)",
+        "region": "paldea",
+        "tracker_key": "243"
+    },
     "Brawly": {
         "base_star": 3,
         "damage_types": "physical",
@@ -440,7 +483,7 @@
     },
     "Brendan_Aca": {
         "damage_types": "physical special",
-        "filters": "brendan-trainer water hoenn main-character space-cadet tech exr-strike event",
+        "filters": "brendan-trainer water hoenn main-character space-cadet pasio-academy tech exr-strike event",
         "name": "Brendan (Academy) & Marshtomp",
         "region": "hoenn",
         "tracker_key": "018"
@@ -472,6 +515,13 @@
         "damage_types": "physical",
         "filters": "brock-trainer rock kanto gym-leader rock-lover body-builder tech exr-none story",
         "name": "Brock & Onix",
+        "region": "kanto",
+        "tracker_key": "002"
+    },
+    "Brock_Arc": {
+        "damage_types": "physical",
+        "filters": "brock-trainer rock kanto gym-leader arc-suit body-builder multi exr-strike arc-fair",
+        "name": "Arc Suit Brock & Onix",
         "region": "kanto",
         "tracker_key": "002"
     },
@@ -561,7 +611,7 @@
     "Burgh_Sp": {
         "damage_types": "physical special",
         "filters": "burgh-trainer fairy unova seasonal-outfit seasonal-scout artistic free-spirit support exr-none",
-        "name": "Burgh (Spring 2021 & Togepi",
+        "name": "Burgh (Spring 2021) & Togepi",
         "region": "unova",
         "tracker_key": "095"
     },
@@ -744,7 +794,7 @@
     "Clair_NY": {
         "damage_types": "special",
         "filters": "clair-trainer dragon johto gym-leader seasonal-outfit seasonal-scout support exr-tech",
-        "name": "Clair (New Year's 2024 & Drampa",
+        "name": "Clair (New Year's 2024) & Drampa",
         "region": "johto",
         "tracker_key": "014"
     },
@@ -900,7 +950,7 @@
         "tracker_key": "198"
     },
     "Dana": {
-        "damage_types": "special",
+        "damage_types": "special physical",
         "filters": "dana-trainer ice kalos battle-facility-foe battle-partner passionate-spirit support exr-none battle-point",
         "name": "Dana & Regice",
         "region": "kalos",
@@ -937,7 +987,7 @@
     "Dawn_Pal": {
         "damage_types": "special",
         "filters": "dawn-trainer fairy sinnoh seasonal-outfit seasonal-scout sweet-tooth cook tech exr-none",
-        "name": "Dawn (Palentine's 2021 & Alcremie",
+        "name": "Dawn (Palentine's 2021) & Alcremie",
         "region": "sinnoh",
         "tracker_key": "094"
     },
@@ -1071,6 +1121,13 @@
         "region": "alola",
         "tracker_key": "122"
     },
+    "Elio_Mix": {
+        "damage_types": "physical",
+        "filters": "elio-trainer ghost alola main-character nature-lover alola-adventurer field exr-strike mix-scout",
+        "name": "Elio & Decidueye",
+        "region": "alola",
+        "tracker_key": "122"
+    },
     "Elio_NC": {
         "damage_types": "physical",
         "filters": "elio-trainer steel alola main-character champion nature-lover strike exr-sprint master-fair shiny",
@@ -1139,7 +1196,7 @@
     "Erika_H": {
         "damage_types": "physical special",
         "filters": "erika-trainer fairy kanto seasonal-outfit seasonal-scout free-spirit fancy-lady support exr-none",
-        "name": "Erika (Holiday 2020 & Comfey",
+        "name": "Erika (Holiday 2020) & Comfey",
         "region": "kanto",
         "tracker_key": "005"
     },
@@ -1274,6 +1331,13 @@
         "region": "paldea",
         "tracker_key": "225"
     },
+    "Florian_A": {
+        "damage_types": "physical",
+        "filters": "florian-trainer grass paldea main-character seasonal-outfit knowledgeable strike exr-support ex-master-fair",
+        "name": "Florian (Anniversary 2026) & Ogerpon (Tera Grass)",
+        "region": "paldea",
+        "tracker_key": "225"
+    },
     "Florian_Aca": {
         "damage_types": "physical special",
         "filters": "florian-trainer normal paldea main-character cook knowledgeable tech exr-support event",
@@ -1349,7 +1413,7 @@
     "Giovanni_SSA": {
         "damage_types": "physical",
         "filters": "giovanni-trainer dark johto villain sygna-suit sunglasses support exr-field master-fair",
-        "name": "Sygna Suit Giovanni (Alt. & Guzzlord",
+        "name": "Sygna Suit Giovanni (Alt.) & Guzzlord",
         "region": "johto",
         "tracker_key": "074"
     },
@@ -1369,7 +1433,7 @@
         "tracker_key": "074"
     },
     "Glacia": {
-        "damage_types": "special",
+        "damage_types": "special physical",
         "filters": "glacia-trainer ice hoenn elite-four grown-woman support exr-none spotlight ticket",
         "name": "Glacia & Glalie",
         "region": "hoenn",
@@ -1384,7 +1448,7 @@
     },
     "Gladion_Aca": {
         "damage_types": "special",
-        "filters": "gladion-trainer normal alola rival special-costume strike exr-tech",
+        "filters": "gladion-trainer normal alola rival special-costume pasio-academy strike exr-tech",
         "name": "Gladion (Academy) & Porygon-Z",
         "region": "alola",
         "tracker_key": "102"
@@ -1485,7 +1549,7 @@
     },
     "Grimsley": {
         "damage_types": "physical special",
-        "filters": "grimsley-trainer dark unova elite-four scarf tech exr-none spotlight ticket",
+        "filters": "grimsley-trainer dark unova elite-four scarf tech exr-none spotlight ticket has-lodge",
         "name": "Grimsley & Liepard",
         "region": "unova",
         "tracker_key": "073"
@@ -1508,6 +1572,14 @@
         "damage_types": "physical",
         "filters": "grimsley-trainer water unova cape sygna-suit strike exr-none spotlight ticket",
         "name": "Sygna Suit Grimsley & Sharpedo",
+        "region": "unova",
+        "tracker_key": "073"
+    },
+    "Grimsley_TL": {
+        "base_star": 4,
+        "damage_types": "physical",
+        "filters": "grimsley-trainer flying unova elite-four scarf strike exr-none lodge-pair lodge-free",
+        "name": "Grimsley & Honchkrow",
         "region": "unova",
         "tracker_key": "073"
     },
@@ -1561,6 +1633,13 @@
         "region": "alola",
         "tracker_key": "058"
     },
+    "Hassel": {
+        "damage_types": "physical",
+        "filters": "hassel-trainer dragon paldea elite-four cape veteran-trainer field exr-strike ex-fair",
+        "name": "Hassel & Baxcalibur",
+        "region": "paldea",
+        "tracker_key": "244"
+    },
     "Hau": {
         "base_star": 4,
         "damage_types": "special",
@@ -1598,17 +1677,17 @@
         "region": "unova",
         "tracker_key": "067"
     },
-    "Hilbert_NC": {
-        "damage_types": "special",
-        "filters": "hilbert-trainer ice unova main-character champion cape field exr-strike ex-master-fair",
-        "name": "Hilbert (Champion) & Kyurem White",
-        "region": "unova",
-        "tracker_key": "067"
-    },
     "Hilbert_F": {
         "damage_types": "physical",
         "filters": "hilbert-trainer dark unova seasonal-outfit seasonal-scout sweet-tooth strike exr-none",
         "name": "Hilbert (Fall 2020) & Mightyena",
+        "region": "unova",
+        "tracker_key": "067"
+    },
+    "Hilbert_NC": {
+        "damage_types": "special",
+        "filters": "hilbert-trainer ice unova main-character champion cape field exr-strike ex-master-fair",
+        "name": "Hilbert (Champion) & Kyurem White",
         "region": "unova",
         "tracker_key": "067"
     },
@@ -1647,18 +1726,10 @@
         "region": "unova",
         "tracker_key": "068"
     },
-    "Hilda_TL": {
-        "base_star": 4,
-        "damage_types": "physical",
-        "filters": "hilda-trainer fighting unova main-character unova-adventurer passionate-spirit support exr-none lodge-pair lodge-free",
-        "name": "Hilda & Mienfoo",
-        "region": "unova",
-        "tracker_key": "068"
-    },
     "Hilda_S": {
         "damage_types": "physical",
         "filters": "hilda-trainer fighting unova seasonal-outfit seasonal-scout passionate-spirit unova-adventurer support exr-none shiny",
-        "name": "Hilda (Summer 2022 & Grapploct★",
+        "name": "Hilda (Summer 2022) & Grapploct★",
         "region": "unova",
         "tracker_key": "068"
     },
@@ -1673,6 +1744,14 @@
         "damage_types": "physical special",
         "filters": "hilda-trainer fire unova main-character sygna-suit unova-adventurer strike exr-support pokefair",
         "name": "Sygna Suit Hilda & Victini",
+        "region": "unova",
+        "tracker_key": "068"
+    },
+    "Hilda_TL": {
+        "base_star": 4,
+        "damage_types": "physical",
+        "filters": "hilda-trainer fighting unova main-character unova-adventurer passionate-spirit support exr-none lodge-pair lodge-free",
+        "name": "Hilda & Mienfoo",
         "region": "unova",
         "tracker_key": "068"
     },
@@ -1734,7 +1813,7 @@
     },
     "Hugh_Aca": {
         "damage_types": "physical special",
-        "filters": "hugh-trainer fire unova rival passionate-spirit support exr-field event",
+        "filters": "hugh-trainer fire unova rival passionate-spirit pasio-academy support exr-field event",
         "name": "Hugh (Academy) & Pignite",
         "region": "unova",
         "tracker_key": "159"
@@ -1748,14 +1827,14 @@
     },
     "Ilima": {
         "damage_types": "physical",
-        "filters": "ilima-trainer normal alola trial-giver knowledgeable field exr-sprint spotlight no-ticket",
+        "filters": "ilima-trainer normal alola trial-giver knowledgeable field exr-sprint spotlight ticket",
         "name": "Ilima & Gumshoos",
         "region": "alola",
         "tracker_key": "228"
     },
     "Ingo": {
         "damage_types": "physical special",
-        "filters": "ingo-trainer ground unova battle-facility-foe battle-partner support exr-tech pokefair",
+        "filters": "ingo-trainer ground unova battle-facility-foe battle-partner support exr-tech pokefair has-lodge",
         "name": "Ingo & Excadrill",
         "region": "unova",
         "tracker_key": "133"
@@ -1763,7 +1842,7 @@
     "Ingo_SC": {
         "damage_types": "physical special",
         "filters": "ingo-trainer bug unova special-costume glasses battle-partner tech exr-none",
-        "name": "Ingo (Special Costume & Accelgor",
+        "name": "Ingo (Special Costume) & Accelgor",
         "region": "unova",
         "tracker_key": "133"
     },
@@ -1771,6 +1850,14 @@
         "damage_types": "special",
         "filters": "ingo-trainer ghost unova battle-facility-foe sygna-suit battle-partner sprint exr-tech pokefair",
         "name": "Sygna Suit Ingo & Chandelure",
+        "region": "unova",
+        "tracker_key": "133"
+    },
+    "Ingo_TL": {
+        "base_star": 4,
+        "damage_types": "physical",
+        "filters": "ingo-trainer rock unova battle-facility-foe battle-partner support exr-none lodge-pair lodge-gacha",
+        "name": "Ingo & Boldore",
         "region": "unova",
         "tracker_key": "133"
     },
@@ -1849,7 +1936,7 @@
     },
     "Iris_Aca": {
         "damage_types": "special",
-        "filters": "iris-trainer ice unova special-costume undella-town support exr-field",
+        "filters": "iris-trainer ice unova special-costume undella-town pasio-academy support exr-field",
         "name": "Iris (Academy) & Lapras",
         "region": "unova",
         "tracker_key": "043"
@@ -1885,7 +1972,7 @@
     },
     "James": {
         "base_star": 3,
-        "damage_types": "special",
+        "damage_types": "special physical",
         "filters": "james-trainer poison kanto villain team-rocket-forever tech exr-none event",
         "name": "James & Weezing",
         "region": "kanto",
@@ -1910,28 +1997,28 @@
     "Jasmine": {
         "damage_types": "physical",
         "filters": "jasmine-trainer steel johto gym-leader pokeathlete contest-lover support exr-none spotlight ticket has-lodge",
-        "name": "Jasmine (Academy) & Steelix",
+        "name": "Jasmine & Steelix",
         "region": "johto",
         "tracker_key": "093"
     },
     "Jasmine_Aca": {
         "damage_types": "special",
-        "filters": "jasmine-trainer bug johto gym-leader special-costume support exr-field",
-        "name": "Jasmine & Forretress",
+        "filters": "jasmine-trainer bug johto gym-leader special-costume pasio-academy support exr-field",
+        "name": "Jasmine (Academy) & Forretress",
         "region": "johto",
         "tracker_key": "093"
     },
     "Jasmine_H": {
         "damage_types": "special",
         "filters": "jasmine-trainer electric johto gym-leader seasonal-outfit seasonal-scout pokeathlete support exr-none",
-        "name": "Jasmine (Holiday 2022 & Ampharos",
+        "name": "Jasmine (Holiday 2022) & Ampharos",
         "region": "johto",
         "tracker_key": "093"
     },
     "Jasmine_SC": {
         "damage_types": "special",
         "filters": "jasmine-trainer steel johto pokeathlete contest-lover special-costume support exr-none",
-        "name": "Jasmine (Special Costume & Celesteela",
+        "name": "Jasmine (Special Costume) & Celesteela",
         "region": "johto",
         "tracker_key": "093"
     },
@@ -1958,6 +2045,13 @@
         "region": "paldea",
         "tracker_key": "224"
     },
+    "Juliana_A": {
+        "damage_types": "special",
+        "filters": "juliana-trainer normal paldea main-character free-spirit seasonal-outfit strike exr-support ex-master-fair",
+        "name": "Juliana (Anniversary 2026) & Terapagos (Tera Stellar)",
+        "region": "paldea",
+        "tracker_key": "224"
+    },
     "Juliana_Ev": {
         "damage_types": "special",
         "filters": "juliana-trainer grass paldea main-character cook free-spirit support exr-strike event",
@@ -1974,7 +2068,7 @@
     },
     "Kabu_Aca": {
         "damage_types": "physical",
-        "filters": "kabu-trainer ground galar gym-leader special-costume strike exr-field",
+        "filters": "kabu-trainer ground galar gym-leader special-costume pasio-academy strike exr-field",
         "name": "Kabu (Academy) & Camerupt",
         "region": "galar",
         "tracker_key": "206"
@@ -2077,6 +2171,13 @@
         "region": "kalos",
         "tracker_key": "049"
     },
+    "Korrina_Arc": {
+        "damage_types": "physical",
+        "filters": "korrina-trainer fighting kalos gym-leader arc-suit passionate-spirit multi exr-support arc-suit-fair",
+        "name": "Arc Suit Korrina & Lucario",
+        "region": "kalos",
+        "tracker_key": "049"
+    },
     "Korrina_Gym": {
         "damage_types": "physical",
         "filters": "korrina-trainer fighting kalos gym-leader passionate-spirit support exr-field gym-scout",
@@ -2095,6 +2196,13 @@
         "damage_types": "physical",
         "filters": "kris-trainer water johto main-character pigtails knowledgeable strike exr-none spotlight ticket",
         "name": "Kris & Feraligatr",
+        "region": "johto",
+        "tracker_key": "010"
+    },
+    "Kris_Aca": {
+        "damage_types": "physical",
+        "filters": "kris-trainer fairy johto main-character pigtails pasio-academy support exr-sprint event",
+        "name": "Kris (Academy) & Igglybuff",
         "region": "johto",
         "tracker_key": "010"
     },
@@ -2152,6 +2260,13 @@
         "damage_types": "special",
         "filters": "lana-trainer water alola trial-giver free-spirit nature-lover support exr-field gym-scout",
         "name": "Lana & Cloyster",
+        "region": "alola",
+        "tracker_key": "129"
+    },
+    "Lana_NY": {
+        "damage_types": "physical",
+        "filters": "lana-trainer dragon alola trial-giver seasonal-outfit free-spirit support exr-field shiny",
+        "name": "Lana (New Year's 2026) & Dondozo★ (Tera Dragon)",
         "region": "alola",
         "tracker_key": "129"
     },
@@ -2222,7 +2337,7 @@
     },
     "Larry_SC": {
         "damage_types": "special",
-        "filters": "larry-trainer flying paldea gym-leader special-costume elite-four",
+        "filters": "larry-trainer flying paldea gym-leader support exr-field special-costume elite-four",
         "name": "Larry (Special Costume) & Flamigo",
         "region": "paldea",
         "tracker_key": "205"
@@ -2251,7 +2366,7 @@
     },
     "Leaf_NC": {
         "damage_types": "physical special",
-        "filters": "leaf-trainer fire kanto main-character champion pallet-town tech exr-support master-fair",
+        "filters": "leaf-trainer fire kanto main-character champion pallet-town tech exr-support master-fair event",
         "name": "Leaf (Champion) & Moltres",
         "region": "kanto",
         "tracker_key": "076"
@@ -2374,14 +2489,14 @@
     "Lillie_NY": {
         "damage_types": "physical",
         "filters": "lillie-trainer bug alola seasonal-outfit seasonal-scout fancy-lady battle-partner support exr-none",
-        "name": "Lillie (New Year's 2021 & Ribombee",
+        "name": "Lillie (New Year's 2021) & Ribombee",
         "region": "alola",
         "tracker_key": "103"
     },
     "Lillie_SC": {
         "damage_types": "physical",
         "filters": "lillie-trainer ghost alola special-costume fancy-lady support exr-none",
-        "name": "Lillie (Special Costume & Polteageist",
+        "name": "Lillie (Special Costume) & Polteageist",
         "region": "alola",
         "tracker_key": "103"
     },
@@ -2392,6 +2507,14 @@
         "name": "Lillie & Comfey",
         "region": "alola",
         "tracker_key": "103"
+    },
+    "Linnea": {
+        "base_star": 3,
+        "damage_types": "special",
+        "filters": "linnea-trainer fairy kalos free-spirit tech exr-none event",
+        "name": "Linnea (Furisode Girl) & Aromatisse",
+        "region": "kalos",
+        "tracker_key": "242"
     },
     "Lisia": {
         "damage_types": "special",
@@ -2446,7 +2569,7 @@
     },
     "LtSurge": {
         "base_star": 3,
-        "damage_types": "special",
+        "damage_types": "special physical",
         "filters": "ltsurge-trainer electric kanto gym-leader sunglasses body-builder tech exr-none genpool",
         "name": "Lt. Surge & Electrode",
         "region": "kanto",
@@ -2520,7 +2643,7 @@
     },
     "Lusamine_TL": {
         "base_star": 4,
-        "filters": "lusamine-trainer water alola villain grown-woman alola-adventurer support exr-none lodge-pair",
+        "filters": "lusamine-trainer water alola villain grown-woman alola-adventurer sprint exr-none lodge-pair",
         "name": "Lusamine & Milotic",
         "region": "alola",
         "tracker_key": "101"
@@ -2542,7 +2665,7 @@
     "Lyra_SC": {
         "damage_types": "physical special",
         "filters": "lyra-trainer ground johto special-costume pigtaile pokeathlete support exr-none",
-        "name": "Lyra (Special Costume & Phanpy",
+        "name": "Lyra (Special Costume) & Phanpy",
         "region": "johto",
         "tracker_key": "066"
     },
@@ -2591,7 +2714,7 @@
     "Mallow_Pal": {
         "damage_types": "special",
         "filters": "mallow-trainer dragon alola seasonal-outfit seasonal-scout pigtails cook support exr-none",
-        "name": "Mallow (Palentine's 2023 & Appletun",
+        "name": "Mallow (Palentine's 2023) & Appletun",
         "region": "alola",
         "tracker_key": "114"
     },
@@ -2641,8 +2764,15 @@
     },
     "Marnie_Aca": {
         "damage_types": "physical",
-        "filters": "marnie-trainer dragon galar rival special-costume sprint exr-tech",
+        "filters": "marnie-trainer dragon galar rival special-costume pasio-academy sprint exr-tech",
         "name": "Marnie (Academy) & Cyclizar",
+        "region": "galar",
+        "tracker_key": "119"
+    },
+    "Marnie_Alt": {
+        "damage_types": "physical",
+        "filters": "marnie-trainer dark galar rival pigtails passionate-spirit field exr-support ex-fair",
+        "name": "Marnie (Alt.) & Grimmsnarl",
         "region": "galar",
         "tracker_key": "119"
     },
@@ -2677,7 +2807,7 @@
     "Marnie_S": {
         "damage_types": "physical",
         "filters": "marnie-trainer fairy galar rival seasonal-outfit seasonal-scout galar-adventurer tech exr-none",
-        "name": "Marnie (Summer 2021 & Grimmsnarl",
+        "name": "Marnie (Summer 2021) & Grimmsnarl",
         "region": "galar",
         "tracker_key": "119"
     },
@@ -2749,7 +2879,7 @@
     "May_Sp": {
         "damage_types": "physical",
         "filters": "may-trainer normal hoenn seasonal-outfit seasonal-scout researcher battle-partner strike exr-none",
-        "name": "May (Spring 2021 & Lopunny",
+        "name": "May (Spring 2021) & Lopunny",
         "region": "hoenn",
         "tracker_key": "113"
     },
@@ -2822,8 +2952,15 @@
     "Misty": {
         "base_star": 3,
         "damage_types": "special",
-        "filters": "misty-trainer water kanto gym-leader passionate-spirit support exr-none story",
+        "filters": "misty-trainer water kanto gym-leader passionate-spirit support exr-none story has-lodge",
         "name": "Misty & Starmie",
+        "region": "kanto",
+        "tracker_key": "003"
+    },
+    "Misty_Arc": {
+        "damage_types": "special",
+        "filters": "misty-trainer water kanto gym-leader arc-suit passionate-spirit multi exr-strike arc-fair",
+        "name": "Arc Suit Misty & Starmie",
         "region": "kanto",
         "tracker_key": "003"
     },
@@ -2842,10 +2979,18 @@
         "region": "kanto",
         "tracker_key": "003"
     },
+    "Misty_TL": {
+        "base_star": 4,
+        "damage_types": "special",
+        "filters": "misty-trainer water kanto gym-leader passionate-spirit tech exr-none lodge-pair lodge-free",
+        "name": "Misty & Golduck",
+        "region": "kanto",
+        "tracker_key": "003"
+    },
     "Molayne": {
         "base_star": 4,
         "damage_types": "physical",
-        "filters": "molayne-trainer steel alola elite-four glasses observatory-cousin strike exr-none genpool ",
+        "filters": "molayne-trainer steel alola elite-four glasses observatory-cousin strike exr-none genpool",
         "name": "Molayne & Alolan Dugtrio",
         "region": "alola",
         "tracker_key": "106"
@@ -2866,7 +3011,7 @@
     },
     "Morty_Aca": {
         "damage_types": "special",
-        "filters": "morty-trainer ghost johto gym-leader special-costume tech exr-field",
+        "filters": "morty-trainer ghost johto gym-leader special-costume pasio-academy tech exr-field",
         "name": "Morty (Academy) & Hisuian Typhlosion",
         "region": "johto",
         "tracker_key": "099"
@@ -3147,16 +3292,23 @@
         "region": "paldea",
         "tracker_key": "237"
     },
+    "Perrin_Aca": {
+        "damage_types": "physical",
+        "filters": "perrin-trainer flying paldea special-costume artistic pasio-academy sprint exr-support",
+        "name": "Perrin (Academy) & Noctowl",
+        "region": "paldea",
+        "tracker_key": "237"
+    },
     "Petey": {
         "base_star": 3,
         "damage_types": "special",
         "filters": "petey-trainer electric galar tech exr-none event",
-        "name": "Petey (Poké Kid & Pikachu",
+        "name": "Petey (Poké Kid) & Pikachu",
         "region": "galar",
         "tracker_key": "194"
     },
     "Petrel": {
-        "damage_types": "special",
+        "damage_types": "special physical",
         "filters": "petrel-trainer poison johto villain strike exr-support variety",
         "name": "Petrel & Weezing",
         "region": "johto",
@@ -3353,7 +3505,7 @@
     "Raihan_NY": {
         "damage_types": "physical special",
         "filters": "raihan-trainer ground galar gym-leader seasonal-outfit seasonal-scout scarf support exr-sprint",
-        "name": "Raihan (New Year's 2025 & Sandaconda",
+        "name": "Raihan (New Year's 2025) & Sandaconda",
         "region": "galar",
         "tracker_key": "123"
     },
@@ -3380,6 +3532,13 @@
         "region": "kanto",
         "tracker_key": "084"
     },
+    "Red_1996": {
+        "damage_types": "special",
+        "filters": "red-trainer electric kato main-character pallet-town passionate-spirit tech exr-support ex-master-fair",
+        "name": "Red (1996) & Pikachu",
+        "region": "kanto",
+        "tracker_key": "084"
+    },
     "Red_A": {
         "damage_types": "physical",
         "filters": "red-trainer dragon kanto main-character seasonal-outfit pallet-town strike exr-tech ex-master-fair",
@@ -3396,14 +3555,14 @@
     },
     "Red_NC": {
         "damage_types": "special",
-        "filters": "red-trainer ice kanto main-character champion pallet-town strike exr-tech master-fair",
+        "filters": "red-trainer ice kanto main-character champion pallet-town strike exr-tech master-fair event",
         "name": "Red (Champion) & Articuno",
         "region": "kanto",
         "tracker_key": "084"
     },
     "Red_SS": {
         "damage_types": "physical special",
-        "filters": "red-trainer fire kanto main-character sygna-suit pallet-town strike exr-tech pokefair",
+        "filters": "red-trainer fire kanto main-character sygna-suit pallet-town strike exr-tech pokefair event",
         "name": "Sygna Suit Red & Charizard",
         "region": "kanto",
         "tracker_key": "084"
@@ -3424,7 +3583,7 @@
     },
     "Rei_Aca": {
         "damage_types": "special",
-        "filters": "rei-trainer psychic sinnoh hisui main-character special-costume sprint exr-field",
+        "filters": "rei-trainer psychic sinnoh hisui main-character special-costume pasio-academy sprint exr-field",
         "name": "Rei (Academy) & Hisuian Braviary",
         "region": "hisui",
         "tracker_key": "184"
@@ -3433,6 +3592,13 @@
         "damage_types": "physical special",
         "filters": "rika-trainer ground paldea elite-four knowledgeable grown-woman support exr-field pokefair has-lodge",
         "name": "Rika & Clodsire",
+        "region": "paldea",
+        "tracker_key": "201"
+    },
+    "Rika_Pal": {
+        "damage_types": "special",
+        "filters": "rika-trainer ground paldea elite-four seasonal-outfit grown-woman strike exr-field",
+        "name": "Rika (Palentine's 2026) & Quagsire★",
         "region": "paldea",
         "tracker_key": "201"
     },
@@ -3468,7 +3634,7 @@
     },
     "Rosa_Aca": {
         "damage_types": "physical special",
-        "filters": "rosa-trainer grass unova main-character pigtails field exr-sprint event",
+        "filters": "rosa-trainer grass unova main-character pigtails pasio-academy field exr-sprint event",
         "name": "Rosa (Academy) & Deerling Spring Form",
         "region": "unova",
         "tracker_key": "039"
@@ -3476,14 +3642,14 @@
     "Rosa_H": {
         "damage_types": "physical",
         "filters": "rosa-trainer flying unova cape seasonal-outfit seasonal-scout cook support exr-none",
-        "name": "Rosa (Holiday 2019 & Delibird",
+        "name": "Rosa (Holiday 2019) & Delibird",
         "region": "unova",
         "tracker_key": "039"
     },
     "Rosa_NC": {
         "damage_types": "special",
         "filters": "rosa-trainer psychic unova main-character champion unova-adventurer support exr-sprint master-fair",
-        "name": "Rosa (Champion & Meloetta",
+        "name": "Rosa (Champion) & Meloetta",
         "region": "unova",
         "tracker_key": "039"
     },
@@ -3568,10 +3734,17 @@
         "region": "kanto",
         "tracker_key": "085"
     },
+    "Sabrina_Arc": {
+        "damage_types": "special",
+        "filters": "sabrina-trainer psychic kanto gym-leader arc-suit supernatural multi exr-field arc-suit-fair",
+        "name": "Arc Suit Sabrina & Alakazam",
+        "region": "kanto",
+        "tracker_key": "085"
+    },
     "Sabrina_NY": {
         "damage_types": "special",
         "filters": "sabrina-trainer psychic kanto seasonal-outfit seasonal-scout supernatural support exr-none",
-        "name": "Sabrina (New Year's 2022 & Chingling",
+        "name": "Sabrina (New Year's 2022) & Chingling",
         "region": "kanto",
         "tracker_key": "085"
     },
@@ -3585,7 +3758,7 @@
     "Sawyer": {
         "base_star": 4,
         "damage_types": "physical special",
-        "filters": "sawyer-trainer dark sunglasses body-builder pasio support exr-none pokefair",
+        "filters": "sawyer-trainer dark sunglasses body-builder pasio support exr-none pokefair event",
         "name": "Sawyer & Honchkrow",
         "region": "pasio",
         "tracker_key": "138"
@@ -3649,7 +3822,7 @@
     "Serena_Pal": {
         "damage_types": "special",
         "filters": "serena-trainer fairy kalos seasonal-outfit seasonal-scout sweet-tooth cook tech exr-none",
-        "name": "Serena (Palentine's 2021 & Whimsicott",
+        "name": "Serena (Palentine's 2021) & Whimsicott",
         "region": "kalos",
         "tracker_key": "096"
     },
@@ -3825,6 +3998,13 @@
         "damage_types": "physical",
         "filters": "sonia-trainer electric galar sunglasses researcher grown-woman support exr-none spotlight ticket",
         "name": "Sonia & Yamper",
+        "region": "galar",
+        "tracker_key": "144"
+    },
+    "Sonia_Aca": {
+        "damage_types": "physical",
+        "filters": "sonia-trainer steel galar special-costume sunglases pasio-academy support exr-field",
+        "name": "Sonia (Academy) & Corviknight",
         "region": "galar",
         "tracker_key": "144"
     },
@@ -4043,7 +4223,7 @@
     },
     "Victor": {
         "damage_types": "physical",
-        "filters": "victor-trainer grass galr main-character galar-adventurer strike exr-none pokefair",
+        "filters": "victor-trainer grass galar main-character galar-adventurer strike exr-none pokefair",
         "name": "Victor & Rillaboom",
         "region": "galar",
         "tracker_key": "157"
@@ -4058,7 +4238,7 @@
     "Victor_Pal": {
         "damage_types": "physical special",
         "filters": "victor-trainer normal galar main-character seasonal-outfit seasonal-scout cook support exr-tech",
-        "name": "Victor (Palentine's 2024 & Greedent",
+        "name": "Victor (Palentine's 2024) & Greedent",
         "region": "galar",
         "tracker_key": "157"
     },
@@ -4254,5 +4434,62 @@
         "name": "Zinnia (Special Costume) & Thievul",
         "region": "hoenn",
         "tracker_key": "080"
+    },
+    "Drayton": {
+        "damage_types": "special",
+        "filters": "drayton-trainer dragon paldea elite-four free-spirit blueberry-academy tech exr-strike ex-fair",
+        "name": "Drayton & Archaludon (Tera Dragon)",
+        "region": "paldea",
+        "tracker_key": "245"
+    },
+    "Kieran_SS": {
+        "damage_types": "special",
+        "filters": "kieran-trainer ice paldea rival sygna-suit blueberry-academy strike exr-sprint ex-master-fair",
+        "name": "Sygna Suit Kieran & Furret (Tera Ice)",
+        "region": "paldea",
+        "tracker_key": "234"
+    },
+    "Emmet_TL": {
+        "base_star": 4,
+        "damage_types": "physical",
+        "filters": "emmet-trainer fighting unova battle-facility-foe battle-partner tech exr-none lodge-pair",
+        "name": "Emmet & Gurdurr",
+        "region": "unova",
+        "tracker_key": "134"
+    },
+    "Hau_Mix": {
+        "damage_types": "physical",
+        "filters": "hau-trainer dark alola rival free-spirit field exr-strike mix-scout",
+        "name": "Hau & Incineroar",
+        "region": "alola",
+        "tracker_key": "054"
+    },
+    "Rika_Var": {
+        "damage_types": "physical special",
+        "filters": "rika-trainer ground paldea elite-four knowledgeable grown-woman field exr-support variety",
+        "name": "Rika & Great Tusk",
+        "region": "paldea",
+        "tracker_key": "201"
+    },
+    "Poppy_Var": {
+        "damage_types": "physical special",
+        "filters": "poppy-trainer steel paldea elite-four fancy-lady free-spirit field exr-support variety",
+        "name": "Poppy & Iron Treads",
+        "region": "paldea",
+        "tracker_key": "204"
+    },
+    "Larry_SC2": {
+        "damage_types": "physical special",
+        "filters": "larry-trainer normal paldea gym-leader special-costume elite-four field exr-support",
+        "name": "Larry (Special Costume 2) & Komala (Tera Normal)",
+        "region": "paldea",
+        "tracker_key": "205"
+    },
+    "Flannery_SC": {
+        "damage_types": "special",
+        "filters": "flannery-trainer fire hoenn gym-leader special-costume passionate-spirit sprint exr-strike",
+        "name": "Flannery (Special Costume) & Magcargo (Tera Fire)",
+        "region": "hoenn",
+        "tracker_key": "021"
     }
 }

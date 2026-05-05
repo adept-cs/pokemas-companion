@@ -236,7 +236,7 @@
             opacity: 0.2;
         }
     
-        :has(.filter-excluded) {
+        .filter-excluded {
             opacity: 1;
         }
     }
