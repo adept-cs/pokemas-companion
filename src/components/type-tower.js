@@ -41,7 +41,7 @@ const TypeTower = (type) => {
             "name": object["name"],
             "weakness": object["weakness"],
             "moves": object["moves"].map(function (move, index) { return getMoveDiv(move, index)}),
-            "passives": object["passives"].map(function (passive) { return getPassiveDiv(passive); }),
+            "passives": object["passives"] ? object["passives"].map(function (passive) { return getPassiveDiv(passive); }) : [],
             "stats": StageStats[floor][isCenter ? "center" : "sides"]
         }
     }
@@ -109,25 +109,39 @@ const TypeTower = (type) => {
             case 21:
             case 24:
             case 27:
+            case 32:
                 return "Opponents take no damage from special attacks.";
             case 16:
             case 19:
             case 22:
             case 25:
             case 28:
+            case 33:
                 return "Opponents take no damage from physical attacks.";
             case 17:
             case 23:
             case 26:
             case 29:
                 return "Opponents take no damage unless affected by a status condition or interference.";
+            case 34:
+                return "Opponents take no damage from special attacks.\nOpponents deal three times the sync move damage when they are unaffected by a status condition or interference.";
+            case 35:
+                return "Opponents take no damage from physical attacks.\nOpponents deal three times the sync move damage when they are unaffected by a status condition or interference.";
+            case 36:
+                return "Opponents take no damage from special attacks.\nOpponents deal three times the sync move damage unless their stats have been lowered by a total of 16 or more ranks.";
+            case 37:
+                return "Opponents take no damage from physical attacks.\nOpponents deal three times the sync move damage unless their stats have been lowered by a total of 16 or more ranks.";
+            case 38:
+                return "Opponents take no damage from special attacks.\nOpponents deal three times the sync move damage when their target is unaffected by effects that apply only to the allied field of play.";
+            case 39:
+                return "Opponents take no damage from physical attacks.\nOpponents deal three times the sync move damage when their target is unaffected by effects that apply only to the allied field of play.";
             default:
-                return "No rules"
+                return "No rules";
         }
     }
 
     function GetCenterTrainer(key) {
-        const trainerName = Stages[key]["center"]["name"].split("&")[0].replace("Sygna Suit", "").trim().toLowerCase();
+        const trainerName = Stages[key]["center"]["name"].split("&")[0].replace("Sygna Suit", "").replace("(Champion)", "").trim().toLowerCase();
         return `trainers/${trainerName}`;
     }
 
@@ -315,8 +329,8 @@ const TypeTower = (type) => {
                 <Collapsible header={`${type.charAt(0).toUpperCase() + type.slice(1)} Tower`} headerImage={`type/${type}`}>
                     {tower.map((item, index) => (
                         <div className="tower-floor">
-                            <Collapsible header={`Floor ${30 - index}`} headerImage={GetCenterTrainer(item + GetSuffix(30 - index))} extraStyles="no-margin">
-                                {GetStageContent(item + GetSuffix(30 - index), 30 - index, type)}
+                            <Collapsible header={`Floor ${40 - index}`} headerImage={GetCenterTrainer(item + GetSuffix(40 - index))} extraStyles="no-margin">
+                                {GetStageContent(item + GetSuffix(40 - index), 40 - index, type)}
                             </Collapsible>
                         </div>
                     ))}
