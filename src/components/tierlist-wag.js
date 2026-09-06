@@ -235,6 +235,7 @@ const TierListWAG = () => {
                 <p>This companion is based on the tierlist currently maintained by WAG. It is separated by roles for easier identification, including Multi pairs where dictated by their EX Role. An updated version of this list can always be found at <a href="https://docs.qq.com/sheet/DSWp2aXZHSUphT1lW?tab=n44aze" target="_blank">this link</a>.
                     Any tiers above the Master Ball tier on WAG's list are represented here with the shiny sparkle icon to remain concise and easy to update in the case of naming changes.
                 </p>
+                <h4>It's hit or miss whether I actually update this resource every month. If you want to see me update it more, ping me in the discord to give me the motivation to!!</h4>
                 <Collapsible header="What criteria does this tierlist use?">
                     <p>
                         This tierlist uses the following guidelines to standardize the ranking experience.

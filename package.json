@@ -9,6 +9,7 @@
     "jquery": "^3.7.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-hexgrid": "^2.0.1",
     "react-modal": "^3.16.3",
     "react-router-dom": "^7.1.1",
     "react-router-hash-link": "^2.4.3",

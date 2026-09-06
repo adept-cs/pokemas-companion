@@ -4,7 +4,6 @@ const SyncPairIcon = (key, color, borderColor = "") => {
     const pairInfo = syncPairs[key];
 
     function GetColor(id) {
-        console.log(id);
         switch (id) {
             case 0: return "black";
             case 1: return "red";
