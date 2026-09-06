@@ -30,7 +30,7 @@ const Home = () => {
                     <div className="resource-overview">
                         <h3><Link to="tierlist/wag">WAG's Tier List - Filterable</Link></h3>
                         <p>A version of WAG's tierlist with interactive filtering based on trainer, role, acquisition method, and in-game theme skills. <i>Resource originally created by WAG.</i></p>
-                        <h4>Last updated: 4 May, 2026</h4>
+                        <h4>Last updated: 6 September, 2026</h4>
                     </div>
                     <div className="resource-thumbnail">
                     </div>
